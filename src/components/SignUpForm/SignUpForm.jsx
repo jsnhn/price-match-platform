@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { signUp } from '../../utilities/users-service'
 
 export default function SignUpForm({ setUser }) {
@@ -10,6 +11,7 @@ export default function SignUpForm({ setUser }) {
         error: '',
     })
     const disable = formData.password !== formData.confirm // disable is storing true or false. if the password doesnt match then disable is true
+    const navigate = useNavigate()
 
 
     function handleChange(evt) {
@@ -45,6 +47,7 @@ export default function SignUpForm({ setUser }) {
 
             const user = await signUp(userData); // code will now stop because of await - the flow of execution will go to user services because up sighup(userdata)
             setUser(user);
+            navigate('/')
         } catch {
             setFormData({
                 ...formData,

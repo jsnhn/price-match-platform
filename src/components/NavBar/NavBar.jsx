@@ -10,12 +10,19 @@ export default function NavBar ( {user, setUser} ) {
         setUser(null) // update user state
     }
 
-    return (<nav>
-        <Link to="/orders">Order History</Link>
-        &nbsp; | &nbsp;
-        <Link to="/orders/new">New Order</Link>
-        &nbsp;&nbsp;<span>Welcome, {user.name}</span>
-        &nbsp;&nbsp;<Link to="" onClick={handleLogOut}>Log Out</Link>
+    return (
+    
+    <nav>
+    {user ? (
+        <>
+            &nbsp;&nbsp;<span>Welcome, {user.name}</span>
+            &nbsp;&nbsp;<Link to="" onClick={handleLogOut}>Log Out</Link>
+        </>
+    ) : (
+        <>
+            &nbsp;&nbsp;<Link to="/user/new">Log In</Link>
+        </>
+    )}
     </nav>
     );
 }

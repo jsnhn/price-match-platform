@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import * as usersService from '../../utilities/users-service' 
 
 
@@ -7,6 +8,7 @@ export default function LoginForm({ setUser }) {
         email: '',
         password:'',
     })
+    const navigate = useNavigate();
 
 
     function handleChange(evt) {
@@ -23,6 +25,7 @@ export default function LoginForm({ setUser }) {
         try {
             const user = await usersService.logIn(credentials) // will eventually recieve a user boject
             setUser(user) // set this to our app component. trace back to setUser. ^ if you dont use await here, it would jsut return a promise. 
+            navigate('/')
         } catch {
             setCredentials({
                 ...credentials,
