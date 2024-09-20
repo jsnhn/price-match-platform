@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Routes, Route } from 'react-router-dom' // need to import singular route as well
 import './App.css';
-import NewOrderPage from "../NewOrderPage/NewOrderPage";
 import AuthPage from "../AuthPage/AuthPage";
 import OrderHistoryPage from '../OrderHistoryPage/OrderHistoryPage';
 import NavBar from "../../components/NavBar/NavBar";
