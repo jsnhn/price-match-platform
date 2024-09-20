@@ -11,19 +11,16 @@ import SearchPage from "../SearchPage/SearchPage";
 export default function App() {
   const [user, setUser] = useState(getUser()) // setUser is transferable data
   return (
-<main className='App'>
-
-
-    <>
-    <NavBar user={user} setUser={setUser} />
-    <Routes>
-    <Route path='/' element={<SearchPage />} />
-      {/* <Route path="/user/new" element={<NewOrderPage />} />   */}
-      <Route path="/user/new" element={<AuthPage setUser={setUser} />} />
-    </Routes>
-    </>
-
-</main>
+    <main className='App'>
+      <>
+        <NavBar user={user} setUser={setUser} />
+        <Routes>
+          <Route path='/' element={<SearchPage />} />
+          {/* <Route path="/user/new" element={<NewOrderPage />} />   */}
+          <Route path="/user/new" element={<AuthPage setUser={setUser} />} />
+        </Routes>
+      </>
+    </main>
   );
 }
 
