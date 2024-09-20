@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import * as searchItems from '../../utilities/search-api'
 
 export default function SearchForm () {
     const [searchData, setSearchData] = useState({
@@ -13,12 +14,21 @@ export default function SearchForm () {
         });
     }
 
+    const handleSubmit = async (evt) => {
+        evt.preventDefault();
+        try {
+            const results = await searchItems(searchData.searchText)
+            console.log('Search Results:', results)
+        } catch (err) {
+            console.log (err)
+        }
+    }
 
     return (
         <div>
-            <form>
+            <form onSubmit={handleSubmit}>
                 <input type="text"  name="searchText"  value={searchData.searchText}  onChange={handleChange} required />
-                <button type="submit ">Search</button>
+                <button type="submit">Search</button>
             </form>
         </div>
     )
