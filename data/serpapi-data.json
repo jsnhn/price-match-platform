@@ -1,0 +1,943 @@
+{
+    "search_metadata": {
+        "id": "66f474ca9f8bfc6c15f97948",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/837a18cf3f8ab902/66f474ca9f8bfc6c15f97948.json",
+        "created_at": "2024-09-25 20:38:34 UTC",
+        "processed_at": "2024-09-25 20:38:34 UTC",
+        "google_url": "https://www.google.com/search?q=guitars&oq=guitars&hl=en&gl=us&num=5&safe=active&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/837a18cf3f8ab902/66f474ca9f8bfc6c15f97948.html",
+        "total_time_taken": 2
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "guitars",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "safe": "active",
+        "num": "5",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "guitars",
+        "total_results": 1380000000,
+        "time_taken_displayed": 0.38,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "shopping_results": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Gibson Les Paul Standard '60s Electric Guitar - Unburst",
+            "price": "$2,799.00",
+            "extracted_price": 2799,
+            "link": "https://www.sweetwater.com/store/detail/LPS6UBNH--gibson-les-paul-standard-60s-unburst",
+            "source": "Sweetwater",
+            "shipping": "Free by 10/1",
+            "rating": 4.9,
+            "reviews": 352,
+            "reviews_original": "352",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/c2522d2dae08674e8d6248ccd8d35d2390582252fa115e3f00c1461390b58080.webp",
+            "extensions": [
+                "30-day returns",
+                "Free by 10/1",
+                "Attractive",
+                "Good sound quality",
+                "Well made",
+                "Comfortable to use"
+            ]
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "Fender Player Stratocaster HSS Plus Top Maple Fingerboard Limited-Edition Electric Guitar Blue Burst",
+            "price": "$599.99",
+            "extracted_price": 599.99,
+            "old_price": "$750",
+            "extracted_old_price": 750,
+            "link": "https://www.guitarcenter.com/Fender/Player-Stratocaster-HSS-Plus-Top-Maple-Fingerboard-Limited-Edition-Electric-Guitar-Blue-Burst-1500000257004.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA",
+            "source": "Guitar Center",
+            "shipping": "Free by 10/3",
+            "rating": 4.5,
+            "reviews": 251,
+            "reviews_original": "251",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/c2522d2dae08674e8d6248ccd8d35d23e472956184e21a15c18681d90c425853.webp",
+            "extensions": [
+                "Sale",
+                "45-day returns (most)",
+                "Free by 10/3",
+                "Attractive",
+                "Comfortable to use",
+                "Good sound quality",
+                "Well made"
+            ]
+        },
+        {
+            "position": 3,
+            "block_position": "top",
+            "title": "PRS Private Stock Modern Eagle V \"Curly Maple\" - Blood Red Glow",
+            "price": "$15,715.00",
+            "extracted_price": 15715,
+            "link": "https://www.palenmusic.com/products/prs-private-stock-modern-eagle-v-curly-maple-blood-red-glow?variant=45571666280705&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+            "source": "Palen Music Center",
+            "shipping": "Free by 10/3",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/c2522d2dae08674e8d6248ccd8d35d23f04d300c435668a04431d6e639f479a0.webp",
+            "extensions": [
+                "Free returns (most)",
+                "Free by 10/3",
+                "PRS",
+                "Red",
+                "6-string"
+            ]
+        },
+        {
+            "position": 4,
+            "block_position": "top",
+            "title": "Martin D-45 Modern Deluxe Acoustic Guitar Natural",
+            "price": "$10,499.00",
+            "extracted_price": 10499,
+            "link": "https://www.themusiczoo.com/products/martin-d-45-modern-deluxe-acoustic-guitar-natural?variant=39980244009039&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+            "source": "The Music Zoo",
+            "shipping": "Free by 10/2",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/c2522d2dae08674e8d6248ccd8d35d237eb90bc21133d188554bf742d1342d01.webp",
+            "extensions": [
+                "Free by 10/2",
+                "Acoustic",
+                "Martin",
+                "Ebony",
+                "6-string"
+            ]
+        }
+    ],
+    "local_map": {
+        "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=guitars&npsic=0&rflfq=1&rldoc=1&rllag=25707018,-80315493,2179&tbm=lcl&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQtgN6BAgmEAI",
+        "image": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/6b0a6fcaff71542853e513f7a2c3ac9f.png",
+        "gps_coordinates": {
+            "latitude": 25.707018,
+            "longitude": -80.315493
+        }
+    },
+    "local_results": {
+        "places": [
+            {
+                "position": 1,
+                "rating": 4.8,
+                "reviews_original": "(161)",
+                "reviews": 161,
+                "description": "\"The guitar was shipped the same day and arrived in perfect condition.\"",
+                "lsig": "AB86z5UDkrWciY3d_97frQsqznnB",
+                "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/f1607d36c13d7803df70e6115bf62fa1e468c256b815c5049aa825ba58adecbb0182e424f7d0266e.jpeg",
+                "title": "Miami Guitars",
+                "type": "Guitar store",
+                "phone": "(305) 364-5747",
+                "address": "Miami, FL",
+                "hours": "Open ⋅ Closes 6 PM",
+                "place_id": "6304855778969329410",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6304855778969329410&num=5&q=guitars&safe=active",
+                "gps_coordinates": {
+                    "latitude": 25.726053,
+                    "longitude": -80.31029
+                }
+            },
+            {
+                "position": 2,
+                "rating": 4.2,
+                "reviews_original": "(1.4K)",
+                "reviews": 1400,
+                "description": "\"Great staff and an amazing selection of guitars and drums!\"",
+                "lsig": "AB86z5UnBMO4Bi6znag5m1JSooyb",
+                "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/f1607d36c13d7803df70e6115bf62fa1c48446d71dde9611101e602709eaee69f5d0ed364e7956be.jpeg",
+                "title": "Guitar Center",
+                "type": "Musical instrument store",
+                "phone": "(305) 271-2600",
+                "address": "Kendall, FL",
+                "hours": "Open ⋅ Closes 9 PM",
+                "place_id": "5938014531042247733",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=5938014531042247733&num=5&q=guitars&safe=active",
+                "gps_coordinates": {
+                    "latitude": 25.687983,
+                    "longitude": -80.320694
+                }
+            }
+        ],
+        "more_locations_link": "https://www.google.com/search?safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&tbs=lf:1,lf_ui:10&tbm=lcl&q=guitars&rflfq=1&num=10&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQjGp6BAglEAE"
+    },
+    "inline_images": [
+        {
+            "source": "https://www.taylorguitars.com/guitars/acoustic/features/series/100",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAo3cxIOxD1Xqi7PplPkr7NnfkNzBjc6h2amYDqqBQAuwAtaCVPWvAC2uqRg&s",
+            "original": "https://www.taylorguitars.com/sites/default/files/images/2024-03/100Series_1024x1181.jpg",
+            "title": "100 Series Guitars | Taylor Guitars",
+            "source_name": "Taylor Guitars"
+        },
+        {
+            "source": "https://www.washburn.com/instrument-type/acoustic-guitars/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDR4sT3yh46uJ-XmBJCse1BR25SvF47neFKgBgozRaIXUHfTpHrQYdUS-vQ&s",
+            "original": "https://www.washburn.com/wp-content/uploads/2018/06/AG70CE-FRONT.png",
+            "title": "Washburn Guitars",
+            "source_name": "Washburn Guitars"
+        },
+        {
+            "source": "https://www.macmarr.com/guitars/all-guitars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQWwP8a3wcgylwskkIdymfFhClOMlu71DFcyV1aR30GsaBWgQs-wv2viAAQ&s",
+            "original": "https://www.macmarr.com/sites/default/files/styles/300wide/public/media/product/images/aap_1268-edit_0.jpg?itok=08q5C5xP",
+            "title": "Our Solid Wood Acoustic Guitars | MACKENZIE AND MARR GUITARS",
+            "source_name": "MacKenzie & Marr Guitars"
+        },
+        {
+            "source": "https://www.prestigeguitars.com/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_XrOWKYGc_JFLS1WNt3hgRZ9D5s5B9L50s0r48AZgqVY0n0YA58rLufAZA&s",
+            "original": "https://www.prestigeguitars.com/wp-content/uploads/2024/03/master-built-heritage-elite-trio.jpg",
+            "title": "Prestige Guitars Ltd. | Electric, Acoustic & Bass Guitars ...",
+            "source_name": "www.prestigeguitars.com"
+        },
+        {
+            "source": "https://www.invaluable.com/blog/iconic-guitars/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMCQyM-1OZ02F7GL3TFeLKDwIRVItPfcBpv-GYayV782iEU9ApKmJd8194A&s",
+            "original": "https://www.invaluable.com/blog/wp-content/uploads/sites/77/2017/10/guitar-compendium-hero-2X.jpg",
+            "title": "A Compendium of Iconic Guitars by Genre - Invaluable",
+            "source_name": "Invaluable.com"
+        },
+        {
+            "source": "https://www.dreamguitars.com/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvnLQB3YLJBXYm0JVLenIro4Ap00P0tZOKwonoeFXGoy1nxb5-_TQyhkgCw&s",
+            "original": "https://cdn.dreamguitars.com/2023/12/somogyi-jumbo-brazilian-rosewood-sitka-spruce-1.jpg",
+            "title": "Finest Guitars and String Instruments in the World | Dream ...",
+            "source_name": "www.dreamguitars.com"
+        },
+        {
+            "source": "https://www.guitarfetish.com/Slick-Guitars_c_496.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5VFpSacSCMkjCgHkZnGmsYfSvLB5huPiNkY4G3yINcdhmFLRpqr1XoY75w&s",
+            "original": "https://www.guitarfetish.com/assets/images/GIFBanner/Slick_Guitar_Lineup.jpg",
+            "title": "Slick Guitars",
+            "source_name": "Guitarfetish"
+        },
+        {
+            "source": "https://www.amazon.com/Guitar-Family-Trees-History-Guitars/dp/0785842071",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUNl1iG1QNtKlKjzH3S4iA71TgErHFWzSPpWJ0LproBNvvyEoVuey0ftTwA&s",
+            "original": "https://m.media-amazon.com/images/I/810pj+wTa0L._AC_UF1000,1000_QL80_.jpg",
+            "title": "Guitar Family Trees: The History of the World's Most Iconic Guitars",
+            "source_name": "Amazon.com"
+        },
+        {
+            "source": "https://breedlovemusic.com/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPnMT7owxxxW9K3RuY-27DMKV7Ml3ZtxeCsMwB4MiQ3hKN4sDcXl_tB2Cvw&s",
+            "original": "https://breedlovemusic.com/wp-content/uploads/2020/02/SUMMER-NAMM-BEST-IN-SHOW-USA-SERIES-ACOUSTIC-GUITARS_3000x1390-scaled.jpg",
+            "title": "Handmade Acoustic Guitars: Best Custom Designs & Sound ...",
+            "source_name": "breedlovemusic.com"
+        }
+    ],
+    "immersive_products": [
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDGZiYl91Z86RRahEAia24DayNMYD-k2Ris88hMDm7TuLTiHHWW1dG3Y6arNIzwK68cISnF3xV2ZWlm7UQ55b3bZo2j98HxlPvRjsBMTrjvCAVFMDWNAoq",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Best Choice Products Beginner Acoustic Guitar Starter Kit",
+            "rating": 4,
+            "reviews": 811,
+            "price": "$49.99",
+            "extracted_price": 49.99,
+            "original_price": "$65",
+            "extracted_original_price": 65,
+            "delivery": "Free delivery",
+            "extensions": [
+                "23% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwODQyNjEzNTA0NDgxNDQyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzMTA3OTU2MDk5MDYxOTQ5NDciLCJpbWFnZURvY2lkIjoiMjIzMTY5MjcyMjIzOTIzMDQwMiIsInJkcyI6IlBDXzQwMTU1MTE0MTUyMDIzMjc0MTZ8UFJPRF9QQ180MDE1NTExNDE1MjAyMzI3NDE2IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwODQyNjEzNTA0NDgxNDQyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzMTA3OTU2MDk5MDYxOTQ5NDciLCJpbWFnZURvY2lkIjoiMjIzMTY5MjcyMjIzOTIzMDQwMiIsInJkcyI6IlBDXzQwMTU1MTE0MTUyMDIzMjc0MTZ8UFJPRF9QQ180MDE1NTExNDE1MjAyMzI3NDE2IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5kZK-lKrjPFG7sbhsGQlUEZuhD6QYKwJ1L7BiKSXOb-_0WikJd4KVbmageK_77FnML11K3IgEj4ZXjEW10icluQ4GkeVmxcf9j3CaBoq0TyxCY2TLAuk",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTmoZYP9Z_ry3jFAAztYGtQhM8Cm7j5nWhhYbnZqHyghCdnTpXwBIsGMX7SyhReEhExBIduGlRDqMdnOe13rev-EgrPlz79oX0nsw",
+            "source": "Firefly Guitar",
+            "title": "Promotion! Firefly Super FFST MODEL ELECTRIC GUITARS (Matte Black Color)BKM",
+            "price": "$159.91",
+            "extracted_price": 159.91,
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiMTIwOTIxMjY1OTQwNTkwODE2NzQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDkyMTI2NTk0MDU5MDgxNjc0IiwiaW1hZ2VEb2NpZCI6Ijc2MTc1MzA5ODI1NDgxNjE3NjUiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiMTIwOTIxMjY1OTQwNTkwODE2NzQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDkyMTI2NTk0MDU5MDgxNjc0IiwiaW1hZ2VEb2NpZCI6Ijc2MTc1MzA5ODI1NDgxNjE3NjUiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxm_aRALDPTYxPi0wgK_gBF6AXzVCknNblL9x7eQaiZWUd6DhtKFPRUiqHApHNVbpgqzaEAHeL-HjQgjA59BiewMi1SCg3aHgK2Ndu_HM",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+            "source": "Guitar Center",
+            "title": "Yamaha F335 Acoustic Guitar",
+            "rating": 4.6,
+            "reviews": 300,
+            "price": "$149.99",
+            "extracted_price": 149.99,
+            "original_price": "$190",
+            "extracted_original_price": 190,
+            "delivery": "Free by 10/3",
+            "extensions": [
+                "21% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1NTU4NTgxMjUxMDIyMjU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ0ODA3NDQ5ODMyNzY0Mzc2MzMiLCJpbWFnZURvY2lkIjoiMjA4NzQ5NDAyOTk2OTk0NDA4MCIsInJkcyI6IlBDXzQ3NDY3NzA1OTUwOTYwMzAwMTV8UFJPRF9QQ180NzQ2NzcwNTk1MDk2MDMwMDE1IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1NTU4NTgxMjUxMDIyMjU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ0ODA3NDQ5ODMyNzY0Mzc2MzMiLCJpbWFnZURvY2lkIjoiMjA4NzQ5NDAyOTk2OTk0NDA4MCIsInJkcyI6IlBDXzQ3NDY3NzA1OTUwOTYwMzAwMTV8UFJPRF9QQ180NzQ2NzcwNTk1MDk2MDMwMDE1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReOiLDQfQ2O6aDA0lIDeEnpGkIHDwpTAqcOeOVs_U67tKj-405NbllZRd42rlDuzkp1WHSn7GyGUC6sSPFP3QYRkus85XROqh_Wxstu6A",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+            "source": "Target",
+            "title": "Rogue Rocketeer Electric Guitar",
+            "rating": 4.3,
+            "reviews": 578,
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "original_price": "$130",
+            "extracted_original_price": 130,
+            "delivery": "Free 3-day",
+            "extensions": [
+                "23% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTMyNjIwMzE3NjI5NjU0NjgiLCJpbWFnZURvY2lkIjoiNjY5NDY0NTE5NDc5MjAwMDU1MyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTMyNjIwMzE3NjI5NjU0NjgiLCJpbWFnZURvY2lkIjoiNjY5NDY0NTE5NDc5MjAwMDU1MyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkIJKwV0s8HOooZev_hiq-0yEhyw9xGm32e_zoRu7R6CtDkPZjHtskGZyN47-aLKnuSJ4zbz474YFa_I-CeOlhu1oWsVkDEr6t5Ca4ily2hE1ODwajZ3Y82Q",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR9s3vjmi5sOprg9AgaXnqeOfhfOUnh4h7Zdtp4LUdNSQNRraWlFzFO-9o4KS2PFDk9iH6p6oV6wLOxf1TSnRDUOJa7cE02LA",
+            "source": "Gibson.com",
+            "title": "Gibson Victory Figured Top Electric Guitar",
+            "price": "$2,499.00",
+            "extracted_price": 2499,
+            "delivery": "Free by 10/4",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4ODM4NjMzNzkzNTcxODM1NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NzA2NzQyMTI4MzI0NjA1MDciLCJpbWFnZURvY2lkIjoiMTE3NzI1NTA1OTY4MjQwNDU5MTUiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4ODM4NjMzNzkzNTcxODM1NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NzA2NzQyMTI4MzI0NjA1MDciLCJpbWFnZURvY2lkIjoiMTE3NzI1NTA1OTY4MjQwNDU5MTUiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRic6nZ4L4a_Em1CRzIdyBDXTFaEuGpIILUF4Z_joKHKcPmF_Wgfx69lYv400txgXwP-D0uaZddmvritj2FlO5PlxDW-GP0a6UKbmWX2YqbBvI2eEXakPZ5",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Best Choice Products 39in Full Size Beginner Electric Guitar Starter Kit w/Case, Strap, 10W Amp, Strings, Pick, Tremolo Bar - Hollywood Blue",
+            "rating": 4.3,
+            "reviews": 399,
+            "price": "$139.99",
+            "extracted_price": 139.99,
+            "original_price": "$160",
+            "extracted_original_price": 160,
+            "delivery": "Free delivery",
+            "extensions": [
+                "12% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImltYWdlRG9jaWQiOiIzMjM3NTAzNjQwMDk3Nzg0OTYyIiwicmRzIjoiUENfMTAwMjE1MTUxNzMxMTM1MDcyNnxQUk9EX1BDXzEwMDIxNTE1MTczMTEzNTA3MjYiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImltYWdlRG9jaWQiOiIzMjM3NTAzNjQwMDk3Nzg0OTYyIiwicmRzIjoiUENfMTAwMjE1MTUxNzMxMTM1MDcyNnxQUk9EX1BDXzEwMDIxNTE1MTczMTEzNTA3MjYiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1uk9dW6PvNA5Truu_m6gIhrib1hKT0sD8X3JFQZzk9N_Vt4x-aJ7iC7w5PPsHosFHM77MqM7iYtUpyLNTOc0ur7jQryuwLHvgu8ytavJBqgLfZkY1K0q5",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTkFK87iP5fDat744O_NB1mBh441YMEaQroHnIozFbT4rRZHYkJ8zvPa9nKHckSu9cDgTiAs4fgZM5-QBew9Q40RRdAUBD-7bvYMSjb0w",
+            "source": "Martin Guitar",
+            "title": "Martin LX1 Acoustic Guitar",
+            "rating": 4.8,
+            "reviews": 244,
+            "price": "$449.00",
+            "extracted_price": 449,
+            "delivery": "Free by 10/2",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjQ5NTQ3OTM0MjQ5Mzk0NTc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM0NDI2MTg1NDcxNzE1NDUyOTkiLCJpbWFnZURvY2lkIjoiNzczODAzNTMwNDYzOTEyMzk0MyIsInJkcyI6IlBDXzE3MTE1NzU2MjY3NjQ5NTAxMDQ0fFBST0RfUENfMTcxMTU3NTYyNjc2NDk1MDEwNDQiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjQ5NTQ3OTM0MjQ5Mzk0NTc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM0NDI2MTg1NDcxNzE1NDUyOTkiLCJpbWFnZURvY2lkIjoiNzczODAzNTMwNDYzOTEyMzk0MyIsInJkcyI6IlBDXzE3MTE1NzU2MjY3NjQ5NTAxMDQ0fFBST0RfUENfMTcxMTU3NTYyNjc2NDk1MDEwNDQiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQVPsk9B0wEsk-PO5ZBbkEz_eURUIgnbT4pJRAeUuURoMy12Al8MR57wmHvij3kaGag8Imr5PRrdGT8FdgvPZ7FtMt1DT3gmnV7-Ss-M-Q",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+            "source": "Guitar Center",
+            "title": "Gibson Les Paul Studio Electric Guitar",
+            "rating": 4.7,
+            "reviews": 1200,
+            "price": "$1,699.00",
+            "extracted_price": 1699,
+            "delivery": "Free by 10/3",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4OTI5ODczMDQyMDYwNjk5NzEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3MzYwNjcxNDQ2MTI2NzcyODUiLCJpbWFnZURvY2lkIjoiMTU2Mzc4NDgyNTc2NzAxMTY4IiwicmRzIjoiUENfNTk0MTI4MDc2NjIyMDk5ODY0M3xQUk9EX1BDXzU5NDEyODA3NjYyMjA5OTg2NDMiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4OTI5ODczMDQyMDYwNjk5NzEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3MzYwNjcxNDQ2MTI2NzcyODUiLCJpbWFnZURvY2lkIjoiMTU2Mzc4NDgyNTc2NzAxMTY4IiwicmRzIjoiUENfNTk0MTI4MDc2NjIyMDk5ODY0M3xQUk9EX1BDXzU5NDEyODA3NjYyMjA5OTg2NDMiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRic6nZ4L4a_Em1CRzIdyBDXTFaEuGpIILUF4Z_joKHKcPmF_Wgfx69lYv400txgXwP-D0uaZddmvritj2FlO5PlxDW-GP0a6UKbmWX2YqbBvI2eEXakPZ5",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Best Choice Products 39in Full Size Beginner Electric Guitar Starter Kit w/Case, Strap, 10W Amp, Strings, Pick, Tremolo Bar - Hollywood Blue",
+            "rating": 4.3,
+            "reviews": 399,
+            "price": "$139.99",
+            "extracted_price": 139.99,
+            "original_price": "$160",
+            "extracted_original_price": 160,
+            "delivery": "Free delivery",
+            "extensions": [
+                "12% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImltYWdlRG9jaWQiOiIzMjM3NTAzNjQwMDk3Nzg0OTYyIiwicmRzIjoiUENfMTAwMjE1MTUxNzMxMTM1MDcyNnxQUk9EX1BDXzEwMDIxNTE1MTczMTEzNTA3MjYiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEyNTYyNjc2NTIwNzI4NzYwNCIsImltYWdlRG9jaWQiOiIzMjM3NTAzNjQwMDk3Nzg0OTYyIiwicmRzIjoiUENfMTAwMjE1MTUxNzMxMTM1MDcyNnxQUk9EX1BDXzEwMDIxNTE1MTczMTEzNTA3MjYiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdyQTcRcqur5vP5kwJs497IA92pxL59A6BcLBV2FugxdTSQk1QNdNbEFtaR3NxEAPBusfhKBG_GuHDzexG8auMwUlQqDH8mXAXFj6ooJo",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk_exPdub5NztK4F83xLKPzFu5Qwo-Bn9GqutDARDNr-9jk5wGa4eZcLLa-Xsz0XXdAUUlJdE8f6o8MxUp1tu2Mr3g3DApCOaIz82M20BzXQ",
+            "source": "Musicians Friend",
+            "title": "Rogue RD80 Acoustic Guitar",
+            "rating": 4.4,
+            "reviews": 219,
+            "price": "$59.99",
+            "extracted_price": 59.99,
+            "original_price": "$110",
+            "extracted_original_price": 110,
+            "delivery": "Free by 10/2",
+            "extensions": [
+                "45% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1Mjc0NjAxNDkxMDQ4MDY1NDMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNzgwOTYwNjUxNDg1NDI0MTUiLCJpbWFnZURvY2lkIjoiMTMwMzc2MDI3MTE0NTY2Njc4NzciLCJyZHMiOiJQQ18xMTA0ODQ1MTY3MDcwNzUyNzEyOHxQUk9EX1BDXzExMDQ4NDUxNjcwNzA3NTI3MTI4IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1Mjc0NjAxNDkxMDQ4MDY1NDMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNzgwOTYwNjUxNDg1NDI0MTUiLCJpbWFnZURvY2lkIjoiMTMwMzc2MDI3MTE0NTY2Njc4NzciLCJyZHMiOiJQQ18xMTA0ODQ1MTY3MDcwNzUyNzEyOHxQUk9EX1BDXzExMDQ4NDUxNjcwNzA3NTI3MTI4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCdJUOIQ5rSgXlKGRLofHu0NsgT7blWKeT5zyD6SnEbm9j_qVNL6vyg4iWDOIaxe2JBK4TJ39LSVwBu8eU4_CMbtQ4BfHugNRNChp1dDuvc_5wWWzqQgaa5Q",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRPjAlpAbWNqxNq2wUoUpJqJ_PjnxRuSuj9ToVWrreAWJNmGb9LsehIX5wv3gUUvDN4CBKiDj-R1pYsvZrag0RIdwamsHG8zlNbkQ",
+            "source": "Lava Music",
+            "title": "Lava Music ME 3 Acoustic-Electric Guitar With Space Bag",
+            "rating": 4.7,
+            "reviews": 65,
+            "price": "$449.00",
+            "extracted_price": 449,
+            "original_price": "Was $599",
+            "extracted_original_price": 599,
+            "delivery": "Free delivery",
+            "extensions": [
+                "25% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjcxNjI4OTEwNzE4Njg1OTk5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODY5MjAwNzkxMzA1NDM2NjUiLCJpbWFnZURvY2lkIjoiMTQwNjg2ODI5ODU3NDY3NjAxNiIsInJkcyI6IlBDXzE5ODQwMDk3NDM4NTU5OTgwODJ8UFJPRF9QQ18xOTg0MDA5NzQzODU1OTk4MDgyIiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjcxNjI4OTEwNzE4Njg1OTk5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODY5MjAwNzkxMzA1NDM2NjUiLCJpbWFnZURvY2lkIjoiMTQwNjg2ODI5ODU3NDY3NjAxNiIsInJkcyI6IlBDXzE5ODQwMDk3NDM4NTU5OTgwODJ8UFJPRF9QQ18xOTg0MDA5NzQzODU1OTk4MDgyIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1IoyO6gZSaabBD7Q5nr7ve48juzYXVsWNafo0NTDRYCAr7xCLogDFBNeuY-uxqH5cn8HUJjJ0HgQ8lipkiNkp9SZNB84PeGsqVSZhdqhG",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+            "source": "Guitar Center",
+            "title": "Epiphone 1959 Les Paul Standard Electric Guitar",
+            "rating": 4.8,
+            "reviews": 234,
+            "price": "$749.00",
+            "extracted_price": 749,
+            "original_price": "$999",
+            "extracted_original_price": 999,
+            "delivery": "Free by 10/3",
+            "extensions": [
+                "25% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMzY0NDEyMTg2MzAyODMxMjEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTk0NjQ4Nzg3NDg4NjMxODQwIiwiaW1hZ2VEb2NpZCI6IjE2Njg4ODY4MDU4MTAzMDc1OTcyIiwicmRzIjoiUENfNDExNDIxMzUyNDM3MTg0NTc1OXxQUk9EX1BDXzQxMTQyMTM1MjQzNzE4NDU3NTkiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMzY0NDEyMTg2MzAyODMxMjEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTk0NjQ4Nzg3NDg4NjMxODQwIiwiaW1hZ2VEb2NpZCI6IjE2Njg4ODY4MDU4MTAzMDc1OTcyIiwicmRzIjoiUENfNDExNDIxMzUyNDM3MTg0NTc1OXxQUk9EX1BDXzQxMTQyMTM1MjQzNzE4NDU3NTkiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQiaNilQQC6LvPRMKMKG4JpBf5Gs7Y1fS8xCsl3gVdFzNPQIAHMF83BlXIHgNzgm2q15mZKCoC6VFvOSwCaPflW3WIOF-dW5t9XSF4OT5meWywzwhbnyScN",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu7prefiWK_9aeR52iM1ELj5kzXwplMELdhwd-SLGrnHFu-1rYr5a923LrfwJBoCzLHFCevret0bypkEGIOPLpMsq-aVMtOA",
+            "source": "Walmart - Best Choice Products",
+            "title": "Best Choice Products 41in Full Size Beginner Acoustic Guitar",
+            "rating": 4.3,
+            "reviews": 584,
+            "price": "$94.99",
+            "extracted_price": 94.99,
+            "original_price": "$150",
+            "extracted_original_price": 150,
+            "delivery": "Free delivery",
+            "extensions": [
+                "36% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2NzA1NzI3MzgwODI4NjEzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDYwOTg4NDQwMjM5MTM2OTcxMCIsImltYWdlRG9jaWQiOiIxMjc5NTQ3Nzg3ODg0MTQ3NzQ2NCIsInJkcyI6IlBDXzE3MzU2MjMwMzkzMzA3NTQ0MzY3fFBST0RfUENfMTczNTYyMzAzOTMzMDc1NDQzNjciLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2NzA1NzI3MzgwODI4NjEzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDYwOTg4NDQwMjM5MTM2OTcxMCIsImltYWdlRG9jaWQiOiIxMjc5NTQ3Nzg3ODg0MTQ3NzQ2NCIsInJkcyI6IlBDXzE3MzU2MjMwMzkzMzA3NTQ0MzY3fFBST0RfUENfMTczNTYyMzAzOTMzMDc1NDQzNjciLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReOiLDQfQ2O6aDA0lIDeEnpGkIHDwpTAqcOeOVs_U67tKj-405NbllZRd42rlDuzkp1WHSn7GyGUC6sSPFP3QYRkus85XROqh_Wxstu6A",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+            "source": "Target",
+            "title": "Rogue Rocketeer Electric Guitar",
+            "rating": 4.3,
+            "reviews": 578,
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "original_price": "$130",
+            "extracted_original_price": 130,
+            "delivery": "Free 3-day",
+            "extensions": [
+                "23% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTMyNjIwMzE3NjI5NjU0NjgiLCJpbWFnZURvY2lkIjoiNjY5NDY0NTE5NDc5MjAwMDU1MyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTMyNjIwMzE3NjI5NjU0NjgiLCJpbWFnZURvY2lkIjoiNjY5NDY0NTE5NDc5MjAwMDU1MyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQn_GMa68IZBPQfnWl5RGGAeVofvW5GTqQntuqOg9cWOnL511SCbizi-4URfSNRimul7BOshwS_2C6k9li2aEPPt6qFm9kzxnwlPEZTXcl0rFHLqUjckHOU",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Best Choice Products 38in Beginner All Wood Acoustic Guitar Starter Kit w/Gig Bag",
+            "rating": 4.1,
+            "reviews": 1100,
+            "price": "$49.99",
+            "extracted_price": 49.99,
+            "original_price": "$65",
+            "extracted_original_price": 65,
+            "delivery": "Free delivery",
+            "extensions": [
+                "23% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDMwNjczODcxNjczMzU4MDQ2MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1NDUxNTc1NjA2MTcxOTQyMzEiLCJpbWFnZURvY2lkIjoiMTMyNzMxNDA1NTA2Mzk1MTIzOTIiLCJyZHMiOiJQQ18xNTA2NjE1NjM4Nzc1MjkzMjQ4NXxQUk9EX1BDXzE1MDY2MTU2Mzg3NzUyOTMyNDg1IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDMwNjczODcxNjczMzU4MDQ2MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1NDUxNTc1NjA2MTcxOTQyMzEiLCJpbWFnZURvY2lkIjoiMTMyNzMxNDA1NTA2Mzk1MTIzOTIiLCJyZHMiOiJQQ18xNTA2NjE1NjM4Nzc1MjkzMjQ4NXxQUk9EX1BDXzE1MDY2MTU2Mzg3NzUyOTMyNDg1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "Deals on Guitars",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4W8FIw6MjBbNkRBiB4rGQkpgiDyL2G7Zm2fESHxNPFmEuVzBHVotPVugKle03J7yXDP2QtzF2N0QBLU_3Itrg4Xf5tiWp3wXVd5aQMqKt",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk_exPdub5NztK4F83xLKPzFu5Qwo-Bn9GqutDARDNr-9jk5wGa4eZcLLa-Xsz0XXdAUUlJdE8f6o8MxUp1tu2Mr3g3DApCOaIz82M20BzXQ",
+            "source": "Musicians Friend",
+            "title": "Yamaha F335 Acoustic Guitar",
+            "rating": 4.6,
+            "reviews": 300,
+            "price": "$149.99",
+            "extracted_price": 149.99,
+            "original_price": "$190",
+            "extracted_original_price": 190,
+            "delivery": "Free by 10/2",
+            "extensions": [
+                "21% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1NTU4NTgxMjUxMDIyMjU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1MjE2MzI2NzI5NzgyNjY5MTciLCJpbWFnZURvY2lkIjoiMTA3MjM3NTY0NjQ2MjM1NDEwMjEiLCJyZHMiOiJQQ180NzQ2NzcwNTk1MDk2MDMwMDE1fFBST0RfUENfNDc0Njc3MDU5NTA5NjAzMDAxNSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1NTU4NTgxMjUxMDIyMjU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1MjE2MzI2NzI5NzgyNjY5MTciLCJpbWFnZURvY2lkIjoiMTA3MjM3NTY0NjQ2MjM1NDEwMjEiLCJyZHMiOiJQQ180NzQ2NzcwNTk1MDk2MDMwMDE1fFBST0RfUENfNDc0Njc3MDU5NTA5NjAzMDAxNSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpgI_GTm71l9KLaatMvEScumSTwXMHBpR0AubIrbOgpmfP4EckinM2DqWeM7nQTA4DIjGlZjl1a1QlCjvjLidn9UiTGBCxDv5SJO7ofiQ",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcREiNrYCEceDhoruoXeUbo4PHkVerXBc2cPiYeYeRpCluW14efvzYSURwSQXe9k1JXhFa8mf_nFWqP1AZERlQwOqvXEw-AwQerLX7gA",
+            "source": "Eastwood Guitars",
+            "title": "Rivolta Guitars Duocata Metallic",
+            "price": "$1,399.00",
+            "extracted_price": 1399,
+            "delivery": "Free by 10/7",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwMDc0MTQ5MzY3OTIzMjQxNjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY0NjUwOTA4MTE0NjQ4OTE5MTYiLCJpbWFnZURvY2lkIjoiMTAyMzQ3NTY5NzMyNjUzNzkwNDMiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwMDc0MTQ5MzY3OTIzMjQxNjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY0NjUwOTA4MTE0NjQ4OTE5MTYiLCJpbWFnZURvY2lkIjoiMTAyMzQ3NTY5NzMyNjUzNzkwNDMiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYg1d8VpzbJQfGKvJoYZt4-ya5uiVpCj1Pplt3X3VTX9T00p8Pxp90J5lMM0Yp9xB40Bl1688RzjWaK2zPMkVZkZ_nIzLQmMTA7if4XKSp1-pLBf4PPejK7Q",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR9s3vjmi5sOprg9AgaXnqeOfhfOUnh4h7Zdtp4LUdNSQNRraWlFzFO-9o4KS2PFDk9iH6p6oV6wLOxf1TSnRDUOJa7cE02LA",
+            "source": "Gibson.com",
+            "title": "Gibson Victory Electric Guitar",
+            "price": "$1,999.00",
+            "extracted_price": 1999,
+            "delivery": "Free by 10/4",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODkzOTcwMjE1MzM5NDg2MDU1MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg3MzE4OTU5ODc3MDM1OTUxOSIsImltYWdlRG9jaWQiOiI5ODM1MzQ2MjkzNjY3NzU1MTA0IiwicmRzIjoiIiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODkzOTcwMjE1MzM5NDg2MDU1MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg3MzE4OTU5ODc3MDM1OTUxOSIsImltYWdlRG9jaWQiOiI5ODM1MzQ2MjkzNjY3NzU1MTA0IiwicmRzIjoiIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT03fZZKjFFhYR9jYHREwwl1HMbUWoEBj10yp1Gp88f0TY2vx2eZcKL68G1BpqesjT0yw12iFoAtUOV_BO1mggmMLuJdGw3IaYhK2DcOqlxndZmTyhKDjU",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Yamaha PAC012 Pacifica Electric Guitar",
+            "rating": 4.6,
+            "reviews": 546,
+            "price": "$219.99",
+            "extracted_price": 219.99,
+            "delivery": "Free delivery",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA4NzUzNzE5NjEyMzYzOTY4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1MDg4NzM4Mzk5MTI1MjkwMDAiLCJpbWFnZURvY2lkIjoiODQyODUxNjIwMzMzNzkwMTc1MyIsInJkcyI6IlBDXzExNzg1MTUxMjY5Mjg2ODk0NDQ1fFBST0RfUENfMTE3ODUxNTEyNjkyODY4OTQ0NDUiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA4NzUzNzE5NjEyMzYzOTY4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1MDg4NzM4Mzk5MTI1MjkwMDAiLCJpbWFnZURvY2lkIjoiODQyODUxNjIwMzMzNzkwMTc1MyIsInJkcyI6IlBDXzExNzg1MTUxMjY5Mjg2ODk0NDQ1fFBST0RfUENfMTE3ODUxNTEyNjkyODY4OTQ0NDUiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCZJCHwGA1UQQANZz5DfjJ9DGAENcrowv7F7s89oRtaiSzxJwva_PJW-Iapd5N5DMhRI2DXufOk-BWYTsPL1TN_QC95XLXRgjZTB5OO9wjumvEs93n_DRw",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTkFK87iP5fDat744O_NB1mBh441YMEaQroHnIozFbT4rRZHYkJ8zvPa9nKHckSu9cDgTiAs4fgZM5-QBew9Q40RRdAUBD-7bvYMSjb0w",
+            "source": "Martin Guitar",
+            "title": "Martin Backpacker Steel String Acoustic Guitar",
+            "rating": 4.3,
+            "reviews": 288,
+            "price": "$319.00",
+            "extracted_price": 319,
+            "delivery": "Free by 10/2",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY3MTQxMTU1NjY3NDM2NzM3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjQzODExNDM2NTQzODUwMTg0NCIsImltYWdlRG9jaWQiOiIxMzg1NzY1MTA3NTQ2MDIwOTE4MyIsInJkcyI6IlBDXzExMDgwNjE4NDAxNTU3ODIxNTY3fFBST0RfUENfMTEwODA2MTg0MDE1NTc4MjE1NjciLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY3MTQxMTU1NjY3NDM2NzM3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjQzODExNDM2NTQzODUwMTg0NCIsImltYWdlRG9jaWQiOiIxMzg1NzY1MTA3NTQ2MDIwOTE4MyIsInJkcyI6IlBDXzExMDgwNjE4NDAxNTU3ODIxNTY3fFBST0RfUENfMTEwODA2MTg0MDE1NTc4MjE1NjciLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTLVkzubYljjB2Hu7beMaWFjlEkr1J7b5BeBYoML2X2eDXdMGBCEpJ_9db_O9-09iG70k5fNeK1ELuOU78gXDgOa9cw-MamWAtRnb34Fk",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+            "source": "Guitar Center",
+            "title": "Gibson Les Paul Standard '60s Electric Guitar",
+            "rating": 4.9,
+            "reviews": 352,
+            "price": "$2,799.00",
+            "extracted_price": 2799,
+            "delivery": "Free by 10/3",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyOTk2NTAzMjE1MDU2NTgzMDAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5NzkyNzA0NTQ0NTMxMTk0MjYiLCJpbWFnZURvY2lkIjoiMTEyNzE0MTg1NDM1NTEwMzY4NDUiLCJyZHMiOiJQQ18xNzU3MjgxMzQ1Mjg2NDg5MjY4MnxQUk9EX1BDXzE3NTcyODEzNDUyODY0ODkyNjgyIiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyOTk2NTAzMjE1MDU2NTgzMDAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5NzkyNzA0NTQ0NTMxMTk0MjYiLCJpbWFnZURvY2lkIjoiMTEyNzE0MTg1NDM1NTEwMzY4NDUiLCJyZHMiOiJQQ18xNzU3MjgxMzQ1Mjg2NDg5MjY4MnxQUk9EX1BDXzE3NTcyODEzNDUyODY0ODkyNjgyIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQyZQLPD6-tQ7netEw3XbvE-84jveRwUPRD3f9xg2OY2OSA8U1e6ZMI8OhkbvrCYfdxlTYIJpysMJYc-PP6Ku2TzwhBT3g6sDOF4NdmtMiUbg2Uvuxup3-_PA",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu7prefiWK_9aeR52iM1ELj5kzXwplMELdhwd-SLGrnHFu-1rYr5a923LrfwJBoCzLHFCevret0bypkEGIOPLpMsq-aVMtOA",
+            "source": "Walmart - Best Choice Products",
+            "title": "Best Choice Products 39in Full Size Beginner Electric Guitar Starter Kit",
+            "rating": 4.4,
+            "reviews": 267,
+            "price": "$139.99",
+            "extracted_price": 139.99,
+            "original_price": "$230",
+            "extracted_original_price": 230,
+            "delivery": "Free delivery",
+            "extensions": [
+                "39% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg5Njk0NzE2MTgzMDgzNDYwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzE2NDI4MTg4Nzk4MzY0OTQ2NCIsImltYWdlRG9jaWQiOiIxMTE4ODQ0MDI2OTI1NzM4NDYzNCIsInJkcyI6IlBDXzE2OTk2MDQyMzkwMzg0NzE3OTIyfFBST0RfUENfMTY5OTYwNDIzOTAzODQ3MTc5MjIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg5Njk0NzE2MTgzMDgzNDYwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzE2NDI4MTg4Nzk4MzY0OTQ2NCIsImltYWdlRG9jaWQiOiIxMTE4ODQ0MDI2OTI1NzM4NDYzNCIsInJkcyI6IlBDXzE2OTk2MDQyMzkwMzg0NzE3OTIyfFBST0RfUENfMTY5OTYwNDIzOTAzODQ3MTc5MjIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcDaGDlfVLGGHZBHFuI0Y8UZLwzSdLmL5vhsCBXu_ldCnc69xHYFOGuf2v6NrGH1bVAaJVsVyx6PeSv14g0rY8FVMVEVFPjymsxSs4pFkP",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQRqXYhoezdqagbZnviQp9CFrvgP1PSQD35J0XJxEW6bt3i-9fjki8JqNFs_fRfjSzLWIr6yjaWcjEibUWHEk54cUmi",
+            "source": "gibson.com",
+            "title": "Gibson Custom Les Paul Axcess Custom Figured Top Guitar",
+            "rating": 5,
+            "reviews": 9,
+            "price": "$5,499.00",
+            "extracted_price": 5499,
+            "delivery": "Free by 10/4",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAyNDAzMTE0MjkxNTA3MjA4NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg2NzU2NjAyMTM4OTEzNTE5NDkiLCJpbWFnZURvY2lkIjoiMTI1MzgwMjc1NDA5NTQ5MDgzOTYiLCJyZHMiOiJQQ18zMzk1NjYwODkxMDUwNzQ2NjM3fFBST0RfUENfMzM5NTY2MDg5MTA1MDc0NjYzNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAyNDAzMTE0MjkxNTA3MjA4NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg2NzU2NjAyMTM4OTEzNTE5NDkiLCJpbWFnZURvY2lkIjoiMTI1MzgwMjc1NDA5NTQ5MDgzOTYiLCJyZHMiOiJQQ18zMzk1NjYwODkxMDUwNzQ2NjM3fFBST0RfUENfMzM5NTY2MDg5MTA1MDc0NjYzNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQW4iTchvV0YULAp7nHbXa-ZMCL_YEbrhr8U_I1bbxoc8-fK9qVYwaDnl6env_SRuLewGkQR0dR5ppu6sFdQRSK_r4pchj7D5zdo0SaNRRCrdblo8RdTjtX",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com - Seller",
+            "title": "Ashthorpe 38-Inch Beginner Acoustic Guitar Package",
+            "rating": 4.2,
+            "reviews": 163,
+            "price": "$54.99",
+            "extracted_price": 54.99,
+            "delivery": "Free delivery",
+            "immersive_product_page_token": "eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxNDUzODYzMjkzOTE3MDc1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc2NzkxNDAyNjg2NDI0MTAiLCJpbWFnZURvY2lkIjoiMTczMDA2Mzk3OTM2NDgxNDQ5NDkiLCJyZHMiOiJQQ18xMTkzMjA3NTM0NDczODQ3ODMzNXxQUk9EX1BDXzExOTMyMDc1MzQ0NzM4NDc4MzM1IiwicXVlcnkiOiJndWl0YXJzIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InkzVDBacVc0R2M3YTFzUVB6TUtnMFFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxNDUzODYzMjkzOTE3MDc1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc2NzkxNDAyNjg2NDI0MTAiLCJpbWFnZURvY2lkIjoiMTczMDA2Mzk3OTM2NDgxNDQ5NDkiLCJyZHMiOiJQQ18xMTkzMjA3NTM0NDczODQ3ODMzNXxQUk9EX1BDXzExOTMyMDc1MzQ0NzM4NDc4MzM1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Guitars",
+            "link": "https://www.guitarcenter.com/Guitars.gc?srsltid=AfmBOorosgRyBttvDTXC78Encf6uP0s0OZt6etX2QegBXEl96eL33JWO",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guitarcenter.com/Guitars.gc%3Fsrsltid%3DAfmBOorosgRyBttvDTXC78Encf6uP0s0OZt6etX2QegBXEl96eL33JWO&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQFnoECBsQAQ",
+            "displayed_link": "https://www.guitarcenter.com › Guitars",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298acce767690704611a1a73ede691d3e3e.jpeg",
+            "favicon": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298377baa448144b6f0a515de534ae2f00e.png",
+            "snippet": "Enjoy the lowest prices and best selection of Guitars at Guitar Center. Most orders are eligible for free shipping!",
+            "snippet_highlighted_words": [
+                "Guitars",
+                "Guitar"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "store_rating": 4.7,
+                        "price": 80,
+                        "currency": "$ to $"
+                    },
+                    "extensions": [
+                        "4.7store rating (352)",
+                        "‎$80 to $2,000",
+                        "‎Free delivery",
+                        "‎Free in",
+                        "store returns"
+                    ]
+                }
+            },
+            "source": "Guitar Center"
+        },
+        {
+            "position": 2,
+            "title": "Guitars For Sale Online | Buy Guitars Online (Great Prices)",
+            "link": "https://acousticvibesmusic.com/collections/guitars?srsltid=AfmBOoqyKt7RRhGwpukUi-BqfNRPzZWgKFZ1lPpNOFE-JDm5VdAnZHN3",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://acousticvibesmusic.com/collections/guitars%3Fsrsltid%3DAfmBOoqyKt7RRhGwpukUi-BqfNRPzZWgKFZ1lPpNOFE-JDm5VdAnZHN3&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQFnoECBcQAQ",
+            "displayed_link": "https://acousticvibesmusic.com › collections › guitars",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f2987a0ff3250d6038b9fe94528b7cb0f61d.jpeg",
+            "favicon": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298a5a4d7609ddc4ba987a11bcaa898ea90.png",
+            "snippet": "Here you will find one of the best selections of guitars for sale online and available anywhere!. We take individual photos of every guitar and ...",
+            "snippet_highlighted_words": [
+                "guitars",
+                "guitar"
+            ],
+            "images": [
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41629d952d561c283a3e.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41623bf02c5a7e2e1c90.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d4162a8affc2cc71ae183.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41628d12d2ec81254790.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41624d6ad1f385834118.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41626352d049df61c7a7.jpeg",
+                "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d4162b6863e264f5be9f9.jpeg"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "free_day_delivery": 3,
+                        "unknown": 7
+                    },
+                    "extensions": [
+                        "Free 3–6 day delivery",
+                        "‎7",
+                        "day returns"
+                    ]
+                }
+            },
+            "source": "Acoustic Vibes Music"
+        },
+        {
+            "position": 3,
+            "title": "Amazon.com: Guitars: Musical Instruments: Electric Guitars ...",
+            "link": "https://www.amazon.com/Guitars-Basses-Stringed-Instruments-Products/b?ie=UTF8&node=11971241",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Guitars-Basses-Stringed-Instruments-Products/b%3Fie%3DUTF8%26node%3D11971241&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQFnoECEAQAQ",
+            "displayed_link": "https://www.amazon.com › Guitars-Basses-Stringed-Inst...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajDU_6j51BPSgAaU1RuPRTDlsx3qvoQXMhClWjaYUSlXc81rRsGV6&s",
+            "favicon": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298b8d6392f3723de75d277cbf1f218a96a.png",
+            "snippet": "Welcome to the Guitars Store, where you'll find great prices on a wide range of different guitars. Shop by Category: Bass, Ukeleles, Amps, Accessories.",
+            "snippet_highlighted_words": [
+                "Guitars",
+                "guitars"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajDU_6j51BPSgAaU1RuPRTDlsx3qvoQXMhClWjaYUSlXc81rRsGV6&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTX5zlWnpxVHpozL21QXp78qP3PhOwHR01KQn5F1_eKY3oXeFUursIRhzcBjeNi1Uw2aw&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxTQmqJKhXsFcQW2WNauQUuvIH352Yv5nbllfYR2nigEIy_HKkKvh&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbKitlDexaJmx16EJ4guVQDl3uk8cZNkTYp1sbEaRHSFR3QeRVyYP&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCkQIBYKJq0nI9gf-CveKtltP1Sit50p6XfMjIxdAZcrhLJLQBA3L&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtSieddXVvMKmwN4wwujTcIJRVfJNKK2L6VsRAvAuBcRiMo-i7Fhif3p8vynmj5_W-SHs&s"
+            ],
+            "source": "Amazon.com"
+        },
+        {
+            "position": 4,
+            "title": "New Arrival Guitars - Updated Daily!",
+            "link": "https://wildwoodguitars.com/product-category/new-arrivals/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wildwoodguitars.com/product-category/new-arrivals/&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQFnoECDMQAQ",
+            "displayed_link": "https://wildwoodguitars.com › product-category › new-a...",
+            "favicon": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/25510a3c31cb16a418720d455437f298c3913ee14db4a42efe5f3d1ec99ec7aa.png",
+            "snippet": "Wildwood Guitars adds dozens of new guitars to our online inventory every day! Check out our new arrivals to find your perfect guitar today.",
+            "snippet_highlighted_words": [
+                "Guitars",
+                "guitars",
+                "guitar"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 1099,
+                        "currency": "$ to $"
+                    },
+                    "extensions": [
+                        "$1,099 to $9,999"
+                    ]
+                }
+            },
+            "source": "Wildwood Guitars"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&tbs=lf:1,lf_ui:10&tbm=lcl&q=guitars&rflfq=1&num=10&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQjGp6BAglEAE",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&q=guitars&tbs=lf%3A1%2Clf_ui%3A10",
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Electric guitars",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Electric+guitars&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Electric+guitars&safe=active"
+        },
+        {
+            "block_position": 1,
+            "query": "Acoustic guitars",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Acoustic+guitars&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Acoustic+guitars&safe=active"
+        },
+        {
+            "block_position": 1,
+            "query": "Guitars for sale",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Guitars+for+sale&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitars+for+sale&safe=active"
+        },
+        {
+            "block_position": 1,
+            "query": "Best guitars",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Best+guitars&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Best+guitars&safe=active"
+        },
+        {
+            "block_position": 1,
+            "query": "Guitar Center",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Guitar+Center&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitar+Center&safe=active"
+        },
+        {
+            "block_position": 1,
+            "query": "Guitars Amazon",
+            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&q=Guitars+Amazon&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitars+Amazon&safe=active"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "Electric Guitars",
+            "link": "https://www.google.com/search?q=electric+guitars+&hl=en&gl=us&shoprs=CAEYCSoHZ3VpdGFyczIUCAkSEEVsZWN0cmljIEd1aXRhcnNgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAF6BAgjEE0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=electric+guitars+&safe=active"
+        },
+        {
+            "query": "Acoustic Guitars",
+            "link": "https://www.google.com/search?q=acoustic+guitars+&hl=en&gl=us&shoprs=CAEYCSoHZ3VpdGFyczIUCAkSEEFjb3VzdGljIEd1aXRhcnNgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAJ6BAgjEE4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic+guitars+&safe=active"
+        },
+        {
+            "query": "Under $250",
+            "link": "https://www.google.com/search?q=guitars+under+$250&hl=en&gl=us&shoprs=CAESDRILEQAAAABlza1BGAEYBSoHZ3VpdGFyczIjCAUSClVuZGVyICQyNTAYAiINEgsRAAAAAGXNrUEYASoCGAFYzpchYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAN6BAgjEE8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+under+%24250&safe=active"
+        },
+        {
+            "query": "For Sale",
+            "link": "https://www.google.com/search?q=guitars+for+sale&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAR6BAgjEFA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+for+sale&safe=active"
+        },
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=guitars+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBioHZ3VpdGFyczITCAYSB09uIHNhbGUYAiIESgIYAVjOlyFgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAV6BAgjEFE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+sale&safe=active"
+        },
+        {
+            "query": "Nearby",
+            "link": "https://www.google.com/search?q=guitars+nearby&hl=en&gl=us&shoprs=CAEYAyoHZ3VpdGFyczIMCAMSBk5lYXJieRgCWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAZ6BAgjEFI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+nearby&safe=active"
+        },
+        {
+            "query": "Get it fast",
+            "link": "https://www.google.com/search?q=guitars&hl=en&gl=us&shoprs=CAESDZoBCgoIEAM4AUAGSAEYFCoHZ3VpdGFyczIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFABkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAd6BAgjEFM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active"
+        },
+        {
+            "query": "Custom",
+            "link": "https://www.google.com/search?q=custom+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIKCBISBkN1c3RvbWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAh6BAgjEFQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=custom+guitars&safe=active"
+        },
+        {
+            "query": "Used",
+            "link": "https://www.google.com/search?q=used+guitars&hl=en&gl=us&shoprs=CAEYCioHZ3VpdGFyczIICAoSBFVzZWRYzpchYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAl6BAgjEFU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=used+guitars&safe=active",
+            "thumbnail": "https://serpapi.com/searches/66f474ca9f8bfc6c15f97948/images/6054c1552e81db9fd652aa80c3daeb3749f4b6c34cf67426c1f402d705952e29.svg+xml"
+        },
+        {
+            "query": "6-string",
+            "link": "https://www.google.com/search?q=6-string+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIYCAESCDYtc3RyaW5nOgoIvrkrEPzSKzAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAp6BAgjEFY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=6-string+guitars&safe=active"
+        },
+        {
+            "query": "Brand",
+            "link": "https://www.google.com/search?q=brand+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAt6BAgjEFc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=brand+guitars&safe=active"
+        },
+        {
+            "query": "Buy",
+            "link": "https://www.google.com/search?q=buy+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKAx6BAgjEFg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=buy+guitars&safe=active"
+        },
+        {
+            "query": "Price",
+            "link": "https://www.google.com/search?q=price+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKA16BAgjEFk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=price+guitars&safe=active"
+        },
+        {
+            "query": "Electric",
+            "link": "https://www.google.com/search?q=electric+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIYCAESCEVsZWN0cmljOgoIp7E4EKyxODAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKA56BAgjEFo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=electric+guitars&safe=active"
+        },
+        {
+            "query": "Bass",
+            "link": "https://www.google.com/search?q=bass+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIICBISBEJhc3NgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKA96BAgjEFs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=bass+guitars&safe=active"
+        },
+        {
+            "query": "Black",
+            "link": "https://www.google.com/search?q=black+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIVCAESBUJsYWNrOgoI-rdvEPu3bzAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBB6BAgjEFw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=black+guitars&safe=active"
+        },
+        {
+            "query": "Classical Guitars",
+            "link": "https://www.google.com/search?q=classical+guitars+&hl=en&gl=us&shoprs=CAEYCSoHZ3VpdGFyczIVCAkSEUNsYXNzaWNhbCBHdWl0YXJzYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBF6BAgjEF0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=classical+guitars+&safe=active"
+        },
+        {
+            "query": "Online",
+            "link": "https://www.google.com/search?q=online+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBJ6BAgjEF4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=online+guitars&safe=active"
+        },
+        {
+            "query": "Store",
+            "link": "https://www.google.com/search?q=store+guitars&hl=en&gl=us&shoprs=CAEYEioHZ3VpdGFyczIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBN6BAgjEF8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=store+guitars&safe=active"
+        },
+        {
+            "query": "Red",
+            "link": "https://www.google.com/search?q=red+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczITCAESA1JlZDoKCPq3bxCAuG8wAFjOlyFgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBR6BAgjEGA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=red+guitars&safe=active"
+        },
+        {
+            "query": "Acoustic-Electric",
+            "link": "https://www.google.com/search?q=acoustic-electric+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIhCAESEUFjb3VzdGljLUVsZWN0cmljOgoIp7E4ELGbOzAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBV6BAgjEGE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic-electric+guitars&safe=active"
+        },
+        {
+            "query": "12-string",
+            "link": "https://www.google.com/search?q=12-string+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIZCAESCTEyLXN0cmluZzoKCL65KxCQ0yswAFjOlyFgAQ&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBZ6BAgjEGI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=12-string+guitars&safe=active"
+        },
+        {
+            "query": "Acoustic",
+            "link": "https://www.google.com/search?q=acoustic+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIYCAESCEFjb3VzdGljOgoIp7E4EKSjOzAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBd6BAgjEGM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic+guitars&safe=active"
+        },
+        {
+            "query": "White",
+            "link": "https://www.google.com/search?q=white+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIVCAESBVdoaXRlOgoI-rdvEIK4bzAAWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBh6BAgjEGQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=white+guitars&safe=active"
+        },
+        {
+            "query": "Left Handed",
+            "link": "https://www.google.com/search?q=left+handed+guitars&hl=en&gl=us&shoprs=CAEYASoHZ3VpdGFyczIbCAESC0xlZnQgSGFuZGVkOgoIoM8rEKHPKzADWM6XIWAB&sa=X&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQip4GKBl6BAgjEGU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=left+handed+guitars&safe=active"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=5&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8NMDegQIBxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=5&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAE",
+            "3": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=10&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAG",
+            "4": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=15&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAI",
+            "5": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=20&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAK",
+            "6": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=25&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAM",
+            "7": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=30&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAO",
+            "8": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=35&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAQ",
+            "9": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=40&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAS",
+            "10": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=5ac10ce223656a07&sca_upv=1&hl=en&gl=us&ei=y3T0ZqW4Gc7a1sQPzMKg0QY&start=45&sa=N&sstk=AagrsuheI9LIMHtEo-_hlUITIBascAb3SDj9CtXwSQpwg5P0IWI8f18OSStOl4W1I0RuMp5AQkp1NpZ3W-UlbF3Xzk49-jpbIUbakw&ved=2ahUKEwjlyZPZ-d6IAxVOrZUCHUwhKGoQ8tMDegQIBxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=10",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=15",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=20",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=25",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=30",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=35",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=40",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=45"
+        }
+    }
+}
