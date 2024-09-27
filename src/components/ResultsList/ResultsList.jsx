@@ -1,3 +1,4 @@
+import './ResultsList.css'
 
 export default function ResultsList({ results }) {
     return ( 
@@ -5,6 +6,7 @@ export default function ResultsList({ results }) {
             {results.map((result, idx) => (
                 <li key={idx}>
                     <a href={result.link} target="_blank" rel="noopener noreferrer">
+                    <img src={result.thumbnail} />
                     <h2>{result.title}</h2>
                     </a>
                     <h3>{result.price}</h3>
