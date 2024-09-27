@@ -25,7 +25,7 @@ async function index(req, res) {
         //     writeObjToFile(json);
         //     res.json(searchTerm)
         // });
-        res.json(sampleData)
+        res.json(sampleData.shopping_results)
     } catch (err) {
         console.error
         res.status(400).json(err);

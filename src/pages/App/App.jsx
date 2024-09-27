@@ -6,6 +6,7 @@ import AuthPage from "../AuthPage/AuthPage";
 import NavBar from "../../components/NavBar/NavBar";
 import { getUser } from '../../utilities/users-service';
 import SearchPage from "../SearchPage/SearchPage";
+import SearchResultsPage from "../SearchResultsPage/SearchResultsPage";
 
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
           <Route path='/' element={<SearchPage />} />
           {/* <Route path="/user/new" element={<NewOrderPage />} />   */}
           <Route path="/user/new" element={<AuthPage setUser={setUser} />} />
+          <Route path="/results" element={<SearchResultsPage />} />
         </Routes>
       </>
     </main>

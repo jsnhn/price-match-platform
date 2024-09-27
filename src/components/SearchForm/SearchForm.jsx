@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { searchItems } from '../../utilities/search-api'
+import { useNavigate } from 'react-router-dom';
 
 export default function SearchForm () {
     const [searchData, setSearchData] = useState({
         searchText: ''
     })
+    const navigate = useNavigate();
 
     function handleChange(evt) {
         setSearchData({
@@ -20,6 +22,7 @@ export default function SearchForm () {
         try {
             const results = await searchItems({ query: searchData.searchText }) //Unexpected token '"', ""b"" is not valid JSON. this is what happens if it isnt in an object 
             console.log('Search Results:', results)
+            navigate('/results');
         } catch (err) {
             console.log (err)
         }
