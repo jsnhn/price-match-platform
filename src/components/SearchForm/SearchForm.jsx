@@ -18,7 +18,7 @@ export default function SearchForm () {
 
     const handleSubmit = async (evt) => {
         evt.preventDefault();
-        console.log('we are here') //this checks if it actually running
+        // console.log('we are here') //this checks if it actually running
         try {
             const results = await searchItems({ query: searchData.searchText }) //Unexpected token '"', ""b"" is not valid JSON. this is what happens if it isnt in an object 
             console.log('Search Results:', results)
