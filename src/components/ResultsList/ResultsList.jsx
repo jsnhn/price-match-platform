@@ -6,7 +6,7 @@ export default function ResultsList({ searchResults }) {
     return ( 
         <ul>
             {searchResults.map((searchResult, idx) => (
-                <li>
+                <li key={idx}>
                     <Link to={`/results/${searchResult.title}`} >
                         {/* <a href={searchResult.link} target="_blank" rel="noopener noreferrer"> */}
                         <img src={searchResult.thumbnail} />

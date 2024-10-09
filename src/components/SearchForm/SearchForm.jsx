@@ -1,3 +1,4 @@
+import './SearchForm.css'
 
 export default function SearchForm ({handleSubmit, searchData, setSearchData}) {
 
@@ -10,7 +11,7 @@ export default function SearchForm ({handleSubmit, searchData, setSearchData}) {
 
     return (
         <div>
-            <form onSubmit={handleSubmit}>
+            <form className='searchForm' onSubmit={handleSubmit}>
                 <input type="text"  name="searchText"  value={searchData.searchText}  onChange={handleChange} required />
                 <button type="submit">Search</button>
             </form>

@@ -1,4 +1,5 @@
 // import SignUpFormClass from "../../components/SignUpFormClass/SignUpFormClass"
+import './AuthPage.css'
 import { useState } from 'react'
 import SignUpForm from "../../components/SignUpForm/SignUpForm"
 import LoginForm from '../../components/LoginForm/LoginForm'
@@ -8,9 +9,8 @@ export default function AuthPage ({ setUser }) {
     const [showLogin, setShowLogin] = useState(true)
 
 
-
     return (
-        <main>
+        <main className='authForm'>
             <h1>AuthPage</h1>
             {/* <SignUpFormClass /> */}
             {showLogin ? <LoginForm setUser={setUser} /> : <SignUpForm setUser={setUser} />}

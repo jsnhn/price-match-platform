@@ -1,3 +1,4 @@
+import './NavBar.css'
 import { Link } from 'react-router-dom';
 import * as usersService from '../../utilities/users-service' 
 // .. Or below... if you do use it has to be userSErvices.logout()
