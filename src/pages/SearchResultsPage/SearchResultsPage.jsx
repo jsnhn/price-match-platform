@@ -13,9 +13,11 @@ export default function SearchResultsPage({ searchResults }) {
     // }, [])
 
     return (
-        <div>
+        <ul>
             <h1>Search Results</h1>
-            <ResultsList searchResults={searchResults} />
-        </div>
+            {searchResults.map((searchResult, idx) => (
+                <ResultsList searchResult={searchResult} key={idx} searchResults={searchResults}/>
+            ))}
+        </ul>
     )
 }

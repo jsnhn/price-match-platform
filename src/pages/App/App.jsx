@@ -8,6 +8,7 @@ import { getUser } from '../../utilities/users-service';
 import SearchPage from "../SearchPage/SearchPage";
 import SearchResultsPage from "../SearchResultsPage/SearchResultsPage";
 import { searchItems } from '../../utilities/search-api'
+import ItemDetailPage from "../ItemDetailPage/ItemDetailPage";
 
 
 export default function App() {
@@ -40,6 +41,7 @@ export default function App() {
           {/* <Route path="/user/new" element={<NewOrderPage />} />   */}
           <Route path="/user/new" element={<AuthPage setUser={setUser} />} />
           <Route path="/results" element={<SearchResultsPage searchResults={searchResults}  />} />
+          <Route path="/results/:resultTitle" element={<ItemDetailPage searchResults={searchResults}/>} />
         </Routes>
       </>
     </main>
