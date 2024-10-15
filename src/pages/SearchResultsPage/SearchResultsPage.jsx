@@ -16,7 +16,7 @@ export default function SearchResultsPage({ searchResults }) {
         <ul>
             <h1>Search Results</h1>
             {searchResults.map((searchResult, idx) => (
-                <ResultsList searchResult={searchResult} key={idx} searchResults={searchResults}/>
+                <ResultsList searchResult={searchResult} key={idx} searchResults={searchResults} />
             ))}
         </ul>
     )

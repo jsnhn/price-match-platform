@@ -1,7 +1,7 @@
 import './ResultsList.css'
 import { Link } from "react-router-dom";
 
-export default function ResultsList({ searchResults }) {
+export default function ResultsList({ searchResults, searchResult }) {
 
     return ( 
         <ul>

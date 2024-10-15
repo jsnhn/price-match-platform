@@ -12,22 +12,24 @@ async function index(req, res) {
     const searchTerm = req.body.query; 
     
     try {
-        // getJson({
-        //     engine:'google',
-        //     q: searchTerm,
-        //     hl: 'en',
-        //     gl: 'us',
-        //     google_domain: 'google.com',
-        //     num: '5',
-        //     safe:'active',
-        //     api_key: process.env.SERPAPI
-        // }, (json) => {
-        //     writeObjToFile(json);
-        //     res.json(json.shopping_results)
-        // });
-        res.json(sampleData.shopping_results)
+        getJson({
+            engine:'google_shopping',
+            q: searchTerm,
+            hl: 'en',
+            gl: 'us',
+            google_domain: 'google.com',
+            num: '5',
+            safe:'active',
+            api_key: process.env.SERPAPI
+        }, (json) => {
+            // writeObjToFile(json);
+            console.log("API Response:", json)
+            res.json(json.shopping_results);
+        });
+        // res.json(sampleData.shopping_results)
     } catch (err) {
-        console.error
+  // Correctly log the error
+        console.error("Error occurred:", err);
         res.status(400).json(err);
     }
 }

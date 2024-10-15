@@ -1,4 +1,5 @@
-import { useParams } from "react-router-dom"
+import { useParams, Link } from "react-router-dom"
+
 
 export default function ItemDetailPage({searchResults}) {
     const { resultTitle } = useParams();
@@ -6,10 +7,11 @@ export default function ItemDetailPage({searchResults}) {
 
     return (
         <div>
-            <h1>{result.title}</h1>
-            <img src={result.thumbnail} alt={result.title} />
-            <h3>Price: {result.price}</h3>
-            {/* You can add more details here as needed */}
+            <Link to={result.link} target="_blank" rel="noopener noreferrer">
+                <h1>{result.title}</h1>
+                <img src={result.thumbnail} />
+                <h3>Price: {result.price}</h3>
+            </Link>
         </div>
     );
 }
