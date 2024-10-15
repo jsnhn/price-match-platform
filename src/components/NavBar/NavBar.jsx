@@ -12,18 +12,20 @@ export default function NavBar ( {user, setUser} ) {
     }
 
     return (
-    
-    <nav>
-    {user ? (
-        <>
-            &nbsp;&nbsp;<span>Welcome, {user.name}</span>
-            &nbsp;&nbsp;<Link to="" onClick={handleLogOut}>Log Out</Link>
-        </>
-    ) : (
-        <>
-            &nbsp;&nbsp;<Link to="/user/new">Log In</Link>
-        </>
-    )}
-    </nav>
+        <nav>
+            <div className="nav-title">
+                <Link to="/" className="title">Product Matcher</Link>
+            </div>
+            <div className="nav-links">
+                {user ? (
+                    <>
+                        <span>Welcome, {user.name}</span>
+                        <Link to="" onClick={handleLogOut}>Log Out</Link>
+                    </>
+                ) : (
+                    <Link to="/user/new">Log In</Link>
+                )}
+            </div>
+        </nav>
     );
 }

@@ -1,3 +1,4 @@
+import './SearchResultsPage.css'
 import { useState, useEffect } from 'react'
 import ResultsList from '../../components/ResultsList/ResultsList'
 import { searchItems } from '../../utilities/search-api'
@@ -14,7 +15,7 @@ export default function SearchResultsPage({ searchResults }) {
 
     return (
         <ul>
-            <h1>Search Results</h1>
+            <h1 className='search-results-title'>Products</h1>
             {searchResults.map((searchResult, idx) => (
                 <ResultsList searchResult={searchResult} key={idx} searchResults={searchResults} />
             ))}

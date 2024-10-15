@@ -4,6 +4,6 @@ import SearchForm from '../../components/SearchForm/SearchForm'
 
 export default function SearchPage({handleSubmit, searchData, setSearchData}) {
     return (
-        <SearchForm handleSubmit={handleSubmit} searchData={searchData} setSearchData={setSearchData} />
+        <SearchForm  handleSubmit={handleSubmit} searchData={searchData} setSearchData={setSearchData} />
     )
 }

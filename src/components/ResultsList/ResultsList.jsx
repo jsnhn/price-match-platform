@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function ResultsList({ searchResults, searchResult }) {
 
     return ( 
-        <ul>
+        <ul className='search-results'>
             {searchResults.map((searchResult, idx) => (
                 <li key={idx}>
                     <Link to={`/results/${searchResult.title}`} >

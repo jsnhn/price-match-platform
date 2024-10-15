@@ -1,3 +1,10 @@
 ul {
     list-style: none;
 }
+
+.search-results {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 items in a row */
+    gap: 10px; /* Space between items */
+    padding: 20px; /* Optional padding */
+}
