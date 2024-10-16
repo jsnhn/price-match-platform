@@ -37,18 +37,23 @@ export default function ItemDetailPage({ searchResults }) {
                     <h5>Rating: {result.rating}</h5>
                 </div>
             </div>
-    
+
             <h2>Compare Buying Options</h2>
-    
+            <div className="comparison-header">
+                <span className="sold-by-header">Sold By</span>
+                <span>Condition</span>
+                <span className="item-price-header">Item Price</span>
+            </div>
+
             <ul className="seller-result-list">
                 {sellerResults.map((seller, idx) => (
-                    <li key={idx}>
+                    <li key={idx} className="seller-result-item">
                         <Link to={seller.link} target="_blank" rel="noopener noreferrer">
-                            <div className="seller-text-container">
-                            <img className='other-seller-img' src={result.thumbnail} alt={result.title} />
-                                <h4>{seller.source}</h4>
-                                <h6>{seller.second_hand_condition}</h6>
-                                <h5>Price: {seller.price}</h5>
+                                <div className="seller-text-container">
+                                <img className='other-seller-img' src={result.thumbnail} alt={result.title} />
+                                <span>{seller.source}</span>
+                                <span className="seller-condition">{seller.second_hand_condition}</span>
+                                <span className="seller-price">Price: {seller.price}</span>
                             </div>
                         </Link>   
                     </li>
