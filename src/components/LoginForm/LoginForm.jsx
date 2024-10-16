@@ -43,7 +43,7 @@ export default function LoginForm({ setUser }) {
                     <input className='login-input' type="email" name="email" value={credentials.email} onChange={handleChange} required />
                     <label>Password</label>
                     <input className='login-input' type="password" name="password" value={credentials.password} onChange={handleChange} required />
-                    <button type="submit">Login</button>
+                    <button className='login-button' type="submit">Login</button>
                 </form>
             </div>
             <p className="error-message">&nbsp;{credentials.error}</p>

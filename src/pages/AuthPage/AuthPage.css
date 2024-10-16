@@ -1,6 +1,18 @@
-/* .signup-login {
-    margin-left: 691px;
-} */
+.signup-login {
+    margin: 1vmin;
+    padding: 1vmin;
+    color: var(--white);
+    background-color: var(--orange);
+    font-size: 2vmin;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border: .1vmin solid var(--tan-2);
+    border-radius: .5vmin;
+    outline: none;
+    cursor: pointer;
+    margin-left: 48%;
+}
 
 h1 {
     display: flex;

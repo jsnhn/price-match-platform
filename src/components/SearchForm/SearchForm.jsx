@@ -13,7 +13,7 @@ export default function SearchForm ({handleSubmit, searchData, setSearchData}) {
         <div>
             <form className='searchForm' onSubmit={handleSubmit}>
                 <input type="text"  name="searchText"  value={searchData.searchText}  onChange={handleChange} required />
-                <button type="submit">Search</button>
+                <button className='search-button' type="submit">Search</button>
             </form>
         </div>
     )

@@ -8,7 +8,19 @@
     width: 100%;
 }
 
-button {
+.search-button {
+    margin: 1vmin;
+    padding: 1vmin;
+    color: var(--white);
+    background-color: var(--orange);
+    font-size: 2vmin;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border: .1vmin solid var(--tan-2);
+    border-radius: .5vmin;
+    outline: none;
+    cursor: pointer;
     color: white;
 }
 
