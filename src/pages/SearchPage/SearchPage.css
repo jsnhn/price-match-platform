@@ -1,0 +1,20 @@
+.logo-container {
+    display: flex;              
+    justify-content: center;    
+    align-items: center;        
+    gap: 20px;                  
+    margin-top: 300px;           
+}
+
+.amazon-logo {
+    margin-top: 1%;
+    width: 100px;          
+}
+
+.reverb-logo {
+    width: 100px;   
+}
+
+.ebay-logo {
+    width: 100px;   
+}
