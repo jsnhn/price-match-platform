@@ -53,7 +53,7 @@ export default function ItemDetailPage({ searchResults }) {
                                 <img className='other-seller-img' src={result.thumbnail} alt={result.title} />
                                 <span>{seller.source}</span>
                                 <span className="seller-condition">{seller.second_hand_condition}</span>
-                                <span className="seller-price">Price: {seller.price}</span>
+                                <span className="seller-price">{seller.price}</span>
                             </div>
                         </Link>   
                     </li>

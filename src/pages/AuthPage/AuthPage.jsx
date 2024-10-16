@@ -11,10 +11,10 @@ export default function AuthPage ({ setUser }) {
 
     return (
         <main className='authForm'>
-            <h1>AuthPage</h1>
+            <h1>Sign In</h1>
             {/* <SignUpFormClass /> */}
             {showLogin ? <LoginForm setUser={setUser} /> : <SignUpForm setUser={setUser} />}
-            <button onClick={() => setShowLogin(!showLogin)}>{ showLogin ? 'Sign Up' : 'Login'} </button>
+            <button className='signup-login' onClick={() => setShowLogin(!showLogin)}>{ showLogin ? 'Sign Up' : 'Login'} </button>
         </main>
     )
 }

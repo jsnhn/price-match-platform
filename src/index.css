@@ -50,8 +50,6 @@ code {
   font-size: 2vmin;
 }
 
-
-
 p.error-message {
   color: var(--orange);
   text-align: center;

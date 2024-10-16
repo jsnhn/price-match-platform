@@ -27,7 +27,7 @@ h2 {
 
 .item-price-header {
     position: relative;
-    right: 111px; /* Adjust this value to move the price header to the left */
+    right: 123px;
 }
 
 .seller-result-item {

@@ -1,3 +1,4 @@
+import './LoginForm.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import * as usersService from '../../utilities/users-service' 
@@ -37,11 +38,11 @@ export default function LoginForm({ setUser }) {
     return (
         <div>
             <div className="form-container">
-                <form autoComplete="off" onSubmit={handleSubmit}>
+                <form className='login-form' autoComplete="off" onSubmit={handleSubmit}>
                     <label>Email</label>
-                    <input type="email" name="email" value={credentials.email} onChange={handleChange} required />
+                    <input className='login-input' type="email" name="email" value={credentials.email} onChange={handleChange} required />
                     <label>Password</label>
-                    <input type="password" name="password" value={credentials.password} onChange={handleChange} required />
+                    <input className='login-input' type="password" name="password" value={credentials.password} onChange={handleChange} required />
                     <button type="submit">Login</button>
                 </form>
             </div>
