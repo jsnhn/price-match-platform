@@ -1,13 +1,43 @@
+h2 {
+    font-size: 20px;
+    margin-top: 3%;
+}
+
 .first-result-container {
     display: flex;
-    align-items: center; /* Align items vertically centered */
+    align-items: center;
+    margin-top: 3%;
 }
 
 .first-result-img {
-    max-width: 200px; /* Set the desired image width */
-    margin-right: 20px; /* Add space between image and text */
+    max-width: 200px;
+    margin-right: 20px;
 }
 
 .text-container {
-    text-align: left; /* Align the text to the left */
+    text-align: left;
+}
+
+/* Seller Results Styling */
+.seller-result-list {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.seller-result-item {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 10px; 
+}
+
+.other-seller-img {
+    max-width: 100px; 
+    margin-right: 15px; 
+}
+
+.seller-text-container {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 3%;
+    justify-content: space-around;
 }

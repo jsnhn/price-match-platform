@@ -8,13 +8,13 @@ export default function ItemDetailPage({ searchResults }) {
     const [sellerResults, setSellerResults] = useState([]); 
     const result = searchResults.find((res) => res.title === resultTitle);
 
-    // Once the result is available, useEffect will initiate a second search using the same result.title
+    // Fetch seller results based on the main result
     useEffect(() => {
         async function fetchSellerResults() {
             if (result) {
                 try {
                     const sellers = await searchItems({ query: result.title }); 
-                    console.log('Similar Results:', sellers)
+                    console.log('Similar Results:', sellers);
                     setSellerResults(sellers);
                 } catch (err) {
                     console.error('Error', err);
@@ -22,8 +22,7 @@ export default function ItemDetailPage({ searchResults }) {
             }
         }
         fetchSellerResults();
-    }, [result]); // will only run whn result changes. only runs when result is updated
-
+    }, [result]);
 
     return (
         <div>
@@ -31,7 +30,7 @@ export default function ItemDetailPage({ searchResults }) {
                 <Link to={result.link} target="_blank" rel="noopener noreferrer">
                     <img className='first-result-img' src={result.thumbnail} alt={result.title} />
                 </Link>
-                <div>
+                <div className="text-container">
                     <h1>{result.title}</h1>
                     <h3>Seller: {result.source}</h3>
                     <h4>Price: {result.price}</h4>
@@ -39,20 +38,22 @@ export default function ItemDetailPage({ searchResults }) {
                 </div>
             </div>
     
-            <h2>Other Sellers</h2>
-            <ul>
+            <h2>Compare Buying Options</h2>
+    
+            <ul className="seller-result-list">
                 {sellerResults.map((seller, idx) => (
                     <li key={idx}>
                         <Link to={seller.link} target="_blank" rel="noopener noreferrer">
-                            <img src={result.thumbnail} alt={result.title} />
-                            <h3>{result.title}</h3>
-                            <h4>{seller.source}</h4>
-                            <h5>Price: {seller.price}</h5>
-                            <h6>{seller.second_hand_condition}</h6>
+                            <div className="seller-text-container">
+                            <img className='other-seller-img' src={result.thumbnail} alt={result.title} />
+                                <h4>{seller.source}</h4>
+                                <h6>{seller.second_hand_condition}</h6>
+                                <h5>Price: {seller.price}</h5>
+                            </div>
                         </Link>   
                     </li>
                 ))}
             </ul>
-        </div> 
+        </div>
     );
 }
