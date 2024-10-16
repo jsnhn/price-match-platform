@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import ResultsList from '../../components/ResultsList/ResultsList'
 import { searchItems } from '../../utilities/search-api'
 
-export default function SearchResultsPage({ searchResults }) {
+export default function SearchResultsPage({ searchResults, searchData }) {
 
     // useEffect(function () {
     //     async function fetchResults() {
@@ -15,7 +15,7 @@ export default function SearchResultsPage({ searchResults }) {
 
     return (
         <ul>
-            <h1 className='search-results-title'>Products</h1>
+        <h1 className='search-results-title'>Products for "{searchData.searchText}" </h1>
             {searchResults.map((searchResult, idx) => (
                 <ResultsList searchResult={searchResult} key={idx} searchResults={searchResults} />
             ))}

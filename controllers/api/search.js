@@ -26,7 +26,7 @@ async function index(req, res) {
         //     writeObjToFile(json);
         //     res.json(json.shopping_results);
         // });
-        res.json(sampleData.immersive_products)
+        res.json(sampleData.shopping_results)
     } catch (err) {
   // Correctly log the error
         console.error("Error occurred:", err);

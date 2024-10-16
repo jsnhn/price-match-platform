@@ -7,4 +7,21 @@ ul {
     grid-template-columns: repeat(4, 1fr); /* 4 items in a row */
     gap: 10px; /* Space between items */
     padding: 20px; /* Optional padding */
+
+}
+
+.result-img {
+    width: 65%;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.result-list-text {
+    text-align: center;
 }

@@ -30,7 +30,8 @@ export default function App() {
     } catch (err) {
         console.log (err)
     }
-  }
+  };
+
 
   return (
     <main className='App'>
@@ -40,7 +41,7 @@ export default function App() {
           <Route path='/' element={<SearchPage handleSubmit={handleSubmit} searchData={searchData} setSearchData={setSearchData} />} />
           {/* <Route path="/user/new" element={<NewOrderPage />} />   */}
           <Route path="/user/new" element={<AuthPage setUser={setUser} />} />
-          <Route path="/results" element={<SearchResultsPage searchResults={searchResults}  />} />
+          <Route path="/results" element={<SearchResultsPage searchResults={searchResults} searchData={searchData} />} />
           <Route path="/results/:resultTitle" element={<ItemDetailPage searchResults={searchResults}/>} />
         </Routes>
       </>

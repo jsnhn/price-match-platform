@@ -1,0 +1,13 @@
+.first-result-container {
+    display: flex;
+    align-items: center; /* Align items vertically centered */
+}
+
+.first-result-img {
+    max-width: 200px; /* Set the desired image width */
+    margin-right: 20px; /* Add space between image and text */
+}
+
+.text-container {
+    text-align: left; /* Align the text to the left */
+}

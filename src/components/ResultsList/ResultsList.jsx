@@ -8,11 +8,11 @@ export default function ResultsList({ searchResults, searchResult }) {
             {searchResults.map((searchResult, idx) => (
                 <li key={idx}>
                     <Link to={`/results/${searchResult.title}`} >
-                        {/* <a href={searchResult.link} target="_blank" rel="noopener noreferrer"> */}
-                        <img src={searchResult.thumbnail} />
-                        <h2>{searchResult.title}</h2>
-                        {/* </a> */}
-                        <h3>{searchResult.price}</h3>
+                        <div className='result-list-text'>
+                            <img className='result-img' src={searchResult.thumbnail} />
+                            <h2>{searchResult.title}</h2>
+                            <h3>{searchResult.price}</h3>
+                        </div>
                     </Link>
                 </li>
             ))}
