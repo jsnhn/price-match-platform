@@ -23,8 +23,8 @@ async function index(req, res) {
         //     direct_link: true,
         //     api_key: process.env.SERPAPI
         // }, (json) => {
-            // writeObjToFile(json);
-            // res.json(json.shopping_results);
+        //     writeObjToFile(json);
+        //     res.json(json.shopping_results);
         // });
         res.json(sampleData.immersive_products)
     } catch (err) {

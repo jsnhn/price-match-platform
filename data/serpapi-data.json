@@ -1,1151 +1,1092 @@
 {
     "search_metadata": {
-        "id": "670d97f5ba13f22e4f578cc4",
+        "id": "670f0db5240793cb6500d24b",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/837a18cf3f8ab902/670d97f5ba13f22e4f578cc4.json",
-        "created_at": "2024-10-14 22:15:17 UTC",
-        "processed_at": "2024-10-14 22:15:17 UTC",
-        "google_url": "https://www.google.com/search?q=guitars&oq=guitars&hl=en&gl=us&num=5&safe=active&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/837a18cf3f8ab902/670d97f5ba13f22e4f578cc4.html",
-        "total_time_taken": 1
+        "json_endpoint": "https://serpapi.com/searches/1bd80af2d4579651/670f0db5240793cb6500d24b.json",
+        "created_at": "2024-10-16 00:49:57 UTC",
+        "processed_at": "2024-10-16 00:49:57 UTC",
+        "google_shopping_url": "https://www.google.com/search?udm=28&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar&num=5&hl=en&gl=us",
+        "raw_html_file": "https://serpapi.com/searches/1bd80af2d4579651/670f0db5240793cb6500d24b.html",
+        "total_time_taken": 2.42
     },
     "search_parameters": {
-        "engine": "google",
-        "q": "guitars",
+        "engine": "google_shopping",
+        "q": "Rogue RA-090 Dreadnought Cutaway Acoustic-Electric Guitar",
         "google_domain": "google.com",
         "hl": "en",
         "gl": "us",
-        "safe": "active",
         "num": "5",
-        "device": "desktop"
+        "device": "desktop",
+        "direct_link": true
     },
     "search_information": {
-        "query_displayed": "guitars",
-        "total_results": 1390000000,
-        "time_taken_displayed": 0.38,
-        "organic_results_state": "Results for exact spelling"
+        "shopping_results_state": "Results for exact spelling",
+        "query_displayed": "Rogue RA-090 Dreadnought Cutaway Acoustic-Electric Guitar"
     },
-    "ads": [
+    "filters": [
         {
-            "position": 1,
-            "block_position": "bottom",
-            "title": "Shop Guitars | Shop The Best Selection | Hassle-free Returns",
-            "link": "https://www.sweetwater.com/shop/guitars/",
-            "displayed_link": "https://www.sweetwater.com",
-            "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjHtfbf8o6JAxX5YUcBHTO6EekYABAAGgJxdQ&co=1&ase=2&gclid=EAIaIQobChMIx7X23_KOiQMV-WFHAR0zuhHpEAMYASAAEgKTbfD_BwE&sig=AOD64_2MfCKf7FOMUA0fGyA1p72M230s0g&q&nis=4&adurl",
-            "rating": 4.9,
-            "extensions": [
-                "Rating for sweetwater.com: 4.9 - 9,595 reviews"
-            ],
-            "reviews": 9595,
-            "description": "Get The Lowest Prices on The Best Selection of Guitars! Explore Our Unmatched Selection Of Music Instruments And Pro Audio Gear.",
-            "deal": [
-                "Up to $200 off Fender Price Drops"
-            ],
-            "source": "Sweetwater",
-            "sitelinks": [
+            "options": [
                 {
-                    "title": "Shop All Guitars",
-                    "link": "https://www.sweetwater.com/c4--Guitars?all"
+                    "text": "Used",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=used+Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar&shoprs=CAEYCio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMggIChIEVXNlZFis6iBgAg"
                 },
                 {
-                    "title": "Shop Guitar Deals",
-                    "link": "https://www.sweetwater.com/dealzone/guitar-deals"
+                    "text": "On sale",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar+sale&shoprs=CAESBEoCGAEYBio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhMIBhIHT24gc2FsZRgCIgRKAhgBWKzqIGAC"
                 },
                 {
-                    "title": "Exclusive Guitars",
-                    "link": "https://www.sweetwater.com/shop/guitar-exclusives/"
+                    "text": "Get it by Fri",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMiYIFBINR2V0IGl0IGJ5IEZyaSINmgEKCggQAzgBQAVIASoEEAEYAWAC"
                 },
                 {
-                    "title": "New & Pre-Order Guitars",
-                    "link": "https://www.sweetwater.com/nowshipping/Guitar"
+                    "text": "Small business",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAESAmoAGBYqOXJvZ3VlIHJhIDA5MCBkcmVhZG5vdWdodCBjdXRhd2F5IGFjb3VzdGljIGVsZWN0cmljIGd1aXRhcjIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+                }
+            ]
+        },
+        {
+            "type": "Sort by",
+            "options": [
+                {
+                    "text": "Price: low to high",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYFyo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhwIFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBYAKIAQE"
+                },
+                {
+                    "text": "Price: high to low",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYFyo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhwIFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBYAKIAQI"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "text": "Black",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=black+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhUIARIFQmxhY2s6Cgj6t28Q-7dvMABYrOogYAI"
+                },
+                {
+                    "text": "Blue",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=blue+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhQIARIEQmx1ZToKCPq3bxCDuG8wAFis6iBgAg"
+                },
+                {
+                    "text": "Red",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=red+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhMIARIDUmVkOgoI-rdvEIC4bzAAWKzqIGAC"
+                },
+                {
+                    "text": "White",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=white+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhUIARIFV2hpdGU6Cgj6t28QgrhvMABYrOogYAI"
+                }
+            ]
+        },
+        {
+            "type": "Number of Strings",
+            "options": [
+                {
+                    "text": "6-string",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=6-string+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhgIARIINi1zdHJpbmc6Cgi-uSsQ_NIrMABYrOogYAI"
+                },
+                {
+                    "text": "5-string",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=5-string+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhgIARIINS1zdHJpbmc6Cgi-uSsQi9MrMABYrOogYAI"
+                },
+                {
+                    "text": "7-string",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=7-string+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhgIARIINy1zdHJpbmc6Cgi-uSsQ_dIrMABYrOogYAI"
+                },
+                {
+                    "text": "8-string",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=8-string+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhgIARIIOC1zdHJpbmc6Cgi-uSsQjNMrMABYrOogYAI"
+                }
+            ]
+        },
+        {
+            "type": "Features",
+            "options": [
+                {
+                    "text": "Left Handed",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=left+handed+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhsIARILTGVmdCBIYW5kZWQ6CgigzysQoc8rMANYrOogYAI"
+                },
+                {
+                    "text": "For Classroom",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar+for+classroom&shoprs=CAEYASo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMiEIARINRm9yIENsYXNzcm9vbRgCOgwI5vvxARDn-_EBMANYrOogYAI"
+                }
+            ]
+        },
+        {
+            "type": "Stores",
+            "options": [
+                {
+                    "text": "eBay",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=ebay+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYAio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMggIAhIEZUJheVis6iBgAg"
+                },
+                {
+                    "text": "Reverb",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=reverb+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYAio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMgoIAhIGUmV2ZXJiWKzqIGAC"
+                },
+                {
+                    "text": "Musicians Friend",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=musicians+friend+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYAio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhQIAhIQTXVzaWNpYW5zIEZyaWVuZFis6iBgAg"
+                },
+                {
+                    "text": "Walmart",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=walmart+rogue+ra+090+dreadnought+cutaway+acoustic+electric+guitar&shoprs=CAEYAio5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMgsIAhIHV2FsbWFydFis6iBgAg"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "text": "Under $1,000",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar+under+%241%2C000&shoprs=CAESDRILEQAAAABlzc1BGAEYBSo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMiUIBRIMVW5kZXIgJDEsMDAwGAIiDRILEQAAAABlzc1BGAEqAhgBWKzqIGAC"
+                },
+                {
+                    "text": "Over $1,000",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar+over+%241%2C000&shoprs=CAESDRILCQAAAABlzc1BGAEYBSo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMiQIBRILT3ZlciAkMSwwMDAYAiINEgsJAAAAAGXNzUEYASoCGAFYrOogYAI"
+                }
+            ]
+        },
+        {
+            "type": "Free shipping",
+            "options": [
+                {
+                    "text": "Free shipping",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar+free+shipping&shoprs=CAESBFICEAEYGSo5cm9ndWUgcmEgMDkwIGRyZWFkbm91Z2h0IGN1dGF3YXkgYWNvdXN0aWMgZWxlY3RyaWMgZ3VpdGFyMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
                 }
             ]
         }
     ],
-    "local_map": {
-        "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=guitars&npsic=0&rflfq=1&rldoc=1&rllag=38858435,-104792000,3741&tbm=lcl&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QtgN6BAglEAI",
-        "image": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/6b0a6fcaff71542853e513f7a2c3ac9f.png",
-        "gps_coordinates": {
-            "latitude": 38.858435,
-            "longitude": -104.792
-        }
-    },
-    "local_results": {
-        "places": [
-            {
-                "position": 1,
-                "rating": 4.3,
-                "reviews_original": "(1.3K)",
-                "reviews": 1300,
-                "description": "\"Jim the guitar tech did an amazing job on my 8 string Legator.\"",
-                "lsig": "AB86z5UeJ3LOePuT4JGaVU-Jw6VT",
-                "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/f1607d36c13d7803df70e6115bf62fa1e468c256b815c5049aa825ba58adecbb0182e424f7d0266e.jpeg",
-                "title": "Guitar Center",
-                "type": "Musical instrument store",
-                "phone": "(719) 591-9040",
-                "address": "Colorado Springs, CO",
-                "hours": "Open ⋅ Closes 9 PM",
-                "place_id": "1649784581365380679",
-                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=1649784581365380679&num=5&q=guitars&safe=active",
-                "gps_coordinates": {
-                    "latitude": 38.840515,
-                    "longitude": -104.755424
-                }
-            },
-            {
-                "position": 2,
-                "rating": 4.5,
-                "reviews_original": "(336)",
-                "reviews": 336,
-                "description": "Seen by shoppers: guitars",
-                "lsig": "AB86z5Vy1xAPB7Xn7O2r2Q2knh4I",
-                "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/f1607d36c13d7803df70e6115bf62fa1c48446d71dde9611101e602709eaee69f5d0ed364e7956be.jpeg",
-                "title": "Music Go Round Colorado Springs",
-                "type": "Musical instrument store",
-                "phone": "(719) 471-3831",
-                "address": "Colorado Springs, CO",
-                "hours": "Open ⋅ Closes 8 PM",
-                "place_id": "6560474138028929287",
-                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6560474138028929287&num=5&q=guitars&safe=active",
-                "gps_coordinates": {
-                    "latitude": 38.876358,
-                    "longitude": -104.8286
-                }
-            }
-        ],
-        "more_locations_link": "https://www.google.com/search?safe=active&sca_esv=1da11bb882cbd233&tbs=lf:1,lf_ui:10&tbm=lcl&q=guitars&rflfq=1&num=10&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QjGp6BAgkEAE"
-    },
-    "immersive_products": [
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f927264d0328943d8d655113f948be66a77.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92ed52e8d8d49e571deac43ef775fedbee0c18bebb26028fa7.png",
-            "source": "Amazon.com - Seller",
-            "title": "Best Choice Products 38in Beginner All Wood Acoustic Guitar Starter Kit w/Gig Bag",
-            "rating": 4,
-            "reviews": 809,
-            "price": "$49.99",
-            "extracted_price": 49.99,
-            "original_price": "$65",
-            "extracted_original_price": 65,
-            "delivery": "Free delivery",
-            "extensions": [
-                "23% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwODQyNjEzNTA0NDgxNDQyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzMTA3OTU2MDk5MDYxOTQ5NDciLCJpbWFnZURvY2lkIjoiMjIzMTY5MjcyMjIzOTIzMDQwMiIsInJkcyI6IlBDXzQwMTU1MTE0MTUyMDIzMjc0MTZ8UFJPRF9QQ180MDE1NTExNDE1MjAyMzI3NDE2IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwODQyNjEzNTA0NDgxNDQyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzMTA3OTU2MDk5MDYxOTQ5NDciLCJpbWFnZURvY2lkIjoiMjIzMTY5MjcyMjIzOTIzMDQwMiIsInJkcyI6IlBDXzQwMTU1MTE0MTUyMDIzMjc0MTZ8UFJPRF9QQ180MDE1NTExNDE1MjAyMzI3NDE2IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f9227dbaa3ab323688639b1433d2477fb37.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f9218221ff2da1a1373738904929c6ffc77f19137b3391c9e8b.png",
-            "source": "Gibson.com",
-            "title": "Gibson Les Paul Studio Electric Guitar",
-            "rating": 5,
-            "reviews": 6,
-            "price": "$1,599.00",
-            "extracted_price": 1599,
-            "delivery": "Free by 10/23",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0NDAyNjgyMDk2MzY2OTkyMzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwNjUyOTU3MjEzMjMyMTExODAiLCJpbWFnZURvY2lkIjoiMTEzNDU0MDA0MDMxNzEyNTAxNjUiLCJyZHMiOiJQQ18yNTA3MDE2MTE1MzUyODA5NzA3fFBST0RfUENfMjUwNzAxNjExNTM1MjgwOTcwNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0NDAyNjgyMDk2MzY2OTkyMzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwNjUyOTU3MjEzMjMyMTExODAiLCJpbWFnZURvY2lkIjoiMTEzNDU0MDA0MDMxNzEyNTAxNjUiLCJyZHMiOiJQQ18yNTA3MDE2MTE1MzUyODA5NzA3fFBST0RfUENfMjUwNzAxNjExNTM1MjgwOTcwNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f927f962896fa77441613135e4850b72dab.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92a0f5cdcbfbac5f9b608c17e0930000c82639064735570041.png",
-            "source": "Guitar Center",
-            "title": "Rogue RA-090 Dreadnought Cutaway Acoustic-Electric Guitar",
-            "rating": 4.4,
-            "reviews": 950,
-            "price": "$109.99",
-            "extracted_price": 109.99,
-            "delivery": "Free by 10/22",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU3Mjg2MDA5ODIxMjgwMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjE5OTM4MDQxMDg2ODM2MTM0NyIsImltYWdlRG9jaWQiOiIyMzQyNTc5OTM1MTE2NTAxMjQ3IiwicmRzIjoiUENfMTU2MDcxMzk1NzA2NTE2MTQzNzR8UFJPRF9QQ18xNTYwNzEzOTU3MDY1MTYxNDM3NCIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU3Mjg2MDA5ODIxMjgwMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjE5OTM4MDQxMDg2ODM2MTM0NyIsImltYWdlRG9jaWQiOiIyMzQyNTc5OTM1MTE2NTAxMjQ3IiwicmRzIjoiUENfMTU2MDcxMzk1NzA2NTE2MTQzNzR8UFJPRF9QQ18xNTYwNzEzOTU3MDY1MTYxNDM3NCIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f920af0adde2492d1c80d986812b2591dc5.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f9289fa6d9b64fb000b2dcdeeaf234950ab8473ea70377a1cc0.jpeg",
-            "source": "Martin Guitar",
-            "title": "Martin D 28 Acoustic Guitar",
-            "rating": 4.9,
-            "reviews": 248,
-            "price": "$3,199.00",
-            "extracted_price": 3199,
-            "delivery": "Free by 10/18",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MzEzMzk2MjM2ODI5MTU4OTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzU2Mzc1NzYxMDI2MTQzODU1IiwiaW1hZ2VEb2NpZCI6IjI0MjgzMzUyMzQwOTk3MTUwMTIiLCJyZHMiOiJQQ18zMzI5NTQwNjE0ODE4MDMwMDY1fFBST0RfUENfMzMyOTU0MDYxNDgxODAzMDA2NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MzEzMzk2MjM2ODI5MTU4OTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzU2Mzc1NzYxMDI2MTQzODU1IiwiaW1hZ2VEb2NpZCI6IjI0MjgzMzUyMzQwOTk3MTUwMTIiLCJyZHMiOiJQQ18zMzI5NTQwNjE0ODE4MDMwMDY1fFBST0RfUENfMzMyOTU0MDYxNDgxODAzMDA2NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92899e1cb32de195b0d0934199fd06a777.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92e0b700c01e1ecb6a07a00ed3e0f4bf5c7c373a4cc0bd4c2e.png",
-            "source": "Sweetwater",
-            "title": "Epiphone Hummingbird Pro Acoustic-Electric Guitar",
-            "rating": 4.6,
-            "reviews": 684,
-            "price": "$449.00",
-            "extracted_price": 449,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkxMzI5MDI3NzkyMTUyNTE2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0ODI1MDQ3MDE3NDQ4ODU2MCIsImltYWdlRG9jaWQiOiIxNDE2NDcxOTM0MTk1NTQzNjA1MCIsInJkcyI6IlBDXzY5NTg5MDY3MzM1NjE3MTYzOTF8UFJPRF9QQ182OTU4OTA2NzMzNTYxNzE2MzkxIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkxMzI5MDI3NzkyMTUyNTE2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0ODI1MDQ3MDE3NDQ4ODU2MCIsImltYWdlRG9jaWQiOiIxNDE2NDcxOTM0MTk1NTQzNjA1MCIsInJkcyI6IlBDXzY5NTg5MDY3MzM1NjE3MTYzOTF8UFJPRF9QQ182OTU4OTA2NzMzNTYxNzE2MzkxIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92651529fbf5e319766e1d171911c059b4.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92ac39a1925d0b5f774aafa060ca8824b0f4d65587d2efc4f7.png",
-            "source": "Amazon.com",
-            "title": "Fender Squier Debut Series Stratocaster Electric Guitar",
-            "price": "$119.99",
-            "extracted_price": 119.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjczMTk3ODkyMTY4Njg3Nzk2MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3NjQ0OTk0ODI0NjU2Nzg3MDQiLCJpbWFnZURvY2lkIjoiMTE3MTI4NTU2NjE4MTc3MTA2NTgiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjczMTk3ODkyMTY4Njg3Nzk2MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3NjQ0OTk0ODI0NjU2Nzg3MDQiLCJpbWFnZURvY2lkIjoiMTE3MTI4NTU2NjE4MTc3MTA2NTgiLCJyZHMiOiIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92249e51433153415b50685e95e8cf7a36.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f9237408185d4f91018b1ac575a5c4cd62f1bf961f5a4bade09.png",
-            "source": "Target",
-            "title": "Rogue RA-090 Acoustic Guitar Sunburst",
-            "rating": 4.3,
-            "reviews": 473,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "delivery": "Free 3-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwMjIwMjA3NTI1MjA1Mzk2NzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0OTI5Mjg4MjYyNjgxNTUxNTM2IiwiaW1hZ2VEb2NpZCI6IjU2NTU3MjU3NDY0OTkyMzA3MzMiLCJyZHMiOiJQQ18xMjM3NDM0MjAyMTA0NDExMjg2OHxQUk9EX1BDXzEyMzc0MzQyMDIxMDQ0MTEyODY4IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwMjIwMjA3NTI1MjA1Mzk2NzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0OTI5Mjg4MjYyNjgxNTUxNTM2IiwiaW1hZ2VEb2NpZCI6IjU2NTU3MjU3NDY0OTkyMzA3MzMiLCJyZHMiOiJQQ18xMjM3NDM0MjAyMTA0NDExMjg2OHxQUk9EX1BDXzEyMzc0MzQyMDIxMDQ0MTEyODY4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f925177bb13158599f6c4047a9e76daec07.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f923985aa89f3406e70bb5479bd072677dd2829c1f7dcb3a757.png",
-            "source": "Guitar Center",
-            "title": "Fender FA-135CE Concert Acoustic-Electric Guitar",
-            "rating": 4.3,
-            "reviews": 370,
-            "price": "$249.99",
-            "extracted_price": 249.99,
-            "delivery": "Free by 10/22",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4ODAyOTM1OTcxMzAxMjcxOTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxMzc2MzEwNzU0OTA5Nzg4NSIsImltYWdlRG9jaWQiOiIzNDU4MzE1NDkxNjc3NDk4OTk0IiwicmRzIjoiUENfNjYwODYzNjk0OTgzODQxMzE2MXxQUk9EX1BDXzY2MDg2MzY5NDk4Mzg0MTMxNjEiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4ODAyOTM1OTcxMzAxMjcxOTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxMzc2MzEwNzU0OTA5Nzg4NSIsImltYWdlRG9jaWQiOiIzNDU4MzE1NDkxNjc3NDk4OTk0IiwicmRzIjoiUENfNjYwODYzNjk0OTgzODQxMzE2MXxQUk9EX1BDXzY2MDg2MzY5NDk4Mzg0MTMxNjEiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f924a3e79345ba4dd82bf8a14120119c450.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f925e22739efd72606074e463feb7fa7455fd6464b90d75eb8d.png",
-            "source": "Yamaha",
-            "title": "Yamaha APX600 Acoustic-Electric Guitar",
-            "rating": 4.8,
-            "reviews": 806,
-            "price": "$339.99",
-            "extracted_price": 339.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzgxNjUxOTc1MDM2MjIxMzE2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzUxMzc0NjY4NDM2MjY1MjIwOCIsImltYWdlRG9jaWQiOiIxODIyNzUzNzkzNjk1MTMwMTk4MiIsInJkcyI6IlBDXzU4NzYxMjE4NTkwMzIyMjc4MTJ8UFJPRF9QQ181ODc2MTIxODU5MDMyMjI3ODEyIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzgxNjUxOTc1MDM2MjIxMzE2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzUxMzc0NjY4NDM2MjY1MjIwOCIsImltYWdlRG9jaWQiOiIxODIyNzUzNzkzNjk1MTMwMTk4MiIsInJkcyI6IlBDXzU4NzYxMjE4NTkwMzIyMjc4MTJ8UFJPRF9QQ181ODc2MTIxODU5MDMyMjI3ODEyIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Popular products",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f92c0dc62723c90f8660f1a621214c7700f.webp",
-            "source_logo": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/ab026dd224d37d5cd35d37e518fa9f9225bd034a59dabf06fd77a997feb2da22f4299e5a4595f637.jpeg",
-            "source": "Martin Guitar",
-            "title": "Martin GPC-X1E Acoustic Electric Guitar",
-            "rating": 3.8,
-            "reviews": 7,
-            "price": "$649.00",
-            "extracted_price": 649,
-            "delivery": "Free by 10/18",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUxMTM0MjQwODY0MTIwMDY2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3NDUyNzkzOTg1NDM5NDgwMTQiLCJpbWFnZURvY2lkIjoiMTQ2MTY2ODI1NzU5MDE3NDYxNzgiLCJyZHMiOiJQQ18xNDE5MDg2MjQzNDcwOTc4MTkxNnxQUk9EX1BDXzE0MTkwODYyNDM0NzA5NzgxOTE2IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUxMTM0MjQwODY0MTIwMDY2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3NDUyNzkzOTg1NDM5NDgwMTQiLCJpbWFnZURvY2lkIjoiMTQ2MTY2ODI1NzU5MDE3NDYxNzgiLCJyZHMiOiJQQ18xNDE5MDg2MjQzNDcwOTc4MTkxNnxQUk9EX1BDXzE0MTkwODYyNDM0NzA5NzgxOTE2IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3qvS8fN_qQM0I0CK25gOqM7S0AYyTExx4v9ZCB2PIh5P5Ql5hRa0al4E-fCyhBWoBslr2cAju-CncXMSGPTIHM4RM9eJDyJdd_OAb7LV5s1fi_q3CD5IY",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "Martin D 28 Acoustic Guitar",
-            "rating": 4.9,
-            "reviews": 248,
-            "price": "$3,199.00",
-            "extracted_price": 3199,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MzEzMzk2MjM2ODI5MTU4OTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MTEwMDc3NjQyODYxMzIzMjU2IiwiaW1hZ2VEb2NpZCI6Ijg0OTk2MzY4NDg0NTQwNDQxNzEiLCJyZHMiOiJQQ18zMzI5NTQwNjE0ODE4MDMwMDY1fFBST0RfUENfMzMyOTU0MDYxNDgxODAzMDA2NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MzEzMzk2MjM2ODI5MTU4OTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MTEwMDc3NjQyODYxMzIzMjU2IiwiaW1hZ2VEb2NpZCI6Ijg0OTk2MzY4NDg0NTQwNDQxNzEiLCJyZHMiOiJQQ18zMzI5NTQwNjE0ODE4MDMwMDY1fFBST0RfUENfMzMyOTU0MDYxNDgxODAzMDA2NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSX8tfyXn_WyhsA5RGU3TwDRD236N41SRfV78stBFfyx6D3v_Udkqi0wKJiZOip6_Oe_a2zJqDgv0bw1MO-EfFZfHNXfGUyXKMka14r1Em_62SmMFgGvUw",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCJST0_n6baIJ69nhkCrIyoz9g4weTv6Tnb31WuI92BekXGXWM2AI2yrf31v_Eb5dOtdj9hxiX9VhVk4yIsb090d6hnnT0Kg",
-            "source": "zZounds",
-            "title": "Gibson Les Paul Studio Electric Guitar",
-            "rating": 5,
-            "reviews": 6,
-            "price": "$1,599.00",
-            "extracted_price": 1599,
-            "delivery": "Free 3-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0NDAyNjgyMDk2MzY2OTkyMzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1ODIxNzYzNzk0NTg2Mjg2MTciLCJpbWFnZURvY2lkIjoiMTIyNDQyMTc5NzA1MDYxNDI5MTUiLCJyZHMiOiJQQ18yNTA3MDE2MTE1MzUyODA5NzA3fFBST0RfUENfMjUwNzAxNjExNTM1MjgwOTcwNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0NDAyNjgyMDk2MzY2OTkyMzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1ODIxNzYzNzk0NTg2Mjg2MTciLCJpbWFnZURvY2lkIjoiMTIyNDQyMTc5NzA1MDYxNDI5MTUiLCJyZHMiOiJQQ18yNTA3MDE2MTE1MzUyODA5NzA3fFBST0RfUENfMjUwNzAxNjExNTM1MjgwOTcwNyIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdqQlMcgWqjEk5VKyaCzUpKx3fCzldYrb-q1DTqeQmX5k6fd6QBtAsyxvQ8KX5EtOrdxsRJP2zRUWzLuUj5tNOT1AGCYuYDUjyK0P8LzxKYtk0aPKdeHM7",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
-            "source": "Target",
-            "title": "Rogue RA-090 Acoustic Guitar Sunburst",
-            "rating": 4.3,
-            "reviews": 473,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "delivery": "Free 3-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwMjIwMjA3NTI1MjA1Mzk2NzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0OTI5Mjg4MjYyNjgxNTUxNTM2IiwiaW1hZ2VEb2NpZCI6IjU2NTU3MjU3NDY0OTkyMzA3MzMiLCJyZHMiOiJQQ18xMjM3NDM0MjAyMTA0NDExMjg2OHxQUk9EX1BDXzEyMzc0MzQyMDIxMDQ0MTEyODY4IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwMjIwMjA3NTI1MjA1Mzk2NzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0OTI5Mjg4MjYyNjgxNTUxNTM2IiwiaW1hZ2VEb2NpZCI6IjU2NTU3MjU3NDY0OTkyMzA3MzMiLCJyZHMiOiJQQ18xMjM3NDM0MjAyMTA0NDExMjg2OHxQUk9EX1BDXzEyMzc0MzQyMDIxMDQ0MTEyODY4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThQU8uodbDNMR7lDalhuqOSMca9hQBXhcRB5bKER3pArWXQyGSLVBPQDM-xeULAua_cHBwZtraoMRw2ZITHQS8n7QFYdmLfEOVtNCZ_A",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTbO40r0mAoKrQ5IsDNWsTPiY4SRbYlBLdNd4Y6lj9y-cli8Q-EV1z6Qt0TnZKuK5B4tkAwXOu41p-CoQWlZCxxWYqvKqAGxrwRuA",
-            "source": "Taylor Guitars",
-            "title": "Taylor 150ce 12-String Acoustic Electric Guitar",
-            "rating": 5,
-            "reviews": 3,
-            "price": "$899.00",
-            "extracted_price": 899,
-            "original_price": "Usually $999",
-            "extracted_original_price": 999,
-            "delivery": "Free 3-day",
-            "extensions": [
-                "LOW PRICE"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDk0NTE2NzkxNzcxNjEyNTc3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3Nzg4NDczNzQwOTQzMjYyOTA5IiwiaW1hZ2VEb2NpZCI6IjE1MjkyMTg3NTYwMTQyNDYzMjg1IiwicmRzIjoiUENfMTUzMDQ4ODczNjc2MTU2MjM0OTh8UFJPRF9QQ18xNTMwNDg4NzM2NzYxNTYyMzQ5OCIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDk0NTE2NzkxNzcxNjEyNTc3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3Nzg4NDczNzQwOTQzMjYyOTA5IiwiaW1hZ2VEb2NpZCI6IjE1MjkyMTg3NTYwMTQyNDYzMjg1IiwicmRzIjoiUENfMTUzMDQ4ODczNjc2MTU2MjM0OTh8UFJPRF9QQ18xNTMwNDg4NzM2NzYxNTYyMzQ5OCIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8oczNiocY3yRHZwnLN0b98tMBv26KE1wyNhnSy7LiDGhTfybIUTv3s0d5rMqLQoSsZhC83dPVzluSRSXb6EzsMHmW8-bnsk9YE6TR0JOHa1G24OifUuFhbQ",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "Epiphone Hummingbird Pro Acoustic-Electric Guitar",
-            "rating": 4.6,
-            "reviews": 684,
-            "price": "$449.00",
-            "extracted_price": 449,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkxMzI5MDI3NzkyMTUyNTE2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0ODI1MDQ3MDE3NDQ4ODU2MCIsImltYWdlRG9jaWQiOiIxNDE2NDcxOTM0MTk1NTQzNjA1MCIsInJkcyI6IlBDXzY5NTg5MDY3MzM1NjE3MTYzOTF8UFJPRF9QQ182OTU4OTA2NzMzNTYxNzE2MzkxIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkxMzI5MDI3NzkyMTUyNTE2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0ODI1MDQ3MDE3NDQ4ODU2MCIsImltYWdlRG9jaWQiOiIxNDE2NDcxOTM0MTk1NTQzNjA1MCIsInJkcyI6IlBDXzY5NTg5MDY3MzM1NjE3MTYzOTF8UFJPRF9QQ182OTU4OTA2NzMzNTYxNzE2MzkxIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqOpKUPta1ndqoWknmfnT-vbT9aA2N5yppxGdk_0kdomUiAXMT9wFRZQA-63UkGksn974cL5j9YGMUOMj8ccN5KghD4gHEWMyNFzlbgEaeJZqG-Z9AZ9_E",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "Yamaha APX600 Acoustic-Electric Guitar",
-            "rating": 4.8,
-            "reviews": 806,
-            "price": "$339.99",
-            "extracted_price": 339.99,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzgxNjUxOTc1MDM2MjIxMzE2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzEwOTI4NDExMjQ0NTQ2NDg4MiIsImltYWdlRG9jaWQiOiIyNTI1Nzk3NDQ1MjUxMTk5ODE3IiwicmRzIjoiUENfNTg3NjEyMTg1OTAzMjIyNzgxMnxQUk9EX1BDXzU4NzYxMjE4NTkwMzIyMjc4MTIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzgxNjUxOTc1MDM2MjIxMzE2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzEwOTI4NDExMjQ0NTQ2NDg4MiIsImltYWdlRG9jaWQiOiIyNTI1Nzk3NDQ1MjUxMTk5ODE3IiwicmRzIjoiUENfNTg3NjEyMTg1OTAzMjIyNzgxMnxQUk9EX1BDXzU4NzYxMjE4NTkwMzIyMjc4MTIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTU8SBC700B2vlHJbQVk80xN2peqyZnV1Werfpd1wvU6mDI_RTMyvnqzwX1golcItuwqRH_BaXTK5mVhONGzCsQgtrUhDuKTepdmYv7Eww",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCJST0_n6baIJ69nhkCrIyoz9g4weTv6Tnb31WuI92BekXGXWM2AI2yrf31v_Eb5dOtdj9hxiX9VhVk4yIsb090d6hnnT0Kg",
-            "source": "zZounds",
-            "title": "Fender Player II Stratocaster",
-            "rating": 4.8,
-            "reviews": 27,
-            "price": "$799.99",
-            "extracted_price": 799.99,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjMwODQzMDk4OTc1MTAyNDkwMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxMTYzMzA1NjY1NjEyODU4MCIsImltYWdlRG9jaWQiOiIxNzQ3MjYzNzM2NDAzODE5Njg4MiIsInJkcyI6IlBDXzY0ODYwNTMyNTQxMjUxODM2NDl8UFJPRF9QQ182NDg2MDUzMjU0MTI1MTgzNjQ5IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjMwODQzMDk4OTc1MTAyNDkwMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxMTYzMzA1NjY1NjEyODU4MCIsImltYWdlRG9jaWQiOiIxNzQ3MjYzNzM2NDAzODE5Njg4MiIsInJkcyI6IlBDXzY0ODYwNTMyNTQxMjUxODM2NDl8UFJPRF9QQ182NDg2MDUzMjU0MTI1MTgzNjQ5IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1iHszWDeCE2wEDpL0sO51d2s8sL0Viu5wWH9C9eZmQfjlqm_Dj0E7z2wYNDs1CDa2jAuF5axiTTaTUhVi3VQ0GtD5Z4nOmeAvPMBJab7y-ja63rslt6wK",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
-            "source": "Target",
-            "title": "Rogue Rocketeer Electric Guitar",
-            "rating": 4.3,
-            "reviews": 525,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "original_price": "$130",
-            "extracted_original_price": 130,
-            "delivery": "Free 3-day",
-            "extensions": [
-                "23% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY5MTkwNDczNTc5NzA3NDk5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTQzODIxNDg4OTMxNDM5MjA0NyIsImltYWdlRG9jaWQiOiI5MzUwMzk0NjE0OTIwNzgxNjYwIiwicmRzIjoiUENfOTg3ODcwMTk4NzUwNjc2MDMwOHxQUk9EX1BDXzk4Nzg3MDE5ODc1MDY3NjAzMDgiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY5MTkwNDczNTc5NzA3NDk5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTQzODIxNDg4OTMxNDM5MjA0NyIsImltYWdlRG9jaWQiOiI5MzUwMzk0NjE0OTIwNzgxNjYwIiwicmRzIjoiUENfOTg3ODcwMTk4NzUwNjc2MDMwOHxQUk9EX1BDXzk4Nzg3MDE5ODc1MDY3NjAzMDgiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtHNKGOz5X8m-dVXOkyQZc-Ttv8huhm1EOb6jWGQNUm140AOXT8zZ_LgdiooHmrciUhO3gIkCFU7W36Vmq6-KpC98Fw2qBO_Km8ilO8ns",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTbO40r0mAoKrQ5IsDNWsTPiY4SRbYlBLdNd4Y6lj9y-cli8Q-EV1z6Qt0TnZKuK5B4tkAwXOu41p-CoQWlZCxxWYqvKqAGxrwRuA",
-            "source": "Taylor Guitars",
-            "title": "Taylor GS Mini Mahogany Acoustic Guitar",
-            "rating": 4.8,
-            "reviews": 885,
-            "price": "$599.00",
-            "extracted_price": 599,
-            "delivery": "Free 3-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxOTcyOTExNzg1ODMyMzk4NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU5MDkxMDc0NzI3NTgwMTY3MTIiLCJpbWFnZURvY2lkIjoiOTQxMzY4MDI5NTg1NzAwMzU1MSIsInJkcyI6IlBDXzYxMjc4MTg1MzcxODkxMjM0MjV8UFJPRF9QQ182MTI3ODE4NTM3MTg5MTIzNDI1IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxOTcyOTExNzg1ODMyMzk4NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU5MDkxMDc0NzI3NTgwMTY3MTIiLCJpbWFnZURvY2lkIjoiOTQxMzY4MDI5NTg1NzAwMzU1MSIsInJkcyI6IlBDXzYxMjc4MTg1MzcxODkxMjM0MjV8UFJPRF9QQ182MTI3ODE4NTM3MTg5MTIzNDI1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Fast pickup or delivery",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQByoF7OVrPdwV7YnQWWAMiS5eBr7dbFQH2-ClrxQgWrjqLmenGl2vWqgg_cLSQGfRNy6oIj2Q5WyZOKLpJSsK-yosOjHzOjmX7cqCdG947_1nJ7fEvA0sM3g",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "PRS SE Electric Guitar",
-            "rating": 4.8,
-            "reviews": 224,
-            "price": "$849.00",
-            "extracted_price": 849,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY5Mjc3OTA3OTIzMTc5ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA3NTEwOTkwODQxMTQxNjQyMTIiLCJpbWFnZURvY2lkIjoiMzIyMzI4MzIxMzI2NjIyMzE0MCIsInJkcyI6IlBDXzI4NjI5MDk0MTQwMzk5MjY3OTZ8UFJPRF9QQ18yODYyOTA5NDE0MDM5OTI2Nzk2IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY5Mjc3OTA3OTIzMTc5ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA3NTEwOTkwODQxMTQxNjQyMTIiLCJpbWFnZURvY2lkIjoiMzIyMzI4MzIxMzI2NjIyMzE0MCIsInJkcyI6IlBDXzI4NjI5MDk0MTQwMzk5MjY3OTZ8UFJPRF9QQ18yODYyOTA5NDE0MDM5OTI2Nzk2IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSA2JiKyjyTqJyOsc2pkGz43IrHJjCIFuswg0mDy3LBBVXrUahm2k6WZ7297s_aBP5R7idEVf6GDYAwCyFaDiQVuLOWCZ10",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
-            "source": "Amazon",
-            "title": "Fender Player Stratocaster",
-            "rating": 4.8,
-            "reviews": 846,
-            "price": "$679.99",
-            "extracted_price": 679.99,
-            "original_price": "$800",
-            "extracted_original_price": 800,
-            "extensions": [
-                "15% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjUxNzkyNzA0NjUwMTEzMjA3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTUyODM4NDAzNjAyNDgyMDUyOSIsImltYWdlRG9jaWQiOiIxNjY5Mzc0NzMzMjE0NTIxODI4MCIsInJkcyI6IlBDXzMzODY5MjkzODg1NTA0OTY0NzV8UFJPRF9QQ18zMzg2OTI5Mzg4NTUwNDk2NDc1IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjUxNzkyNzA0NjUwMTEzMjA3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTUyODM4NDAzNjAyNDgyMDUyOSIsImltYWdlRG9jaWQiOiIxNjY5Mzc0NzMzMjE0NTIxODI4MCIsInJkcyI6IlBDXzMzODY5MjkzODg1NTA0OTY0NzV8UFJPRF9QQ18zMzg2OTI5Mzg4NTUwNDk2NDc1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS0KhvDIOT3C6T1Szo5TBMMyRqb92UrAszxwXDpk_b4B-DPw_pGkQ0F3hW56MNAdSUkaernLQdozX5TpFAJVT06_qKbI1QHSG1LZTaE_lnYvBy99CvMJg8cg",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu7prefiWK_9aeR52iM1ELj5kzXwplMELdhwd-SLGrnHFu-1rYr5a923LrfwJBoCzLHFCevret0bypkEGIOPLpMsq-aVMtOA",
-            "source": "Walmart - Best Choice Products",
-            "title": "Best Choice Products 38in Beginner All Wood Acoustic Guitar Starter Kit w/Gig Bag",
-            "rating": 4.1,
-            "reviews": 807,
-            "price": "$49.99",
-            "extracted_price": 49.99,
-            "original_price": "$100",
-            "extracted_original_price": 100,
-            "delivery": "Free delivery",
-            "extensions": [
-                "50% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDI5NzExODE4NjE4Mzk0NTg2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTYwOTAwMDY5OTU5NTAzNTc0MSIsImltYWdlRG9jaWQiOiI0MzA5ODU2MDg5NzcyNDI1MzYzIiwicmRzIjoiUENfMTUwNjYxNTYzODc3NTI5MzI0ODV8UFJPRF9QQ18xNTA2NjE1NjM4Nzc1MjkzMjQ4NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDI5NzExODE4NjE4Mzk0NTg2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTYwOTAwMDY5OTU5NTAzNTc0MSIsImltYWdlRG9jaWQiOiI0MzA5ODU2MDg5NzcyNDI1MzYzIiwicmRzIjoiUENfMTUwNjYxNTYzODc3NTI5MzI0ODV8UFJPRF9QQ18xNTA2NjE1NjM4Nzc1MjkzMjQ4NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAILZtN8xeMpJRHMttGQLRK_JXsTrN_REfqcpMzqt1PNhxOiziH1NNgKnrx85bnasCsw4PqzjhA7JpkyrfpwYr_sP4m_6HNSwr9cNOEw9dakYjj9vObM3Y",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
-            "source": "Target",
-            "title": "Rogue RA-090 Concert Cutaway Acoustic-Electric Guitar",
-            "rating": 4.4,
-            "reviews": 448,
-            "price": "$79.99",
-            "extracted_price": 79.99,
-            "original_price": "$100",
-            "extracted_original_price": 100,
-            "delivery": "Free 3-day",
-            "extensions": [
-                "20% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA0NDM0ODMzMzk0Mjc4NTU2MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjUxMTc0OTIzMjYzMzM2NTQ5NiIsImltYWdlRG9jaWQiOiIxNjk2ODU4NTM2Mzk5MDM3NjQ0MyIsInJkcyI6IlBDXzIwMDM2NTI0NDAzOTQ2OTEwMTh8UFJPRF9QQ18yMDAzNjUyNDQwMzk0NjkxMDE4IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA0NDM0ODMzMzk0Mjc4NTU2MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjUxMTc0OTIzMjYzMzM2NTQ5NiIsImltYWdlRG9jaWQiOiIxNjk2ODU4NTM2Mzk5MDM3NjQ0MyIsInJkcyI6IlBDXzIwMDM2NTI0NDAzOTQ2OTEwMTh8UFJPRF9QQ18yMDAzNjUyNDQwMzk0NjkxMDE4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1z-SwO45LvrTbGhXeb9U45uOS1sfKQjgLwH0yK58YQg1B_3IAcVLOcmFjJ-2APXrwyvvaEe1RIsUTWKqj6nwxamc_om81iVK3UlMiznkMNU0hy1qFZZa45g",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQaJ16qmIYpS6wpE0fFFXu1DhLIxf7hPxU2_1o1bZMPl-vbiZbhbJSUyYLX7AjxBcBv0H5yEEzgc5kZ6oLtLfe7VSIwNa7gHj9erwWT_nY",
-            "source": "Best Choice Products",
-            "title": "Best Choice Products 41in Full Size Beginner Acoustic Guitar",
-            "rating": 4.3,
-            "reviews": 561,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "original_price": "$200",
-            "extracted_original_price": 200,
-            "delivery": "Free by 10/25",
-            "extensions": [
-                "50% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjgxODU0NzIxNDA4NDUzNDMwOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk3NzUwMzU0NjgyNDU0NDUxMyIsImltYWdlRG9jaWQiOiIzNTA2NTcxMjM0MDU5MDk4ODI0IiwicmRzIjoiUENfMTczNTYyMzAzOTMzMDc1NDQzNjd8UFJPRF9QQ18xNzM1NjIzMDM5MzMwNzU0NDM2NyIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjgxODU0NzIxNDA4NDUzNDMwOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk3NzUwMzU0NjgyNDU0NDUxMyIsImltYWdlRG9jaWQiOiIzNTA2NTcxMjM0MDU5MDk4ODI0IiwicmRzIjoiUENfMTczNTYyMzAzOTMzMDc1NDQzNjd8UFJPRF9QQ18xNzM1NjIzMDM5MzMwNzU0NDM2NyIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXRQt7a1RtDCBYYozDf7qZQa2fYG6tXcFQcbQ8u-jevtoRgtkH7Xtjipel9IRQ_tywxTfSlPubdsKbq5_T6VBdmHo8kbXo6ISSruc5pbhWq4Arqs7zcATw_g",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk_exPdub5NztK4F83xLKPzFu5Qwo-Bn9GqutDARDNr-9jk5wGa4eZcLLa-Xsz0XXdAUUlJdE8f6o8MxUp1tu2Mr3g3DApCOaIz82M20BzXQ",
-            "source": "Musicians Friend",
-            "title": "Rogue Rocketeer Electric Guitar",
-            "rating": 4.3,
-            "reviews": 525,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "original_price": "$130",
-            "extracted_original_price": 130,
-            "delivery": "Free by 10/22",
-            "extensions": [
-                "23% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjczNjM2NjExODU3ODE4NjcxNDEiLCJpbWFnZURvY2lkIjoiOTExNzcxMDc3NTE5ODYzNzY4NyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQxMzMzNjA5NzAxMTE0MDc4MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjczNjM2NjExODU3ODE4NjcxNDEiLCJpbWFnZURvY2lkIjoiOTExNzcxMDc3NTE5ODYzNzY4NyIsInJkcyI6IlBDXzk4Nzg3MDE5ODc1MDY3NjAzMDh8UFJPRF9QQ185ODc4NzAxOTg3NTA2NzYwMzA4IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlroHHfZAW_bzvKgJ9i84k85IScDyuronkILldK0aN2N81HAidr6Dg73GL02E4eoa4WdQvCOnkDnWEgERDPZZ9VVuH2-yt_oG0xpE-6jcoOel-usT3_wQb",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
-            "source": "Amazon.com",
-            "title": "IYV 6 String Strat Solid-Body Electric Guitar",
-            "price": "$175.40",
-            "extracted_price": 175.4,
-            "original_price": "$282",
-            "extracted_original_price": 282,
-            "delivery": "Free delivery",
-            "extensions": [
-                "37% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1MTcyMDA0NzA2MzMyOTM2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNDA0MDg5NjA2NDk4MjQwMSIsImltYWdlRG9jaWQiOiIxMTk3NzczMzA4MTY2Nzk1NTg4OCIsInJkcyI6IiIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1MTcyMDA0NzA2MzMyOTM2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNDA0MDg5NjA2NDk4MjQwMSIsImltYWdlRG9jaWQiOiIxMTk3NzczMzA4MTY2Nzk1NTg4OCIsInJkcyI6IiIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQQTm2bts88SHeDYxxwLQrvNDot-qPhx8FBuwOs0bP8YnNQmHKoFqRRGWVYMb31gRU6uiqMc2I5_gznWR0EjEAH4_nqndmkvwCRXUB68g7p38V84Uiq9VIF",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
-            "source": "Walmart",
-            "title": "Main Street MAS38PNK Acoustic Guitar",
-            "price": "$61.13",
-            "extracted_price": 61.13,
-            "original_price": "$108",
-            "extracted_original_price": 108,
-            "delivery": "Free delivery",
-            "extensions": [
-                "43% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk0OTQ3NzI1MDczNzY1NTQ5MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTMxNTI0MjYyMTcyNDExMTY4MiIsImltYWdlRG9jaWQiOiI2OTc2MTcyMTg1MzA5OTkyNzI1IiwicmRzIjoiIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk0OTQ3NzI1MDczNzY1NTQ5MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTMxNTI0MjYyMTcyNDExMTY4MiIsImltYWdlRG9jaWQiOiI2OTc2MTcyMTg1MzA5OTkyNzI1IiwicmRzIjoiIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjdqsoPOVLA7yNOfJvEH2Cgit29yxuM2WBdoyikFJ5SIueYlDfuzgO3Tf6dvrOZA_uaiQorvcaeoIf0plafVkIiNgiBUpJ5eENyfpEUhs",
-            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRPjAlpAbWNqxNq2wUoUpJqJ_PjnxRuSuj9ToVWrreAWJNmGb9LsehIX5wv3gUUvDN4CBKiDj-R1pYsvZrag0RIdwamsHG8zlNbkQ",
-            "source": "Lava Music",
-            "title": "Lava Music ME 3 Acoustic-Electric Guitar with Space Bag",
-            "rating": 4.6,
-            "reviews": 34,
-            "price": "$549.00",
-            "extracted_price": 549,
-            "original_price": "Usually $899",
-            "extracted_original_price": 899,
-            "delivery": "Free delivery",
-            "extensions": [
-                "LOW PRICE"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY4MDUyMTY0OTE0NDU2Mzc5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3ODcyMDA0MDQzOTgzNDM4NTYiLCJpbWFnZURvY2lkIjoiMTA3NTQzMTI4OTU5ODA4MTY3MzQiLCJyZHMiOiJQQ18xOTg0MDA5NzQzODU1OTk4MDgyfFBST0RfUENfMTk4NDAwOTc0Mzg1NTk5ODA4MiIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjY4MDUyMTY0OTE0NDU2Mzc5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3ODcyMDA0MDQzOTgzNDM4NTYiLCJpbWFnZURvY2lkIjoiMTA3NTQzMTI4OTU5ODA4MTY3MzQiLCJyZHMiOiJQQ18xOTg0MDA5NzQzODU1OTk4MDgyfFBST0RfUENfMTk4NDAwOTc0Mzg1NTk5ODA4MiIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRiHT6F08IGaWolhnc_Q2BQfM3tis1h1LL36BW0MWQRnntjIHGdlhb60qLFVLyHc5yFBIgsovktWuDyPXzKRIQ40rxzaf3uWdghv8igmFmF_NVhAdLp20TBg",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
-            "source": "Target",
-            "title": "Davison Guitars Full Size Electric Guitar Beginner Kit",
-            "rating": 4.1,
-            "reviews": 9,
-            "price": "$69.89",
-            "extracted_price": 69.89,
-            "original_price": "Usually $80",
-            "extracted_original_price": 80,
-            "delivery": "Free 3-day",
-            "extensions": [
-                "LOW PRICE"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNzA5ODY2MTM1NzI1ODgyNjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzgyMzA0ODUwNDgzMjU5MjYyIiwiaW1hZ2VEb2NpZCI6IjQwNjI0NzE3NDM4NTY3NDQxOTAiLCJyZHMiOiJQQ183MDk5MDUwNjk4MzA2NTE1MDYxfFBST0RfUENfNzA5OTA1MDY5ODMwNjUxNTA2MSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNzA5ODY2MTM1NzI1ODgyNjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzgyMzA0ODUwNDgzMjU5MjYyIiwiaW1hZ2VEb2NpZCI6IjQwNjI0NzE3NDM4NTY3NDQxOTAiLCJyZHMiOiJQQ183MDk5MDUwNjk4MzA2NTE1MDYxfFBST0RfUENfNzA5OTA1MDY5ODMwNjUxNTA2MSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "Deals on Guitars",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsIj7LGhg3vqwcjR37-pu2yU3x3o4iTR8Mvyb1ativ57ipXLwDCtHYnShX51lFsE18F1Xlz2K9tVI47HG__ItZxis_MhJTTY8ZrZ8XIOkIL0Ju0LN4kDQ",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSWeoiJfKPgsGaYLPzK2PdV6Ys1mnYPBsl_oiBl-N63jM9CmhbPeKSNAQS6Ra_c8DHCI4CAHJWJiZe38pxQgPUXX1UOlnnLHPE",
-            "source": "Zager Guitars",
-            "title": "Zager Acoustic Electric Guitar",
-            "rating": 5,
-            "reviews": 3,
-            "price": "$2,595.00",
-            "extracted_price": 2595,
-            "original_price": "$3,195",
-            "extracted_original_price": 3195,
-            "delivery": "Free by 10/22",
-            "extensions": [
-                "18% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTYxODI3ODE4MjY4OTE5MDYyNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxOTE3MzI1NTAwNzQwMzk3ODUiLCJpbWFnZURvY2lkIjoiNzM4NDAyODQyMTY5MTY5ODQ3NCIsInJkcyI6IlBDXzYwODA0NjQyODIxMjUxNzAxMjB8UFJPRF9QQ182MDgwNDY0MjgyMTI1MTcwMTIwIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTYxODI3ODE4MjY4OTE5MDYyNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxOTE3MzI1NTAwNzQwMzk3ODUiLCJpbWFnZURvY2lkIjoiNzM4NDAyODQyMTY5MTY5ODQ3NCIsInJkcyI6IlBDXzYwODA0NjQyODIxMjUxNzAxMjB8UFJPRF9QQ182MDgwNDY0MjgyMTI1MTcwMTIwIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgDU_LPsRBPMLpyOqbbItvzziD-C_Cfjakl-oWYLn2G9slm6KbOCQgFR-A0npsoGHnR7u7VJzCE1b4FsdF2Orao0wmOvjXa80e6luYMxUUpcfXk0Kj-F0Fzg",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
-            "source": "Amazon.com - Seller",
-            "title": "Yamaha FG800 Folk Acoustic Guitar",
-            "rating": 4.8,
-            "reviews": 628,
-            "price": "$229.99",
-            "extracted_price": 229.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3Mjk0NzExOTU2Nzk5NTEzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzU1MDY4OTc0Mjk3OTc3NjM1NSIsImltYWdlRG9jaWQiOiI0MDA3Mzg5ODUyODMyMjk2MDY1IiwicmRzIjoiUENfMzUzMTIzODA2NDU0NjA3MTI2NHxQUk9EX1BDXzM1MzEyMzgwNjQ1NDYwNzEyNjQiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3Mjk0NzExOTU2Nzk5NTEzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzU1MDY4OTc0Mjk3OTc3NjM1NSIsImltYWdlRG9jaWQiOiI0MDA3Mzg5ODUyODMyMjk2MDY1IiwicmRzIjoiUENfMzUzMTIzODA2NDU0NjA3MTI2NHxQUk9EX1BDXzM1MzEyMzgwNjQ1NDYwNzEyNjQiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRldbAQOOzcCQVCFh_kJsdoBCqO2aq2R1VGRLuoLJspziBcKGaPSObtDUI2fCtZ6iPP7Mw1uzg7S8mlhKThcvrqpHwgoQuF7UzkG-0SDXlFKDnx3ffleJ6q",
-            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR9s3vjmi5sOprg9AgaXnqeOfhfOUnh4h7Zdtp4LUdNSQNRraWlFzFO-9o4KS2PFDk9iH6p6oV6wLOxf1TSnRDUOJa7cE02LA",
-            "source": "Gibson.com",
-            "title": "Gibson Les Paul Standard '60s Electric Guitar",
-            "rating": 4.9,
-            "reviews": 398,
-            "price": "$2,799.00",
-            "extracted_price": 2799,
-            "delivery": "Free by 10/23",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTczNjMwMjA0MTc3OTM2ODEzMjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MzU3MDUxNDA1MDI0NjE1NCIsImltYWdlRG9jaWQiOiIxNTQ1NTUwMjUzNjk3MjY2MDM2NSIsInJkcyI6IlBDXzE3NTcyODEzNDUyODY0ODkyNjgyfFBST0RfUENfMTc1NzI4MTM0NTI4NjQ4OTI2ODIiLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTczNjMwMjA0MTc3OTM2ODEzMjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MzU3MDUxNDA1MDI0NjE1NCIsImltYWdlRG9jaWQiOiIxNTQ1NTUwMjUzNjk3MjY2MDM2NSIsInJkcyI6IlBDXzE3NTcyODEzNDUyODY0ODkyNjgyfFBST0RfUENfMTc1NzI4MTM0NTI4NjQ4OTI2ODIiLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTeW08OA_DwaiUJyoUdzcYgggkapeSDyTKVz08T7PRQvjyt4re2TVrDexd0UgsDAh9L_5Bhve2lePW_Kb8i1QEf5DiU_PX1XDf5M3xz9jxmkI13wipLCQRZCA",
-            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
-            "source": "Guitar Center",
-            "title": "Epiphone Les Paul Standard '60s Quilt Top Limited-Edition Electric Guitar",
-            "rating": 4.7,
-            "reviews": 58,
-            "price": "$699.00",
-            "extracted_price": 699,
-            "delivery": "Free by 10/22",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3MzA2MDI4NTgzNjI3OTAyMzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTA0NDQzMDUwMjM1ODUzMjAwIiwiaW1hZ2VEb2NpZCI6IjU1ODU4NDczNjE5NTM5MTIwMDUiLCJyZHMiOiJQQ18xNTk1NTM0OTM5NTcwNjIxODE1MXxQUk9EX1BDXzE1OTU1MzQ5Mzk1NzA2MjE4MTUxIiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3MzA2MDI4NTgzNjI3OTAyMzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTA0NDQzMDUwMjM1ODUzMjAwIiwiaW1hZ2VEb2NpZCI6IjU1ODU4NDczNjE5NTM5MTIwMDUiLCJyZHMiOiJQQ18xNTk1NTM0OTM5NTcwNjIxODE1MXxQUk9EX1BDXzE1OTU1MzQ5Mzk1NzA2MjE4MTUxIiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQByoF7OVrPdwV7YnQWWAMiS5eBr7dbFQH2-ClrxQgWrjqLmenGl2vWqgg_cLSQGfRNy6oIj2Q5WyZOKLpJSsK-yosOjHzOjmX7cqCdG947_1nJ7fEvA0sM3g",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "PRS SE Electric Guitar",
-            "rating": 4.8,
-            "reviews": 224,
-            "price": "$849.00",
-            "extracted_price": 849,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY5Mjc3OTA3OTIzMTc5ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA3NTEwOTkwODQxMTQxNjQyMTIiLCJpbWFnZURvY2lkIjoiMzIyMzI4MzIxMzI2NjIyMzE0MCIsInJkcyI6IlBDXzI4NjI5MDk0MTQwMzk5MjY3OTZ8UFJPRF9QQ18yODYyOTA5NDE0MDM5OTI2Nzk2IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY5Mjc3OTA3OTIzMTc5ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA3NTEwOTkwODQxMTQxNjQyMTIiLCJpbWFnZURvY2lkIjoiMzIyMzI4MzIxMzI2NjIyMzE0MCIsInJkcyI6IlBDXzI4NjI5MDk0MTQwMzk5MjY3OTZ8UFJPRF9QQ18yODYyOTA5NDE0MDM5OTI2Nzk2IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpLqYNzVGoyorQlVwfjraDEuBEl6iHget7mQxOEIgPHka0x518_5jG6ilLCzosNp2PXSLiT922MZfCgjrN65bIESp2v-OAfZCuiXnteAclmi_IL93YBGB2qg",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcThiMcxEfKNGyjci2YE5OB75oMKKOdA5mIBYSd468jeS833eisThu9N4xS39dhHO3g51zoMoifcgyl_iAlaWM4w57eOx79fkg",
-            "source": "Yamaha",
-            "title": "Yamaha PAC012 Pacifica Electric Guitar",
-            "rating": 4.6,
-            "reviews": 643,
-            "price": "$219.99",
-            "extracted_price": 219.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2MjEyOTQ2NzA4ODcxMTE5MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc0OTExOTgwMTc2MjcxMTEwNDYiLCJpbWFnZURvY2lkIjoiMjIzMDgyNjI2NzA5MzkzNTIyIiwicmRzIjoiUENfMTE3ODUxNTEyNjkyODY4OTQ0NDV8UFJPRF9QQ18xMTc4NTE1MTI2OTI4Njg5NDQ0NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2MjEyOTQ2NzA4ODcxMTE5MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc0OTExOTgwMTc2MjcxMTEwNDYiLCJpbWFnZURvY2lkIjoiMjIzMDgyNjI2NzA5MzkzNTIyIiwicmRzIjoiUENfMTE3ODUxNTEyNjkyODY4OTQ0NDV8UFJPRF9QQ18xMTc4NTE1MTI2OTI4Njg5NDQ0NSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqQYtHS7jTN_oJSXsprp03Po0ur071bmoKJD62LVk3F5MjvyVpZcbK4IKMcCULrEWeIPAO0vhIrVyUcwEWchLyFCrGZgdUbtqeIkQBQNJhYWyZeYBDEXOP",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
-            "source": "Amazon.com - Seller",
-            "title": "Ashthorpe 38-Inch Beginner Acoustic Guitar Package",
-            "rating": 4.2,
-            "reviews": 146,
-            "price": "$54.99",
-            "extracted_price": 54.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxNDUzODYzMjkzOTE3MDc1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc2NzkxNDAyNjg2NDI0MTAiLCJpbWFnZURvY2lkIjoiMTczMDA2Mzk3OTM2NDgxNDQ5NDkiLCJyZHMiOiJQQ18xMTkzMjA3NTM0NDczODQ3ODMzNXxQUk9EX1BDXzExOTMyMDc1MzQ0NzM4NDc4MzM1IiwicXVlcnkiOiJndWl0YXJzIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxNDUzODYzMjkzOTE3MDc1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc2NzkxNDAyNjg2NDI0MTAiLCJpbWFnZURvY2lkIjoiMTczMDA2Mzk3OTM2NDgxNDQ5NDkiLCJyZHMiOiJQQ18xMTkzMjA3NTM0NDczODQ3ODMzNXxQUk9EX1BDXzExOTMyMDc1MzQ0NzM4NDc4MzM1IiwicXVlcnkiOiJndWl0YXJzIn0%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFlpDN3XPUKaMn2Y7IS5YeOpLHF6vTJx927sr6pNrkG47_ASlZUsYOWpz0MoC-hV3dqSAEdYgdQh6BSprlBLXN2T8y7ySmFM6FTiNK7vRpiWuw0Cec7DJxUw",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
-            "source": "Amazon.com",
-            "title": "Yamaha C40II Classical Guitar",
-            "rating": 4.8,
-            "reviews": 1500,
-            "price": "$169.99",
-            "extracted_price": 169.99,
-            "delivery": "Free delivery",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU5NTgyNzA1OTAyNjY2NzUzNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTgxNjAzODg4MjM0Mzc4MDM3MSIsImltYWdlRG9jaWQiOiI5NzE2MzA1OTI0NTA2NjEwODM5IiwicmRzIjoiUENfMTE0MjkxMjQxNzUzMTk4MTI0OTZ8UFJPRF9QQ18xMTQyOTEyNDE3NTMxOTgxMjQ5NiIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU5NTgyNzA1OTAyNjY2NzUzNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTgxNjAzODg4MjM0Mzc4MDM3MSIsImltYWdlRG9jaWQiOiI5NzE2MzA1OTI0NTA2NjEwODM5IiwicmRzIjoiUENfMTE0MjkxMjQxNzUzMTk4MTI0OTZ8UFJPRF9QQ18xMTQyOTEyNDE3NTMxOTgxMjQ5NiIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLMEGB2p4vuUXEAs0nx0y5ZSa3HArZAo8n6emX8g4z_ORN8hXRMl32jVFqHUvnCPYVm66jRYtBdR9C00qWV7IumWgHKHPOFpud9MfMsDOYjdTL9oymUcOf",
-            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS53zXm-5mFJKaaZiMg1g43x9FFnn6EEQ_vRRjKkyAnOpMBEEqDcZ5PhBbfLPOkIznCr8JssV3eRFKNHzC8E0idvmTEuLmKy7eY6ro",
-            "source": "Sweetwater",
-            "title": "Ibanez S521 Electric Guitar",
-            "rating": 4.7,
-            "reviews": 144,
-            "price": "$399.99",
-            "extracted_price": 399.99,
-            "delivery": "Free 2-day",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODgyMzgwNzE2NDg3MDU5NjEwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3MDg0MDM4MzI0MjY1MjI4MTgiLCJpbWFnZURvY2lkIjoiNDgyODE2MzgzODUzOTQ1MTcwNSIsInJkcyI6IlBDXzE4MzA2ODI1OTQ3NjAxMjMwMzE3fFBST0RfUENfMTgzMDY4MjU5NDc2MDEyMzAzMTciLCJxdWVyeSI6Imd1aXRhcnMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODgyMzgwNzE2NDg3MDU5NjEwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3MDg0MDM4MzI0MjY1MjI4MTgiLCJpbWFnZURvY2lkIjoiNDgyODE2MzgzODUzOTQ1MTcwNSIsInJkcyI6IlBDXzE4MzA2ODI1OTQ3NjAxMjMwMzE3fFBST0RfUENfMTgzMDY4MjU5NDc2MDEyMzAzMTciLCJxdWVyeSI6Imd1aXRhcnMifQ%3D%3D"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMsZgb5VNwqZm10JAf-6RHCCoLqOI79nD-u_4d_XMD_Wr49fP21iWklz0PYEp0F2thGIQCsiGOo2rtB7bW-HfMucHHN9pOJVP2dr-9S4H5a0GGxwTga0Cjng",
-            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR9s3vjmi5sOprg9AgaXnqeOfhfOUnh4h7Zdtp4LUdNSQNRraWlFzFO-9o4KS2PFDk9iH6p6oV6wLOxf1TSnRDUOJa7cE02LA",
-            "source": "Gibson.com",
-            "title": "Gibson Slash Les Paul Standard Electric Guitar",
-            "rating": 4.8,
-            "reviews": 100,
-            "price": "$2,999.00",
-            "extracted_price": 2999,
-            "delivery": "Free by 10/23",
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4Mjg0NTY4NjUwNzM1NTg3MjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5ODgyODE3OTY1NTQxOTA4OTkiLCJpbWFnZURvY2lkIjoiMTgwNjQ1Njk2NTAyNDI4OTU5MTIiLCJyZHMiOiJQQ181MjI1NzIxNTMwNjA5OTIzMzgxfFBST0RfUENfNTIyNTcyMTUzMDYwOTkyMzM4MSIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4Mjg0NTY4NjUwNzM1NTg3MjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5ODgyODE3OTY1NTQxOTA4OTkiLCJpbWFnZURvY2lkIjoiMTgwNjQ1Njk2NTAyNDI4OTU5MTIiLCJyZHMiOiJQQ181MjI1NzIxNTMwNjA5OTIzMzgxfFBST0RfUENfNTIyNTcyMTUzMDYwOTkyMzM4MSIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        },
-        {
-            "category": "More products",
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5J3S9hMYIFU8dYfzAITSfkWIU7BpPk-gKRh1xkc02apkSVSR6UKjURsdepJ11FPmdGl73LcZORzLwVEgGNXSWoa9TYWeFrREmivauNTvQfuqckPgjsSDU",
-            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
-            "source": "Amazon.com - Seller",
-            "title": "Best Choice Products 41in Full Size Beginner Acoustic Guitar",
-            "rating": 4.3,
-            "reviews": 561,
-            "price": "$99.99",
-            "extracted_price": 99.99,
-            "original_price": "$110",
-            "extracted_original_price": 110,
-            "delivery": "Free delivery",
-            "extensions": [
-                "9% OFF"
-            ],
-            "immersive_product_page_token": "eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2NzA1NzI3MzgwODI4NjEzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI5MzU2OTEzNjAwNTIwNTE5NiIsImltYWdlRG9jaWQiOiI1NTM1OTMwNDY4Nzc3NDU2MzA2IiwicmRzIjoiUENfMTczNTYyMzAzOTMzMDc1NDQzNjd8UFJPRF9QQ18xNzM1NjIzMDM5MzMwNzU0NDM2NyIsInF1ZXJ5IjoiZ3VpdGFycyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjlaY05aNVdLT0pLZjVOb1B6NGVoLUFRIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2NzA1NzI3MzgwODI4NjEzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI5MzU2OTEzNjAwNTIwNTE5NiIsImltYWdlRG9jaWQiOiI1NTM1OTMwNDY4Nzc3NDU2MzA2IiwicmRzIjoiUENfMTczNTYyMzAzOTMzMDc1NDQzNjd8UFJPRF9QQ18xNzM1NjIzMDM5MzMwNzU0NDM2NyIsInF1ZXJ5IjoiZ3VpdGFycyJ9"
-        }
-    ],
-    "buying_guide": {
-        "title": "Buying guide: Guitars",
-        "questions": [
-            {
-                "topic": "tone",
-                "question": "What is the tone of a guitar?",
-                "link": "https://nationalguitaracademy.com/guitar-tone/#:~:text=The%20term%20%E2%80%9Cguitar%20tone%E2%80%9D%20relates,a%20wide%20variety%20of%20elements.",
-                "title": "Guitar Tone: The Ultimate Guide - National Guitar Academy",
-                "displayed_link": "https://nationalguitaracademy.com › guitar-tone"
-            },
-            {
-                "topic": "fret",
-                "question": "What do the frets mean on a guitar?",
-                "link": "https://en.m.wikipedia.org/wiki/Fret#:~:text=Frets%20divide%20the%20neck%20into,is%20divided%20into%20twelve%20semitones.",
-                "title": "Fret - Wikipedia",
-                "displayed_link": "https://en.m.wikipedia.org › wiki › Fret"
-            },
-            {
-                "topic": "type",
-                "question": "What are the main types of guitar?",
-                "link": "https://www.artistguitars.com.au/buying/examples-of-the-3-basic-types-of-guitar/579#:~:text=3%20different%20types%3A-,There%20are%203%20basic%20types%20of,Classical%2C%20Acoustic%20and%20Electric.",
-                "title": "Examples of the 3 basic types of guitar",
-                "displayed_link": "https://www.artistguitars.com.au › buying › examples-of-..."
-            },
-            {
-                "topic": "popular brands",
-                "question": "Including Fender, Gibson, Epiphone"
-            },
-            {
-                "topic": "price",
-                "question": "How much should a guitar cost?",
-                "link": "https://acousticrealm.com/good-acoustic-guitar-cost#:~:text=A%20good%20beginner's%20guitar%20costs,often%20handmade%20in%20the%20USA.",
-                "title": "How Much Does a Good Acoustic Guitar Cost? (with Examples)",
-                "displayed_link": "https://acousticrealm.com › good-acoustic-guitar-cost"
-            },
-            {
-                "topic": "materials",
-                "question": "What materials can a guitar be made of?",
-                "link": "https://en.m.wikipedia.org/wiki/Guitar_manufacturing#:~:text=The%20majority%20of%20material%20comprising,modern%20acoustic%20and%20electric%20guitars.",
-                "title": "Guitar manufacturing - Wikipedia",
-                "displayed_link": "https://en.m.wikipedia.org › wiki › Guitar_manufacturing"
-            },
-            {
-                "topic": "neck",
-                "question": "Is hanging a guitar by the neck bad for it?",
-                "link": "https://acousticworld.net/should-you-hang-a-guitar-on-the-wall/#:~:text=While%20hanging%20the%20guitar%20won,back%20of%20the%20guitar%20neck.",
-                "title": "Should You Hang A Guitar on The Wall? - Acoustic World",
-                "displayed_link": "https://acousticworld.net › should-you-hang-a-guitar-on-..."
-            },
-            {
-                "topic": "tune",
-                "question": "What notes to tune a guitar to?",
-                "link": "https://boldmusiclessons.com/guitar-tuning-101/#:~:text=Standard%20tuning%20for%20guitar%20starts,%2C%20G%2C%20B%2C%20E.",
-                "title": "Guitar Tuning Basics (Works for Uke & Bass, Too!) - Bold Music",
-                "displayed_link": "https://boldmusiclessons.com › guitar-tuning-101"
-            },
-            {
-                "topic": "nylon strings",
-                "question": "Is it easier to play a guitar with nylon strings?",
-                "link": "https://www.fender.com/articles/tech-talk/nylon-strings-vs-steel-strings-which-works-best-for-you#:~:text=Yes%2C%20nylon%20strings%20are%20softer,help%20them%20practice%20pain%2Dfree.",
-                "title": "Nylon Strings vs. Steel Strings. Which Works Best for You? - Fender Guitars",
-                "displayed_link": "https://www.fender.com › articles › tech-talk › nylon-stri..."
-            },
-            {
-                "topic": "chords",
-                "question": "What are the 8 basic chords of guitar?",
-                "link": "https://www.guitarlessons.com/guitar-lessons/guitar-lessons-for-beginners/8-guitar-chords-you-must-know#:~:text=The%20eight%20chords%20we're,don't%20worry%20about%20that.",
-                "title": "8 Guitar Chords You Must Know",
-                "displayed_link": "https://www.guitarlessons.com › guitar-lessons › 8-guitar..."
-            }
-        ]
-    },
-    "organic_results": [
+    "shopping_results": [
         {
             "position": 1,
-            "title": "Guitars",
-            "link": "https://www.guitarcenter.com/Guitars.gc?srsltid=AfmBOor2BWNylMCYNrmWs03nM79zm_ZQuvqmJKSig8lBEQYqWVS-zi-H",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guitarcenter.com/Guitars.gc%3Fsrsltid%3DAfmBOor2BWNylMCYNrmWs03nM79zm_ZQuvqmJKSig8lBEQYqWVS-zi-H&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QFnoECBoQAQ",
-            "displayed_link": "https://www.guitarcenter.com › Guitars",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298acce767690704611a1a73ede691d3e3e.jpeg",
-            "favicon": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298377baa448144b6f0a515de534ae2f00e.png",
-            "snippet": "Enjoy the lowest prices and best selection of Guitars at Guitar Center. Most orders are eligible for free shipping!",
-            "snippet_highlighted_words": [
-                "Guitars",
-                "Guitar"
+            "title": "Rogue RA-090 Dreadnought Cutaway Acoustic-Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/5572860098212803?gl=us",
+            "product_id": "5572860098212803",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5572860098212803",
+            "link": "https://www.guitarcenter.com/Rogue/RA-090-Dreadnought-Acoustic-Guitar-Natural-1274115039668.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqHmF8t-6zGRJpPQG5ECeoxaxCXCe5b41BpF40_cKi19mdRiMpS03w",
+            "links": [
+                "https://www.guitarcenter.com/Rogue/RA-090-Dreadnought-Acoustic-Guitar-Natural-1274115039668.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqHmF8t-6zGRJpPQG5ECeoxaxCXCe5b41BpF40_cKi19mdRiMpS03w",
+                "https://www.target.com/p/rogue-ra-090-dreadnought-acoustic-electric-guitar-natural/-/A-76407886?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.musiciansfriend.com/guitars/rogue-ra-090-dreadnought-acoustic-electric-guitar/j17596000001000?cntry=US&cur=USD&utm_content=J17596000001000--Rogue%20RA-090%20Dreadnought%20Acoustic-Electric%20Guitar%20Natural&srsltid=AfmBOopjW0ggY7qAk1INDs2ZPb66D3jtqxacWREPTorZ5FBmIXN37Y_4XaU"
             ],
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "store_rating": 4.7,
-                        "price": 110,
-                        "currency": "$ to $"
-                    },
-                    "extensions": [
-                        "4.7store rating (348)",
-                        "‎$110 to $2,000",
-                        "‎Free in",
-                        "store returns"
-                    ]
-                }
-            },
-            "source": "Guitar Center"
+            "number_of_comparisons": "& more",
+            "source": "Guitar Center",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a30b67a80ff38bcb38fe4ba02e7b2229.png",
+            "price": "$109.99",
+            "extracted_price": 109.99,
+            "rating": 4.4,
+            "reviews": 950,
+            "snippet": "Good sound quality (63 user reviews)",
+            "extensions": [
+                "45-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f721f486b25f7f4a4ed584b0b018a3d2ea.webp",
+            "delivery": "Free by 10/23"
         },
         {
             "position": 2,
-            "title": "Guitars For Sale Online | Buy Guitars Online (Great Prices)",
-            "link": "https://acousticvibesmusic.com/collections/guitars?srsltid=AfmBOop_U2QX7yH0h9ZiAnaV8Py4N0rFlNdM-FHx1C7b5Uz4YKUikfjG",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://acousticvibesmusic.com/collections/guitars%3Fsrsltid%3DAfmBOop_U2QX7yH0h9ZiAnaV8Py4N0rFlNdM-FHx1C7b5Uz4YKUikfjG&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QFnoECBcQAQ",
-            "displayed_link": "https://acousticvibesmusic.com › collections › guitars",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f2987a0ff3250d6038b9fe94528b7cb0f61d.jpeg",
-            "favicon": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298a5a4d7609ddc4ba987a11bcaa898ea90.png",
-            "snippet": "Here you will find one of the best selections of guitars for sale online and available anywhere!. We take individual photos of every guitar and ...",
-            "snippet_highlighted_words": [
-                "guitars",
-                "guitar"
+            "title": "Rogue RA-090 Acoustic Guitar Sunburst",
+            "product_link": "https://www.google.com/shopping/product/14022020752520539673?gl=us",
+            "product_id": "14022020752520539673",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14022020752520539673",
+            "link": "https://www.target.com/p/rogue-ra-090-concert-acoustic-guitar-sunburst/-/A-75484299?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+            "links": [
+                "https://www.target.com/p/rogue-ra-090-concert-acoustic-guitar-sunburst/-/A-75484299?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.guitarcenter.com/Rogue/RA-090-Concert-Acoustic-Guitar-Sunburst-1416325129072.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqJRDXGME_dCwojThZbw4_lelt_loIQ_HVz9jBXvC6Zj0u7Duk99YM",
+                "https://www.musiciansfriend.com/guitars/rogue-ra-090-dreadnought-acoustic-guitar/423794000027000?cntry=US&cur=USD&utm_content=423794000027000--Rogue%20RA-090%20Dreadnought%20Acoustic%20Guitar%20Sunburst&srsltid=AfmBOorps4UpkF2M65crC37UH9y2LHhX8r3Zo9H2BAKXBxu8M9lJZsLumK8"
             ],
-            "images": [
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41629d952d561c283a3e.jpeg",
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d41623bf02c5a7e2e1c90.jpeg",
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298ef9d89c87d5d4162a8affc2cc71ae183.jpeg"
+            "number_of_comparisons": "& more",
+            "source": "Target",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7fec8bcec253860f088e909cd45e9516c.png",
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "rating": 4.3,
+            "reviews": 473,
+            "snippet": "Good sound quality (27 user reviews)",
+            "extensions": [
+                "Free 90-day returns"
             ],
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "free_day_delivery": 3,
-                        "unknown": 7
-                    },
-                    "extensions": [
-                        "Free 3–6 day delivery",
-                        "‎7",
-                        "day returns"
-                    ]
-                }
-            },
-            "source": "Acoustic Vibes Music"
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a57b3176acc87657e88a6add992e974c.webp",
+            "delivery": "Free 3-day"
         },
         {
             "position": 3,
-            "title": "Fender Guitars: Shop Guitars, Amps & Gear - Free Shipping",
-            "link": "https://www.fender.com/en-US/start",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fender.com/en-US/start&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QFnoECC4QAQ",
-            "displayed_link": "https://www.fender.com › en-US › start",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f29828763b5be2c480a5cb02788219450982.jpeg",
-            "favicon": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298b8d6392f3723de75d277cbf1f218a96a.jpeg",
-            "snippet": "Since 1946, Fender's iconic Stratocasters, Telecasters and Precision & Jazz Basses have transformed music. Shop Fender gear with free shipping over $50.",
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "price": 4,
-                        "currency": "Free – day delivery over $",
-                        "unknown": 30
-                    },
-                    "extensions": [
-                        "Free 4–8 day delivery over $50",
-                        "‎30",
-                        "day returns"
-                    ]
-                }
-            },
-            "source": "Fender"
+            "title": "Rogue RA-090 Concert Cutaway Acoustic-Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/6044348333942785561?gl=us",
+            "product_id": "6044348333942785561",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6044348333942785561",
+            "link": "https://www.musiciansfriend.com/guitars/rogue-ra-090-concert-acoustic-guitar/j17592000002000?cntry=US&cur=USD&utm_content=J17592000002000--Rogue%20RA-090%20Concert%20Acoustic%20Guitar%20Black&srsltid=AfmBOoqJ3HkBbq8ph9KSJ5f_JwLV5eoDlUVdfeS_3JzvsLNSUMHIN7uNEUI",
+            "links": [
+                "https://www.musiciansfriend.com/guitars/rogue-ra-090-concert-acoustic-guitar/j17592000002000?cntry=US&cur=USD&utm_content=J17592000002000--Rogue%20RA-090%20Concert%20Acoustic%20Guitar%20Black&srsltid=AfmBOoqJ3HkBbq8ph9KSJ5f_JwLV5eoDlUVdfeS_3JzvsLNSUMHIN7uNEUI",
+                "https://www.guitarcenter.com/Rogue/RA-090-Concert-Acoustic-Guitar-Black-1416325129087.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOop6wcBu_7M4H9ldpaUWH57Qi_pvetmhqS62qfITwEoJ_ruSwK2Sfng",
+                "https://www.target.com/p/rogue-ra-090-concert-acoustic-guitar-black/-/A-75534185?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Musicians Friend",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7ef15777581edb23d7ccb4ddbc5bbacc8.png",
+            "price": "$79.99",
+            "extracted_price": 79.99,
+            "old_price": "$100",
+            "extracted_old_price": 100,
+            "rating": 4.4,
+            "reviews": 448,
+            "snippet": "Good sound quality (27 user reviews)",
+            "extensions": [
+                "45-day returns",
+                "20% OFF"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f71d1a90189e12d28149d68e1dbe65a8b8.webp",
+            "tag": "20% OFF",
+            "delivery": "Free by 10/23"
         },
         {
             "position": 4,
-            "title": "Amazon.com: Guitars: Musical Instruments: Electric Guitars ...",
-            "link": "https://www.amazon.com/Guitars-Basses-Stringed-Instruments-Products/b?ie=UTF8&node=11971241",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Guitars-Basses-Stringed-Instruments-Products/b%3Fie%3DUTF8%26node%3D11971241&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QFnoECDIQAQ",
-            "displayed_link": "https://www.amazon.com › Guitars-Basses-Stringed-Inst...",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f2989c9c29983a61358e72658bf8bbf6d4d5.jpeg",
-            "favicon": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298c3913ee14db4a42efe5f3d1ec99ec7aa.png",
-            "snippet": "Welcome to the Guitars Store, where you'll find great prices on a wide range of different guitars. Shop by Category: Bass, Ukeleles, Amps, Accessories.",
-            "snippet_highlighted_words": [
-                "Guitars",
-                "guitars"
+            "title": "Rogue RA-090 Dreadnought Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/16298649272471310073?gl=us",
+            "product_id": "16298649272471310073",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16298649272471310073",
+            "link": "https://www.ebay.com/itm/126609440915?chn=ps&mkevt=1&mkcid=28",
+            "links": [
+                "https://www.ebay.com/itm/126609440915?chn=ps&mkevt=1&mkcid=28",
+                "https://www.guitarcenter.com/Used/Rogue/RAD090D12-12-String-Acoustic-Guitar.gc?cntry=us&source=4SOS0DRBA&srsltid=AfmBOorSnHwgIQHSLGKJbxekXjYDuZXf_q2Jbr25cbDqHvSexQsh3mDh5T8",
+                "https://musicgoround.com/locations/louisville-ky/product/S000285754/Rogue-RA-090D12-NA?sku=40009-S000285754&utm_source=googleshopping&utm_medium=cse"
             ],
-            "images": [
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298f411a5d0586f0236939e4416757e4b87.jpeg",
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298f411a5d0586f0236cfa1f84406fb16fc.jpeg",
-                "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298f411a5d0586f023638226d7a7a9d26c6.jpeg"
-            ],
-            "source": "Amazon.com"
+            "number_of_comparisons": "& more",
+            "source": "eBay",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7f5fe7d6825e00ccf5a85837431e1f0e0.png",
+            "price": "$119.99",
+            "extracted_price": 119.99,
+            "rating": 3.9,
+            "reviews": 108,
+            "snippet": "12-string · Natural",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f71e6c5cf8239ccc5ec78c8ff20b1dff61.webp"
         },
         {
             "position": 5,
-            "title": "New Arrival Guitars - Updated Daily!",
-            "link": "https://wildwoodguitars.com/product-category/new-arrivals/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wildwoodguitars.com/product-category/new-arrivals/&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QFnoECCoQAQ",
-            "displayed_link": "https://wildwoodguitars.com › product-category › new-a...",
-            "favicon": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/25510a3c31cb16a418720d455437f298bf121a688a0b0615f90a95e87c027677.png",
-            "snippet": "Wildwood Guitars adds dozens of new guitars to our online inventory every day! Check out our new arrivals to find your perfect guitar today.",
-            "snippet_highlighted_words": [
-                "Guitars",
-                "guitars",
-                "guitar"
+            "title": "Rogue Fine Instruments RA-090 12 String",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12254992746802427615",
+            "product_id": "12254992746802427615",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12254992746802427615",
+            "link": "https://reverb.com/item/83082289-rogue-fine-instruments-ra-090-12-string?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google",
+            "links": [
+                "https://reverb.com/item/83082289-rogue-fine-instruments-ra-090-12-string?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google"
             ],
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "price": 1599,
-                        "currency": "$ to $"
-                    },
-                    "extensions": [
-                        "$1,599 to $12,000"
-                    ]
-                }
-            },
-            "source": "Wildwood Guitars"
-        }
-    ],
-    "top_stories_link": "https://www.google.com/search?safe=active&sca_esv=1da11bb882cbd233&tbs=lf:1,lf_ui:10&tbm=lcl&q=guitars&rflfq=1&num=10&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8QjGp6BAgkEAE",
-    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&q=guitars&tbs=lf%3A1%2Clf_ui%3A10",
-    "related_searches": [
-        {
-            "block_position": 1,
-            "query": "Electric guitars",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Electric+guitars&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhTEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Electric+guitars&safe=active"
+            "source": "Reverb",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7755beead6a539d9b29d7722c912b852c.png",
+            "price": "$199.99",
+            "extracted_price": 199.99,
+            "second_hand_condition": "pre-owned",
+            "snippet": "12-string",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f75d6c57e957746a80abf5bdda619ede19.webp",
+            "delivery": "Free delivery"
         },
         {
-            "block_position": 1,
-            "query": "Acoustic guitars",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Acoustic+guitars&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhQEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Acoustic+guitars&safe=active"
+            "position": 6,
+            "title": "Rogue RA-110D-CE Dreadnought Cutaway Acoustic-Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/13083526021206480046?gl=us",
+            "product_id": "13083526021206480046",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13083526021206480046",
+            "link": "https://www.guitarcenter.com/Rogue/RA-110D-CE-Dreadnought-Cutaway-Acoustic-Electric-Guitar-Natural-1500000223956.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoo9NWKqr_Wj2mLoFuDkv1fN9ssYzUT-jmNXdOYFvFXb9ZdACuCsAc8",
+            "links": [
+                "https://www.guitarcenter.com/Rogue/RA-110D-CE-Dreadnought-Cutaway-Acoustic-Electric-Guitar-Natural-1500000223956.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoo9NWKqr_Wj2mLoFuDkv1fN9ssYzUT-jmNXdOYFvFXb9ZdACuCsAc8",
+                "https://www.target.com/p/rogue-ra-110d-ce-dreadnought-cutaway-acoustic-electric-guitar-natural/-/A-76476206?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.walmart.com/ip/Rogue-RA-110D-CE-Dreadnought-Cutaway-Acoustic-Electric-Guitar-Natural/989046844?wmlspartner=wlpa&selectedSellerId=101011391"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Guitar Center",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7d7b338475856a325c246c869382876a4.png",
+            "price": "$129.99",
+            "extracted_price": 129.99,
+            "rating": 4,
+            "reviews": 58,
+            "snippet": "6-string · Black, Natural, Sunburst",
+            "extensions": [
+                "45-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77fde4ef888e691b55fe67ebcd85162cf.webp",
+            "delivery": "Free by 10/23"
         },
         {
-            "block_position": 1,
-            "query": "Guitars for sale",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Guitars+for+sale&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhOEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitars+for+sale&safe=active"
+            "position": 7,
+            "title": "Blue Blood Rogue FINE INSTRUMENTS Dreadnought RA-090-NA | Color: Brown",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6035205042012293510",
+            "product_id": "6035205042012293510",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6035205042012293510",
+            "link": "https://www.mercari.com/us/item/m87197996266/?srsltid=AfmBOoo_OWyQEcOrfOTF6waMOQCx5eOEcVOZdBJugl0j-EYTDduX_jXbsNE",
+            "links": [
+                "https://www.mercari.com/us/item/m87197996266/?srsltid=AfmBOoo_OWyQEcOrfOTF6waMOQCx5eOEcVOZdBJugl0j-EYTDduX_jXbsNE"
+            ],
+            "source": "Mercari",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7fb733f28525b47b3e11a0d6c5b68ba1c.png",
+            "price": "$128.80",
+            "extracted_price": 128.8,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Blue",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a60034750e64eb7af33f980fb4259a70.webp"
         },
         {
-            "block_position": 1,
-            "query": "Best guitars",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Best+guitars&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhMEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Best+guitars&safe=active"
+            "position": 8,
+            "title": "Used Rogue Ra-090d12-na Acoustic Guitars Natural",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3270763403744458398",
+            "product_id": "3270763403744458398",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3270763403744458398",
+            "link": "https://musicgoround.com/locations/louisville-ky/product/S000285754/Rogue-RA-090D12-NA?sku=40009-S000285754&utm_source=googleshopping&utm_medium=cse",
+            "links": [
+                "https://musicgoround.com/locations/louisville-ky/product/S000285754/Rogue-RA-090D12-NA?sku=40009-S000285754&utm_source=googleshopping&utm_medium=cse"
+            ],
+            "source": "Music Go Round",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7c174192c606af307585718cfa81b9df2.png",
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "second_hand_condition": "pre-owned",
+            "rating": 3.9,
+            "reviews": 108,
+            "snippet": "6-string · Natural",
+            "extensions": [
+                "2-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77972a4fd63a77d1abb6a12518481b2d0.webp"
         },
         {
-            "block_position": 1,
-            "query": "Guitar Center",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Guitar+Center&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhKEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitar+Center&safe=active"
+            "position": 9,
+            "title": "Rogue Fine Instruments Dreadnought Ra-090-na Guitar",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15782580057858378361",
+            "product_id": "15782580057858378361",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15782580057858378361",
+            "link": "https://www.ebay.com/itm/134282777389?chn=ps&mkevt=1&mkcid=28",
+            "links": [
+                "https://www.ebay.com/itm/134282777389?chn=ps&mkevt=1&mkcid=28"
+            ],
+            "source": "eBay",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a89c0b29b4e779a08880426ee96860ed.png",
+            "price": "$138.00",
+            "extracted_price": 138,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f79c3e7fe2d3dbbabdffd86bcdc3113cf6.webp"
         },
         {
-            "block_position": 1,
-            "query": "Guitars Amazon",
-            "link": "https://www.google.com/search?num=5&safe=active&sca_esv=1da11bb882cbd233&q=Guitars+Amazon&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q1QJ6BAhIEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=Guitars+Amazon&safe=active"
-        }
-    ],
-    "refine_this_search": [
-        {
-            "query": "Electric Guitars",
-            "link": "https://www.google.com/search?q=electric+guitars+&shoprs=CAEYCSoHZ3VpdGFyczIUCAkSEEVsZWN0cmljIEd1aXRhcnNgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAF6BAgUEFM",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=electric+guitars+&safe=active"
+            "position": 10,
+            "title": "ADM Dreadnought Acoustic Guitar Kit",
+            "product_link": "https://www.google.com/shopping/product/4776411419925911715?gl=us",
+            "product_id": "4776411419925911715",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4776411419925911715",
+            "link": "https://www.amazon.com/Dreadnought-Acoustic-Beginner-Acustica-Pickguard/dp/B0C2XYMQ2Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A39WJFDOZG6S9B",
+            "links": [
+                "https://www.amazon.com/Dreadnought-Acoustic-Beginner-Acustica-Pickguard/dp/B0C2XYMQ2Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A39WJFDOZG6S9B",
+                "https://www.ebay.com/itm/116264753404?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorvIWYTakxVlUs2kkOhUJaE6vt7uTOgANDY6w-ZCY5td4D73aYgQYw"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com - Seller",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7cd4998618b9a588f67f9cd151274ca63.png",
+            "price": "$169.99",
+            "extracted_price": 169.99,
+            "snippet": "6-string · Sunburst, Grey",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7d46af80f3204677882a0b7aa7054ec95.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Acoustic Guitars",
-            "link": "https://www.google.com/search?q=acoustic+guitars+&shoprs=CAEYCSoHZ3VpdGFyczIUCAkSEEFjb3VzdGljIEd1aXRhcnNgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAJ6BAgUEFQ",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic+guitars+&safe=active"
+            "position": 11,
+            "title": "Dreadnought Cutaway Acoustic-Electric Full Size Guitar",
+            "product_link": "https://www.google.com/shopping/product/1977792984967565531?gl=us",
+            "product_id": "1977792984967565531",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1977792984967565531",
+            "link": "https://www.walmart.com/ip/Dreadnought-Cutaway-Acoustic-Electric-Full-Size-Guitar-Red/5510321391?wmlspartner=wlpa&selectedSellerId=839",
+            "links": [
+                "https://www.walmart.com/ip/Dreadnought-Cutaway-Acoustic-Electric-Full-Size-Guitar-Red/5510321391?wmlspartner=wlpa&selectedSellerId=839"
+            ],
+            "source": "Walmart - Mix Wholesale",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77a1af1b4fbe9e6224fe65e12393874ab.png",
+            "price": "$82.95",
+            "extracted_price": 82.95,
+            "snippet": "6-string · Red",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7f3c1375347b926eb790b2c29b81ae08f.webp"
         },
         {
-            "query": "Under $1,000",
-            "link": "https://www.google.com/search?q=guitars+under+$1,000&shoprs=CAESDRILEQAAAABlzc1BGAEYBSoHZ3VpdGFyczIlCAUSDFVuZGVyICQxLDAwMBgCIg0SCxEAAAAAZc3NQRgBKgIYAVjOlyFgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAN6BAgUEFU",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+under+%241%2C000&safe=active"
+            "position": 12,
+            "title": "Rogue RA-090 Concert Acoustic Guitar Natural",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13166943738588623450",
+            "product_id": "13166943738588623450",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13166943738588623450",
+            "link": "https://www.bonanza.com/listings/Rogue-RA-090-Concert-Acoustic-Guitar-Natural/1683048121?goog_pla=1",
+            "links": [
+                "https://www.bonanza.com/listings/Rogue-RA-090-Concert-Acoustic-Guitar-Natural/1683048121?goog_pla=1"
+            ],
+            "source": "Bonanza - AlleghenyCityVintage's booth",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7f174260c8451fc83d1c9b50df5f4fe74.png",
+            "price": "$59.39",
+            "extracted_price": 59.39,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Natural",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7c56ab2a9fb1f5671edae6b947f6b226e.webp"
         },
         {
-            "query": "For Sale",
-            "link": "https://www.google.com/search?q=guitars+for+sale&shoprs=CAEYEioHZ3VpdGFyczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAR6BAgUEFY",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+for+sale&safe=active"
+            "position": 13,
+            "title": "Rogue Acoustic/ Electric Nat",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10901264022761993729",
+            "product_id": "10901264022761993729",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10901264022761993729",
+            "link": "https://reverb.com/item/43811183-rogue-acoustic-electric?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google",
+            "links": [
+                "https://reverb.com/item/43811183-rogue-acoustic-electric?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google"
+            ],
+            "source": "Reverb",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f73e31e81faa50cb41daf86149b7cb34cf.png",
+            "price": "$125.00",
+            "extracted_price": 125,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f727ef7514f5191dd9cf157126ecb5f87e.webp"
         },
         {
-            "query": "On sale",
-            "link": "https://www.google.com/search?q=guitars+sale&shoprs=CAESBEoCGAEYBioHZ3VpdGFyczITCAYSB09uIHNhbGUYAiIESgIYAVjOlyFgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAV6BAgUEFc",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+sale&safe=active"
+            "position": 14,
+            "title": "Rogue Ra-090 Dreadnought Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4773197507951767941",
+            "product_id": "4773197507951767941",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4773197507951767941",
+            "link": "https://www.ebay.com/itm/404074267821?chn=ps&mkevt=1&mkcid=28",
+            "links": [
+                "https://www.ebay.com/itm/404074267821?chn=ps&mkevt=1&mkcid=28"
+            ],
+            "source": "eBay",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7bea69514a6f5b1a5dd7c3473cb066c6b.png",
+            "price": "$129.99",
+            "extracted_price": 129.99,
+            "second_hand_condition": "pre-owned",
+            "rating": 4.4,
+            "reviews": 950,
+            "snippet": "Good sound quality (63 user reviews)",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f78d0f91926fd728dd52434d2be177189d.webp"
         },
         {
-            "query": "Bass Guitars",
-            "link": "https://www.google.com/search?q=bass+guitars+&shoprs=CAEYCSoHZ3VpdGFyczIQCAkSDEJhc3MgR3VpdGFyc2AB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAZ6BAgUEFg",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=bass+guitars+&safe=active"
+            "position": 15,
+            "title": "Washburn WA90CE Dreadnought Acoustic Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/3933393869203066342?gl=us",
+            "product_id": "3933393869203066342",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3933393869203066342",
+            "link": "https://www.amazon.com/Washburn-Vintage-Acoustic-Electric-Sunburst-WA90CEVSB/dp/B0BHX8JVNH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "links": [
+                "https://www.amazon.com/Washburn-Vintage-Acoustic-Electric-Sunburst-WA90CEVSB/dp/B0BHX8JVNH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+                "https://www.sweetwater.com/store/detail/WA90CEVSB--washburn-vintage-series-wa90cevsb-acoustic-electric-guitar-sunburst?srsltid=AfmBOorUbP3O-xBcVjURL4Pow0sFgj4N55xccZMAY6Sk1ZVJj4CJiffj0xo",
+                "https://www.guitarcenter.com/Washburn/WA90CE-Dreadnought-Acoustic-Electric-Guitar-Vintage-Tobacco-Sunburst-1401720425100.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoq6ELkUZiY82UbvYTHc9owcnUTEd2kg2ws5IeUaOObm2yBfXEp7I8o"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7c4f65846566377f2a3670a25ffd24ab2.png",
+            "price": "$149.99",
+            "extracted_price": 149.99,
+            "rating": 4.4,
+            "reviews": 171,
+            "snippet": "Good sound quality (22 user reviews)",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77f0efd4a21c7d574caa660548a85f9a2.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Nearby",
-            "link": "https://www.google.com/search?q=guitars+nearby&shoprs=CAEYAyoHZ3VpdGFyczIMCAMSBk5lYXJieRgCWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAd6BAgUEFk",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars+nearby&safe=active"
+            "position": 16,
+            "title": "Rathbone Electro Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/4636697018139916430?gl=us",
+            "product_id": "4636697018139916430",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4636697018139916430",
+            "link": "https://mcneelamusic.com/string/no-3-rathbone-electro-acoustic-guitar-r3sbce//?setCurrencyId=2&srsltid=AfmBOorF2iZ4tAA40tz8MuP5sgF_NVxYlj-kBDBHQGmScQuedBbVq71Sv1k",
+            "links": [
+                "https://mcneelamusic.com/string/no-3-rathbone-electro-acoustic-guitar-r3sbce//?setCurrencyId=2&srsltid=AfmBOorF2iZ4tAA40tz8MuP5sgF_NVxYlj-kBDBHQGmScQuedBbVq71Sv1k"
+            ],
+            "source": "McNeela Music",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7e7fd3af635a166a77896bc2e80f3a53a.png",
+            "price": "$591.00",
+            "extracted_price": 591,
+            "rating": 5,
+            "reviews": 1,
+            "snippet": "6-string",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f747874e211a07bf664c35a0913671293c.webp"
         },
         {
-            "query": "Get it fast",
-            "link": "https://www.google.com/search?q=guitars&shoprs=CAESDZoBCgoIEAM4AUAESAEYFCoHZ3VpdGFyczIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAh6BAgUEFo",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active"
+            "position": 17,
+            "title": "Ashthorpe Dreadnought Cutaway Acoustic Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/8375217823748866803?gl=us",
+            "product_id": "8375217823748866803",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8375217823748866803",
+            "link": "https://ashthorpe.com/products/41-inch-dreadnought-cutaway-acoustic-electric-guitar-with-10-watt-amp?utm_source=google&utm_medium=cpc&utm_campaign=Surface",
+            "links": [
+                "https://ashthorpe.com/products/41-inch-dreadnought-cutaway-acoustic-electric-guitar-with-10-watt-amp?utm_source=google&utm_medium=cpc&utm_campaign=Surface",
+                "https://mixwholesale.com/products/41-dreadnought-cutaway-acoustic-electric-guitar-10-watt-amp?utm_source=google&utm_medium=cpc&utm_campaign=Surface",
+                "https://www.target.com/p/ashthorpe-cutaway-dreadnought-acoustic-electric-guitar-sunburst-includes-10-watt-amp-gig-bag-and-accessories/-/A-87849763?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Ashthorpe",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f769ccf6c248c6a5e9569341e721ebbc81.png",
+            "price": "$159.99",
+            "extracted_price": 159.99,
+            "rating": 5,
+            "reviews": 4,
+            "snippet": "6-string · Sunburst",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a046798be6a15926d9ac850734083a18.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Custom",
-            "link": "https://www.google.com/search?q=custom+guitars&shoprs=CAEYEioHZ3VpdGFyczIKCBISBkN1c3RvbWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAl6BAgUEFs",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=custom+guitars&safe=active"
+            "position": 18,
+            "title": "Rogue Rocketeer Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/14527053821662961383?gl=us",
+            "product_id": "14527053821662961383",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14527053821662961383",
+            "link": "https://www.target.com/p/rogue-rr100-rocketeer-electric-guitar-purple-sky/-/A-88293269?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+            "links": [
+                "https://www.target.com/p/rogue-rr100-rocketeer-electric-guitar-purple-sky/-/A-88293269?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.guitarcenter.com/Rogue/RR100-Rocketeer-Electric-Guitar-Purple-Sky-1500000385969.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOooPVaRtYymR134_vF9MlTx5F8JyGo_s3Thx0MKHbIol149pdofuKW4",
+                "https://www.walmart.com/ip/Rogue-RR100-Rocketeer-Electric-Guitar-Purple-Sky/1583762382?wmlspartner=wlpa&selectedSellerId=101011391"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Target",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f74346a2ccdd3ea595ae160ba815deac65.png",
+            "price": "$79.99",
+            "extracted_price": 79.99,
+            "old_price": "$130",
+            "extracted_old_price": 130,
+            "rating": 4.3,
+            "reviews": 525,
+            "snippet": "Comfortable to use (26 user reviews)",
+            "extensions": [
+                "Free 90-day returns",
+                "38% OFF"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f73b57e5c8cfb2bac41f3df5e4cd88923d.webp",
+            "tag": "38% OFF",
+            "delivery": "Free 3-day"
         },
         {
-            "query": "Used",
-            "link": "https://www.google.com/search?q=used+guitars&shoprs=CAEYCioHZ3VpdGFyczIICAoSBFVzZWRYzpchYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAp6BAgUEFw",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=used+guitars&safe=active",
-            "thumbnail": "https://serpapi.com/searches/670d97f5ba13f22e4f578cc4/images/6054c1552e81db9fd652aa80c3daeb377b12dfc3851360d3336963a863be265c.svg+xml"
+            "position": 19,
+            "title": "Rogue Ra-090 Concert Acoustic Guitar Natural",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17958184844582649250",
+            "product_id": "17958184844582649250",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17958184844582649250",
+            "link": "https://www.ebay.com/itm/296739886454?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOookxiDH_i21H53_-v80bZJdA0NTnfeAKoYSdXPf9xMfCZ0C695L21E",
+            "links": [
+                "https://www.ebay.com/itm/296739886454?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOookxiDH_i21H53_-v80bZJdA0NTnfeAKoYSdXPf9xMfCZ0C695L21E"
+            ],
+            "source": "eBay - allegheny_city_vintage",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f72e54e2cedeaf5dd22907e50a3ec61b4e.png",
+            "price": "$59.99",
+            "extracted_price": 59.99,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Natural",
+            "extensions": [
+                "30-day returns"
+            ],
+            "badge": "Small business",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f74d6233b7ecd2f4cc53b194ca9ebb26a4.webp"
         },
         {
-            "query": "6-string",
-            "link": "https://www.google.com/search?q=6-string+guitars&shoprs=CAEYASoHZ3VpdGFyczIYCAESCDYtc3RyaW5nOgoIvrkrEPzSKzAAWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAt6BAgUEF0",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=6-string+guitars&safe=active"
+            "position": 20,
+            "title": "Fender FA-25 Dreadnought Acoustic Guitar Beginner Guitar 2-year Warranty",
+            "product_link": "https://www.google.com/shopping/product/15851943559283088541?gl=us",
+            "product_id": "15851943559283088541",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15851943559283088541",
+            "link": "https://www.amazon.com/Fender-Dreadnought-Acoustic-Electric-Beginner/dp/B0CSLVX698?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "links": [
+                "https://www.amazon.com/Fender-Dreadnought-Acoustic-Electric-Beginner/dp/B0CSLVX698?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+                "https://www.bonanza.com/listings/This-Sunburst-Fender-Fa-25Ce-Dreadnought-Acoustic-Electric-And-Free-Lessons-/1643908462?goog_pla=1",
+                "https://www.amazon.com/Fender-Dreadnought-Acoustic-Beginner-Warranty/dp/B0CSLX9D2D?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f79ee90fda39adb60f0e06a2b2f4df92f0.png",
+            "price": "$119.99",
+            "extracted_price": 119.99,
+            "rating": 5,
+            "reviews": 1,
+            "snippet": "6-string · Natural, Sunburst",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f790b6ae9e41eb8f1bab6ec79dec087969.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Brand",
-            "link": "https://www.google.com/search?q=brand+guitars&shoprs=CAEYEioHZ3VpdGFyczIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKAx6BAgUEF4",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=brand+guitars&safe=active"
+            "position": 21,
+            "title": "Rogue RD80 Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/15527460149104806543?gl=us",
+            "product_id": "15527460149104806543",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15527460149104806543",
+            "link": "https://www.musiciansfriend.com/guitars/rogue-rd80-dreadnought-acoustic-guitar/h80040000001000?cntry=US&cur=USD&utm_content=H80040000001000--Rogue%20RD80%20Dreadnought%20Acoustic%20Guitar%20Sunburst&srsltid=AfmBOoqI2UvFzOs7lUPmksyMwdwZ6bum2a8ZObTOui53wRTfAPtSx46XGO8",
+            "links": [
+                "https://www.musiciansfriend.com/guitars/rogue-rd80-dreadnought-acoustic-guitar/h80040000001000?cntry=US&cur=USD&utm_content=H80040000001000--Rogue%20RD80%20Dreadnought%20Acoustic%20Guitar%20Sunburst&srsltid=AfmBOoqI2UvFzOs7lUPmksyMwdwZ6bum2a8ZObTOui53wRTfAPtSx46XGO8",
+                "https://www.target.com/p/rogue-rd80-dreadnought-acoustic-guitar/-/A-76071580?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.guitarcenter.com/Rogue/RD80-Dreadnought-Acoustic-Guitar-Sunburst-1500000309024.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOorhb_ByG6KPvdBanBkCIQPSYnH3aYG2SIF6sM9mjTlFfitJ-yITahA"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Musicians Friend",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7bcb4bb4de3217f8b9262609ae3080c12.png",
+            "price": "$82.49",
+            "extracted_price": 82.49,
+            "old_price": "$110",
+            "extracted_old_price": 110,
+            "rating": 4.4,
+            "reviews": 215,
+            "snippet": "Stays in tune (26 user reviews)",
+            "extensions": [
+                "45-day returns",
+                "25% OFF"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f73fd86ea6884b32e8a3e89c262f0d997c.webp",
+            "tag": "25% OFF",
+            "delivery": "Free by 10/23"
         },
         {
-            "query": "Electric",
-            "link": "https://www.google.com/search?q=electric+guitars&shoprs=CAEYASoHZ3VpdGFyczIYCAESCEVsZWN0cmljOgoIp7E4EKyxODAAWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKA16BAgUEF8",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=electric+guitars&safe=active"
+            "position": 22,
+            "title": "Orangewood Rey Cutaway Style Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/17075094200644349741?gl=us",
+            "product_id": "17075094200644349741",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17075094200644349741",
+            "link": "https://orangewoodguitars.com/products/rey-mahogany-guitar?variant=3917746241576&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoru5n0Y5FYMPFzrQbZo644FYcVnUUE3RKYhzs2kBuoG9xZlzqAXn48",
+            "links": [
+                "https://orangewoodguitars.com/products/rey-mahogany-guitar?variant=3917746241576&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoru5n0Y5FYMPFzrQbZo644FYcVnUUE3RKYhzs2kBuoG9xZlzqAXn48",
+                "https://www.amazon.com/Orangewood-Auditorium-Acoustic-Mahogany-Earthwood/dp/B07BN7JMX3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+                "https://reverb.com/p/orangewood-rey-mahogany?hfid=11498252&utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Orangewood Guitars",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a2bf8ec91c7f2e85ef0c0b8de148dfa9.png",
+            "price": "$145.00",
+            "extracted_price": 145,
+            "rating": 4.8,
+            "reviews": 848,
+            "snippet": "Good sound quality (68 user reviews)",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7da60d7de5ec063d5207dd1730e5310e1.webp",
+            "delivery": "Free by 10/25"
         },
         {
-            "query": "Buy",
-            "link": "https://www.google.com/search?q=buy+guitars&shoprs=CAEYEioHZ3VpdGFyczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKA56BAgUEGA",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=buy+guitars&safe=active"
+            "position": 23,
+            "title": "Rathbone Electro Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/9116648322327726363?gl=us",
+            "product_id": "9116648322327726363",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9116648322327726363",
+            "link": "https://mcneelamusic.com/string/no-3-rathbone-electro-acoustic-guitar-r3mce//?setCurrencyId=2&srsltid=AfmBOoqq2SjyuYxslr3FiQYWwimfJyE2LeNZjxHorfij57qpPZzHxW-d0QY",
+            "links": [
+                "https://mcneelamusic.com/string/no-3-rathbone-electro-acoustic-guitar-r3mce//?setCurrencyId=2&srsltid=AfmBOoqq2SjyuYxslr3FiQYWwimfJyE2LeNZjxHorfij57qpPZzHxW-d0QY"
+            ],
+            "source": "McNeela Music",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7e6452c138bfb22e2ff0b65ae19728036.png",
+            "price": "$482.00",
+            "extracted_price": 482,
+            "rating": 5,
+            "reviews": 1,
+            "snippet": "6-string · Mahogany",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f770e855c90110c1bdb5136e4212d07c8f.webp"
         },
         {
-            "query": "Price",
-            "link": "https://www.google.com/search?q=price+guitars&shoprs=CAEYEioHZ3VpdGFyczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKA96BAgUEGE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=price+guitars&safe=active"
+            "position": 24,
+            "title": "BEAUTIFUL ROGUE DREADNOUGHT ACOUSTIC GUITAR MODEL# RA090-SSB",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6698548780120563218",
+            "product_id": "6698548780120563218",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6698548780120563218",
+            "link": "https://www.ebay.com/itm/225380384060?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoq1Uqhh9VfSFYI4IBleUtqGoaGAYBldz5j-6OGvhpYo2Cy_DVCCWYw",
+            "links": [
+                "https://www.ebay.com/itm/225380384060?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoq1Uqhh9VfSFYI4IBleUtqGoaGAYBldz5j-6OGvhpYo2Cy_DVCCWYw"
+            ],
+            "source": "eBay - histo-perspective",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7034bc740be29b16ccb3aac1fd72103a1.png",
+            "price": "$95.99",
+            "extracted_price": 95.99,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Black",
+            "extensions": [
+                "30-day returns",
+                "40% OFF"
+            ],
+            "badge": "Small business",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f792821c74a425efa3c290b9de21e2a081.webp",
+            "tag": "40% OFF"
         },
         {
-            "query": "Black",
-            "link": "https://www.google.com/search?q=black+guitars&shoprs=CAEYASoHZ3VpdGFyczIVCAESBUJsYWNrOgoI-rdvEPu3bzAAWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBB6BAgUEGI",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=black+guitars&safe=active"
+            "position": 25,
+            "title": "Ashthorpe Full-Size Cutaway Thinline Acoustic-Electric Guitar Package",
+            "product_link": "https://www.google.com/shopping/product/888719748028665284?gl=us",
+            "product_id": "888719748028665284",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=888719748028665284",
+            "link": "https://www.amazon.com/Ashthorpe-Full-Size-Cutaway-Thinline-Acoustic-Electric/dp/B07FDFLXKM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3KUYHN7HI5ZSF",
+            "links": [
+                "https://www.amazon.com/Ashthorpe-Full-Size-Cutaway-Thinline-Acoustic-Electric/dp/B07FDFLXKM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3KUYHN7HI5ZSF",
+                "https://www.target.com/p/ashthorpe-full-size-cutaway-thinline-acoustic-electric-guitar-package-with-premium-tonewoods-black/-/A-87849596?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://ashthorpe.com/products/41-inch-thinline-cutaway-acoustic-electric-guitar-bundle?utm_source=google&utm_medium=cpc&utm_campaign=Surface"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com - Seller",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7068db01162602a4e97eea752ab93f106.png",
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "rating": 4.6,
+            "reviews": 133,
+            "snippet": "6-string · Black, Natural, Sunburst, ...",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f743b4601b842537effe1689fb0a2788af.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Classical Guitars",
-            "link": "https://www.google.com/search?q=classical+guitars+&shoprs=CAEYCSoHZ3VpdGFyczIVCAkSEUNsYXNzaWNhbCBHdWl0YXJzYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBF6BAgUEGM",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=classical+guitars+&safe=active"
+            "position": 26,
+            "title": "Alvarez Regent Series Dreadnought Cutaway Acoustic-Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/11455946604521521808?gl=us",
+            "product_id": "11455946604521521808",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11455946604521521808",
+            "link": "https://www.guitarcenter.com/Alvarez/Alvarez-Regent-Series-Dreadnought-Cutaway-Acoustic-Electric-Natural-1500000333092.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOor9GLz7uy8hTgL6RyHM57czMSuXbqri8l0NPHe4bx0UrAt4VsPejDQ",
+            "links": [
+                "https://www.guitarcenter.com/Alvarez/Alvarez-Regent-Series-Dreadnought-Cutaway-Acoustic-Electric-Natural-1500000333092.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOor9GLz7uy8hTgL6RyHM57czMSuXbqri8l0NPHe4bx0UrAt4VsPejDQ",
+                "https://www.walmart.com/ip/Alvarez-Regent-Series-Dreadnought-Cutaway-Acoustic-Electric-Guitar-Natural/49329624?wmlspartner=wlpa&selectedSellerId=101011391",
+                "https://www.musiciansfriend.com/guitars/alvarez-regent-series-dreadnought-cutaway-acoustic-electric-guitar/l78757000001000?cntry=US&cur=USD&utm_content=L78757000001000--Alvarez%20Regent%20Series%20Dreadnought%20Cutaway%20Acoustic-Electric%20Guitar%20Natural&srsltid=AfmBOopK2dHf58MXNgmU2HCWWNwW4vprPKuwPJbEVw9coNHg-wiWKD2xB_k"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Guitar Center",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77971c66d4de96199c31387e9d53732d5.png",
+            "price": "$279.99",
+            "extracted_price": 279.99,
+            "rating": 4.7,
+            "reviews": 15,
+            "snippet": "6-string · Natural, Mahogany, High ...",
+            "extensions": [
+                "45-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f75a01645449420b018a0c6901facd00b3.webp",
+            "delivery": "Free by 10/23"
         },
         {
-            "query": "Online",
-            "link": "https://www.google.com/search?q=online+guitars&shoprs=CAEYEioHZ3VpdGFyczIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBJ6BAgUEGQ",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=online+guitars&safe=active"
+            "position": 27,
+            "title": "Rogue Acoustic Guitar - Cutaway -Natural Color | Color: Yellow",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15030579380513836576",
+            "product_id": "15030579380513836576",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15030579380513836576",
+            "link": "https://www.mercari.com/us/item/m98303178774/?srsltid=AfmBOopv9pqUnDz_6rfNcCZL77JxUH00L6kOzwyBmj4OFwH-8jFbFCQNsNw",
+            "links": [
+                "https://www.mercari.com/us/item/m98303178774/?srsltid=AfmBOopv9pqUnDz_6rfNcCZL77JxUH00L6kOzwyBmj4OFwH-8jFbFCQNsNw"
+            ],
+            "source": "Mercari",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f720afd9c8d3e20fc315e3bd3f78644e82.png",
+            "price": "$96.00",
+            "extracted_price": 96,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Natural",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f746d04b8970511ff10beccbf62e5b9a37.webp",
+            "tag": "5% OFF",
+            "extensions": [
+                "5% OFF"
+            ]
         },
         {
-            "query": "Red",
-            "link": "https://www.google.com/search?q=red+guitars&shoprs=CAEYASoHZ3VpdGFyczITCAESA1JlZDoKCPq3bxCAuG8wAFjOlyFgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBN6BAgUEGU",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=red+guitars&safe=active"
+            "position": 28,
+            "title": "Ashthorpe Full-Size Dreadnought Cutaway Acoustic-Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/4868886588749015774?gl=us",
+            "product_id": "4868886588749015774",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4868886588749015774",
+            "link": "https://ashthorpe.com/products/41-inch-dreadnought-cutaway-acoustic-electric-guitar?utm_source=google&utm_medium=cpc&utm_campaign=Surface",
+            "links": [
+                "https://ashthorpe.com/products/41-inch-dreadnought-cutaway-acoustic-electric-guitar?utm_source=google&utm_medium=cpc&utm_campaign=Surface",
+                "https://www.amazon.com/Ashthorpe-Full-Size-Dreadnought-Cutaway-Acoustic-Electric/dp/B07NQR2S2G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3KUYHN7HI5ZSF",
+                "https://www.target.com/p/ashthorpe-full-size-cutaway-dreadnought-acoustic-electric-guitar-package-with-premium-tonewoods-brown/-/A-87849770?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Ashthorpe",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7d1bbb7fcdf4b1ff3d8719525f8a4863c.png",
+            "price": "$99.99",
+            "extracted_price": 99.99,
+            "rating": 4.7,
+            "reviews": 123,
+            "snippet": "6-string · Brown",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f793b42320cc5dff5f0336953d2a448e7a.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Store",
-            "link": "https://www.google.com/search?q=store+guitars&shoprs=CAEYEioHZ3VpdGFyczIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBR6BAgUEGY",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=store+guitars&safe=active"
+            "position": 29,
+            "title": "Rogue Guitar",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9708277512537570579",
+            "product_id": "9708277512537570579",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9708277512537570579",
+            "link": "https://www.ebay.com/itm/364769497813?chn=ps&mkevt=1&mkcid=28",
+            "links": [
+                "https://www.ebay.com/itm/364769497813?chn=ps&mkevt=1&mkcid=28"
+            ],
+            "source": "eBay",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7efd26fa3e8a403a77c4d6150798f2df0.png",
+            "price": "$80.00",
+            "extracted_price": 80,
+            "second_hand_condition": "pre-owned",
+            "snippet": "5-string · Blue",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f799ca9c2dadd26fac1b79771643f6bd7f.webp"
         },
         {
-            "query": "12-string",
-            "link": "https://www.google.com/search?q=12-string+guitars&shoprs=CAEYASoHZ3VpdGFyczIZCAESCTEyLXN0cmluZzoKCL65KxCQ0yswAFjOlyFgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBV6BAgUEGc",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=12-string+guitars&safe=active"
+            "position": 30,
+            "title": "Electric Acoustic Guitar 3/4 Size - 36 Inch Acoustic Electric Guitar Cutaway Acustica Guitarra Bundle for Beginners and Students, Spruce Top,",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17644066969837728849",
+            "product_id": "17644066969837728849",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17644066969837728849",
+            "link": "https://www.amazon.com/Acoustic-Electric-Acoustic-electric-Beginners-Vangoa/dp/B08DR4Q584?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A328H06FPJ7WA3",
+            "links": [
+                "https://www.amazon.com/Acoustic-Electric-Acoustic-electric-Beginners-Vangoa/dp/B08DR4Q584?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A328H06FPJ7WA3"
+            ],
+            "source": "Amazon.com - Seller",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f754b1832f876ff9ba9b13b7a649fbb20d.png",
+            "price": "$169.99",
+            "extracted_price": 169.99,
+            "rating": 5,
+            "reviews": 1,
+            "snippet": "6-string · Natural · Mini",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f766193f984d77bf8f5b40ebe84fa2c11f.webp",
+            "delivery": "Free delivery"
         },
         {
-            "query": "Acoustic-Electric",
-            "link": "https://www.google.com/search?q=acoustic-electric+guitars&shoprs=CAEYASoHZ3VpdGFyczIhCAESEUFjb3VzdGljLUVsZWN0cmljOgoIp7E4ELGbOzAAWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBZ6BAgUEGg",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic-electric+guitars&safe=active"
+            "position": 31,
+            "title": "Mitchell T231CE Mahogany Dreadnought Acoustic-Electric Cutaway Guitar",
+            "product_link": "https://www.google.com/shopping/product/5998562124714485103?gl=us",
+            "product_id": "5998562124714485103",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5998562124714485103",
+            "link": "https://www.guitarcenter.com/Mitchell/T231CE-Mahogany-Dreadnought-Acoustic-Electric-Cutaway-Guitar-1500000324121.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqJz9rmw7_t_6J-XTQJn2dPUabi7H7Iw2bu_I7VIvf3pJHcPguMUeQ",
+            "links": [
+                "https://www.guitarcenter.com/Mitchell/T231CE-Mahogany-Dreadnought-Acoustic-Electric-Cutaway-Guitar-1500000324121.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqJz9rmw7_t_6J-XTQJn2dPUabi7H7Iw2bu_I7VIvf3pJHcPguMUeQ",
+                "https://www.walmart.com/ip/Mitchell-T231CE-Mahogany-Dreadnought-Acoustic-Electric-Cutaway-Guitar/448022293?wmlspartner=wlpa&selectedSellerId=101011391",
+                "https://www.musiciansfriend.com/guitars/mitchell-t231ce-mahogany-dreadnought-acoustic-electric-cutaway-guitar/l75291000000000?cntry=US&cur=USD&utm_content=L75291000000000--Mitchell%20T231CE%20Mahogany%20Dreadnought%20Acoustic-Electric%20Cutaway%20Guitar&srsltid=AfmBOoo7P05LVKCdx99c9VwxO82YKKVTOKj_F1-LDn89tGJPXOgrwKqTuqg"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Guitar Center",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f775754ab06379541912078945fa0998c2.png",
+            "price": "$219.99",
+            "extracted_price": 219.99,
+            "rating": 4,
+            "reviews": 6,
+            "snippet": "6-string · Mahogany, Brown",
+            "extensions": [
+                "45-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7a601802c5fea6d7b2aa20b957f985945.webp",
+            "delivery": "Free by 10/23"
         },
         {
-            "query": "Acoustic",
-            "link": "https://www.google.com/search?q=acoustic+guitars&shoprs=CAEYASoHZ3VpdGFyczIYCAESCEFjb3VzdGljOgoIp7E4EKSjOzAAWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBd6BAgUEGk",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=acoustic+guitars&safe=active"
+            "position": 32,
+            "title": "Acoustic / Electric Cutaway Style Guitar - Natural",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2348744751519495433",
+            "product_id": "2348744751519495433",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2348744751519495433",
+            "link": "https://zenison.com/products/thin-line-sg-acoustic-electric-double-cutaway-guitar",
+            "links": [
+                "https://zenison.com/products/thin-line-sg-acoustic-electric-double-cutaway-guitar"
+            ],
+            "source": "Zenison",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f782ade6f9733f4d6d2b1ca5ec97417316.png",
+            "price": "$145.99",
+            "extracted_price": 145.99,
+            "snippet": "6-string · Natural",
+            "extensions": [
+                "30-day returns"
+            ],
+            "badge": "Small business",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f726b6527acc32da9a5329ebd135c4b3a8.webp",
+            "delivery": "Free 3-day"
         },
         {
-            "query": "Left Handed",
-            "link": "https://www.google.com/search?q=left+handed+guitars&shoprs=CAEYASoHZ3VpdGFyczIbCAESC0xlZnQgSGFuZGVkOgoIoM8rEKHPKzADWM6XIWAB&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBh6BAgUEGo",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=left+handed+guitars&safe=active"
+            "position": 33,
+            "title": "Santa Cruz D Rosewood Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/17504838100634062760?gl=us",
+            "product_id": "17504838100634062760",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17504838100634062760",
+            "link": "https://www.elderly.com/products/santa-cruz-d-rosewood-1996",
+            "links": [
+                "https://www.elderly.com/products/santa-cruz-d-rosewood-1996"
+            ],
+            "source": "Elderly Instruments",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7789449a5a64fbe83253f7a8119ce1ce8.png",
+            "price": "$3,995.00",
+            "extracted_price": 3995,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Ebony",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7c0e62746d9101a6bd1f841e6c51a3ee1.webp"
         },
         {
-            "query": "Fender",
-            "link": "https://www.google.com/search?q=fender+guitars&shoprs=CAEYASoHZ3VpdGFyczIWCAESBkZlbmRlcjoKCIPzPBCN6j0wAVjOlyFgAQ&sa=X&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Qip4GKBl6BAgUEGs",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=fender+guitars&safe=active"
+            "position": 34,
+            "title": "Jason Aldean Signed Rogue Dreadnought Ra-090-na 41\" Acoustic Guitar -",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3580079316813085224",
+            "product_id": "3580079316813085224",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3580079316813085224",
+            "link": "https://www.ebay.com/itm/295196679811?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoo8TpYrRX80tPHLVJKs3mp8vMsE_B7q0aTh7f-l2HaNHHj4qnCcbH0",
+            "links": [
+                "https://www.ebay.com/itm/295196679811?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoo8TpYrRX80tPHLVJKs3mp8vMsE_B7q0aTh7f-l2HaNHHj4qnCcbH0"
+            ],
+            "source": "eBay - athlonsportscollectibles",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7135f8665a9f36721d55453c0c048ea09.png",
+            "price": "$1,398.95",
+            "extracted_price": 1398.95,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string · Black",
+            "extensions": [
+                "Free 30-day returns"
+            ],
+            "badge": "Small business",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7eacd919f2b1dfaa3cb53dc274429795c.webp"
+        },
+        {
+            "position": 35,
+            "title": "Epiphone DR-100 Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/2380085386793819905?gl=us",
+            "product_id": "2380085386793819905",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2380085386793819905",
+            "link": "https://www.amazon.com/Epiphone-DR-100-Acoustic-Guitar-Ebony/dp/B0002D02J4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2FV1C0FXPI98L",
+            "links": [
+                "https://www.amazon.com/Epiphone-DR-100-Acoustic-Guitar-Ebony/dp/B0002D02J4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2FV1C0FXPI98L",
+                "https://www.sweetwater.com/store/detail/EA10EBCH--epiphone-dr-100-ebony?srsltid=AfmBOoqumH9tA0n8lrwXQFqNAFU7jCU220lcjJSW2oLS4tOEfgDh8Dr6d9w",
+                "https://www.guitarcenter.com/Epiphone/DR-100-Acoustic-Guitar-Black-1275761455240.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOopXDqlTDIid51DU2JELu_fr9YLNc2ISXlj41SFrBVSIsIvB6T2wVlc"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com - Seller",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7c3d0364c732dc0e72776bd2b36e4dc3f.png",
+            "price": "$169.00",
+            "extracted_price": 169,
+            "rating": 4.6,
+            "reviews": 786,
+            "snippet": "Good sound quality (100 user reviews)",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f77d01c2034b585b2a6bae2add30c5eddf.webp",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 36,
+            "title": "Jasmine JD39CE-BLK Dreadnought Acoustic Electric Guitar",
+            "product_link": "https://www.google.com/shopping/product/17797370868983718051?gl=us",
+            "product_id": "17797370868983718051",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17797370868983718051",
+            "link": "https://www.guitarcenter.com/Jasmine/JD-39-Dreadnought-Acoustic-Electric-Guitar-Natural-1374244623407.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOorevPuoSDzFSRNRLPvxZJpPvK0I9h7lPpiF5G4t6NwS8y-zWKAI1SQ",
+            "links": [
+                "https://www.guitarcenter.com/Jasmine/JD-39-Dreadnought-Acoustic-Electric-Guitar-Natural-1374244623407.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOorevPuoSDzFSRNRLPvxZJpPvK0I9h7lPpiF5G4t6NwS8y-zWKAI1SQ",
+                "https://www.musiciansfriend.com/guitars/jasmine-jd-39-dreadnought-acoustic-electric-guitar/j00087000003000?cntry=US&cur=USD&utm_content=J00087000003000--Jasmine%20JD-39%20Dreadnought%20Acoustic-Electric%20Guitar%20Natural&srsltid=AfmBOooa4abNI5OofEdlLNNzicmn_kgsnWq9BLVrqj7y_HAw_J4B2k6znyQ",
+                "https://www.jwpepper.com/Dreadnought-Acoustic-Electric-Guitar-with-Hardshell-Case/11540064.item?srsltid=AfmBOoqsn2LOOchH8pMj6AGcNGC1VbIaBsVp9mb1cERRke3H3zuzpDdymGM"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Guitar Center",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f79b41f413d0f429db4f94ce44ea70153b.png",
+            "price": "$399.00",
+            "extracted_price": 399,
+            "rating": 5,
+            "reviews": 1,
+            "snippet": "6-string · Black, Natural",
+            "extensions": [
+                "45-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7277775765348a506976de9ca261daa9a.webp",
+            "delivery": "Free by 10/23"
+        },
+        {
+            "position": 37,
+            "title": "Rogue So-069-RAG-WL",
+            "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2436937104654938277",
+            "product_id": "2436937104654938277",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2436937104654938277",
+            "link": "https://reverb.com/item/82809300-rogue-so-069-rag-wl?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google",
+            "links": [
+                "https://reverb.com/item/82809300-rogue-so-069-rag-wl?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google"
+            ],
+            "source": "Reverb",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f76f6fa98fb8f51a68ce55d904cfaea1ea.png",
+            "price": "$150.00",
+            "extracted_price": 150,
+            "second_hand_condition": "pre-owned",
+            "snippet": "6-string",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f78b97355ce15fe33b5b3f675b35af257d.webp"
+        },
+        {
+            "position": 38,
+            "title": "Best Choice Products 41in Full Size Acoustic Electric Cutaway Guitar Set",
+            "product_link": "https://www.google.com/shopping/product/16130217692963445096?gl=us",
+            "product_id": "16130217692963445096",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16130217692963445096",
+            "link": "https://www.target.com/p/best-choice-products-beginner-acoustic-electric-guitar-starter-set-41in-w-all-wood-cutaway-design-case-natural/-/A-83228746?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+            "links": [
+                "https://www.target.com/p/best-choice-products-beginner-acoustic-electric-guitar-starter-set-41in-w-all-wood-cutaway-design-case-natural/-/A-83228746?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-5",
+                "https://www.amazon.com/Best-Choice-Products-Instrument-Amplifier/dp/B07L8L7J47?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2GUMCXR7HBXM2",
+                "https://www.walmart.com/ip/Best-Choice-Products-Beginner-Acoustic-Electric-Guitar-Starter-Set-41in-w-All-Wood-Cutaway-Design-Case-Natural/575883875?wmlspartner=wlpa&selectedSellerId=1381"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Target",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7e52261ccb2e49d0682161733c71a96b0.png",
+            "price": "$119.99",
+            "extracted_price": 119.99,
+            "old_price": "$273",
+            "extracted_old_price": 273,
+            "rating": 4.2,
+            "reviews": 253,
+            "snippet": "6-string · Black, Natural, Sunburst, Blue",
+            "extensions": [
+                "Free 90-day returns",
+                "56% OFF"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7d97da19462aeeb3348f61de3beed527b.webp",
+            "tag": "56% OFF",
+            "delivery": "Free 3-day"
+        },
+        {
+            "position": 39,
+            "title": "Rogue Starter Acoustic Guitar",
+            "product_link": "https://www.google.com/shopping/product/9003924858628122466?gl=us",
+            "product_id": "9003924858628122466",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9003924858628122466",
+            "link": "https://www.musicarts.com/rogue-starter-acoustic-guitar-main0044536?pr_rd_page=2",
+            "links": [
+                "https://www.musicarts.com/rogue-starter-acoustic-guitar-main0044536?pr_rd_page=2",
+                "https://www.walmart.com/ip/Rogue-Starter-Acoustic-Guitar-Matte-Natural/24213194?wmlspartner=wlpa&selectedSellerId=101227536"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Music & Arts",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f785f0a9bb6b72eb691534c1c6e6b1e4e5.png",
+            "price": "$79.99",
+            "extracted_price": 79.99,
+            "rating": 4.3,
+            "reviews": 1000,
+            "snippet": "Stays in tune (87 user reviews)",
+            "extensions": [
+                "30-day returns"
+            ],
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f702e045b5acb640fc372a1e999f44609a.webp",
+            "delivery": "Free by 10/24"
+        },
+        {
+            "position": 40,
+            "title": "Thin-Line Acoustic / Electric Double Cutaway Guitar",
+            "product_link": "https://www.google.com/shopping/product/10265816921471633441?gl=us",
+            "product_id": "10265816921471633441",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10265816921471633441",
+            "link": "https://www.amazon.com/Thin-Line-ACOUSTIC-ELECTRIC-Double-Cutaway/dp/B001MXHLUQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9XQK5UQOQCCY",
+            "links": [
+                "https://www.amazon.com/Thin-Line-ACOUSTIC-ELECTRIC-Double-Cutaway/dp/B001MXHLUQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9XQK5UQOQCCY",
+                "https://www.ebay.com/itm/256506549797?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOooVT7FRaB8jUMjlKhXqP9IcA-Owto7iEZ14WyyuVwe8OwsmnIDIdog",
+                "https://www.bonanza.com/listings/Guitar-Acoustic-Electric-Thin-Line-Solid-Double-Cutaway/1628503223?goog_pla=1"
+            ],
+            "number_of_comparisons": "& more",
+            "source": "Amazon.com - Seller",
+            "source_icon": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f775d5dff47aa7b9554644fa9cf21e65b9.png",
+            "price": "$167.99",
+            "extracted_price": 167.99,
+            "snippet": "6-string · Natural",
+            "thumbnail": "https://serpapi.com/searches/670f0db5240793cb6500d24b/images/931166e43e59c3f28107508e6bd271f7474f433b794c7a48299d67b82aa72b98.webp",
+            "delivery": "Free delivery"
         }
     ],
     "pagination": {
-        "current": 1,
-        "next": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=5&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8NMDegQICBAW",
-        "other_pages": {
-            "2": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=5&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAE",
-            "3": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=10&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAG",
-            "4": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=15&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAI",
-            "5": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=20&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAK",
-            "6": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=25&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAM",
-            "7": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=30&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAO",
-            "8": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=35&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAQ",
-            "9": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=40&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAS",
-            "10": "https://www.google.com/search?q=guitars&num=5&safe=active&sca_esv=1da11bb882cbd233&ei=9ZcNZ5WKOJKf5NoPz4eh-AQ&start=45&sa=N&sstk=Aagrsujm7FES1UTAwiVn6cpaJPYmsiQOPwTVk5ooZKSSFk8YFQD-SfgFddscey7WLBcK9HMlEyhpxwi_Ex-MROw_MrIWkJ2fdmgKSg&ved=2ahUKEwjV2PDf8o6JAxWSD1kFHc9DCE8Q8tMDegQICBAU"
-        }
+        "next": "https://www.google.com/search?q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar&num=5&sca_esv=d161937f2a63904d&udm=28&ei=tQ0PZ-ecJpmawbkPqYPkgAE&start=20&sa=N"
     },
     "serpapi_pagination": {
-        "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
-        "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=5",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=10",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=15",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=20",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=25",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=30",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=35",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=40",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=5&q=guitars&safe=active&start=45"
-        }
+        "next_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Rogue+RA-090+Dreadnought+Cutaway+Acoustic-Electric+Guitar&start=20"
     }
 }
