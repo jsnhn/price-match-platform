@@ -2,13 +2,13 @@
     display: flex;              
     justify-content: center;    
     align-items: center;        
-    gap: 20px;                  
-    margin-top: 300px;           
+    gap: 20px;                           
 }
 
 .amazon-logo {
-    margin-top: 1%;
-    width: 100px;          
+    position: relative;
+    top: 252px;
+    width: 100px;
 }
 
 .reverb-logo {
