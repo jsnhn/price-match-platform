@@ -1,26 +1,22 @@
 .searchForm {
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 21%;
 }
 
 .search-button {
-    margin: 1vmin;
-    padding: 1vmin;
+    margin: 10px; /* Fixed margin */
+    padding: 10px 20px; /* Fixed padding for better control */
     color: var(--white);
     background-color: var(--orange);
-    font-size: 2vmin;
+    font-size: 16px; /* Fixed font size */
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    border: .1vmin solid var(--tan-2);
-    border-radius: .5vmin;
+    border: 2px solid var(--tan-2); /* Fixed border width */
+    border-radius: 5px; /* Fixed border radius */
     outline: none;
     cursor: pointer;
     color: white;
 }
-
